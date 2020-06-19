@@ -1,0 +1,936 @@
+{
+	"id": 569,
+	"type_id": 103,
+	"attribute_id": 3,
+	"name": "Abellio",
+	"class_id": 3,
+	"grade": 5,
+	"devilmon_req": null,
+	"advanced": 0,
+	"icon_path": "https://cdn.sw-db.com/sw/summon/icon/std/icon-abellio.png",
+	"screenshot_path": null,
+	"icon_path_awakened": "https://cdn.sw-db.com/sw/summon/icon/awaken/icon-abellio.png",
+	"screenshot_path_awakened": null,
+	"last_update": "2020-04-23 11:06:19",
+	"last_updater": 1,
+	"last_update_ts": "1587632779",
+	"count": {
+		"reviews": 0,
+		"favorites": 20,
+		"awakenings": 4,
+		"abilities": 0,
+		"skills": 9,
+		"stats": 8,
+		"same_as": 4,
+		"fusion": 0,
+		"material_fusion": 0,
+		"language_comments": {
+			"FR": 0,
+			"EN": 0,
+			"OTHER": 0
+		},
+		"comments": 0,
+		"location": 4,
+		"teams": 0
+	},
+	"attribute": {
+		"id": 3,
+		"tid": "WATER"
+	},
+	"type": {
+		"id": 103,
+		"tid": "DRUID"
+	},
+	"class": {
+		"id": 3,
+		"tid": "DEFENSE"
+	},
+	"name_translation": {
+		"EN": "Abellio"
+	},
+	"reviews_summary": null,
+	"rating": {
+		"users": 7,
+		"overall": null
+	},
+	"higher_rating": {
+		"key": "users",
+		"value": 7,
+		"cat": "users"
+	},
+	"users_rating": {
+		"list": [
+			{
+				"user_id": "20965",
+				"summon_id": "569",
+				"overall_rating": "1",
+				"giants": "1",
+				"dragons": "1",
+				"necropolis": "1",
+				"toa": "1",
+				"toa_hm": "1",
+				"arena_offense": "1",
+				"arena_defense": "1",
+				"guildwar_offense": "1",
+				"guildwar_defense": "1",
+				"raid": "1",
+				"maze": null,
+				"user_name": "Feeble",
+				"name": "Feeble",
+				"avatar": "https://cdn.sw-db.com/sw/upload/user/20965//avatar.jpg",
+				"contrib": "66"
+			},
+			{
+				"user_id": "21647",
+				"summon_id": "569",
+				"overall_rating": "10",
+				"giants": "7",
+				"dragons": "8",
+				"necropolis": "8",
+				"toa": "7",
+				"toa_hm": "7",
+				"arena_offense": "6",
+				"arena_defense": "10",
+				"guildwar_offense": "6",
+				"guildwar_defense": "10",
+				"raid": "8",
+				"maze": null,
+				"user_name": "Valentin Mimoun-Massé",
+				"name": "Valentin Mimoun-Massé",
+				"avatar": "",
+				"contrib": "5"
+			},
+			{
+				"user_id": "12337",
+				"summon_id": "569",
+				"overall_rating": "9",
+				"giants": "8",
+				"dragons": "8",
+				"necropolis": "8",
+				"toa": "8",
+				"toa_hm": "8",
+				"arena_offense": "10",
+				"arena_defense": "10",
+				"guildwar_offense": "10",
+				"guildwar_defense": "10",
+				"raid": "8",
+				"maze": null,
+				"user_name": "Anthonin Romeo",
+				"name": "Anthonin Romeo",
+				"avatar": "",
+				"contrib": "585"
+			},
+			{
+				"user_id": "24184",
+				"summon_id": "569",
+				"overall_rating": "9",
+				"giants": "10",
+				"dragons": "7",
+				"necropolis": "6",
+				"toa": "10",
+				"toa_hm": "7",
+				"arena_offense": "9",
+				"arena_defense": "10",
+				"guildwar_offense": "7",
+				"guildwar_defense": "10",
+				"raid": "9",
+				"maze": null,
+				"user_name": "TobiBiotex",
+				"name": "TobiBiotex",
+				"avatar": "",
+				"contrib": "13"
+			}
+		],
+		"overall": {
+			"giants": 7,
+			"dragons": 6,
+			"necropolis": 6,
+			"toa": 7,
+			"toa_hm": 6,
+			"arena_offense": 7,
+			"arena_defense": 8,
+			"guildwar_offense": 6,
+			"guildwar_defense": 8,
+			"overall_rating": 7,
+			"raid": 7,
+			"categories": {
+				"dungeon": 7,
+				"toa": 7,
+				"arena": 8,
+				"gvg": 6
+			}
+		}
+	},
+	"users_favorite": [
+		{
+			"user_id": "178",
+			"user_name": "Sébastien Auliac",
+			"avatar": null,
+			"contrib": "1251"
+		},
+		{
+			"user_id": "7265",
+			"user_name": "Maximilien",
+			"avatar": null,
+			"contrib": "78"
+		},
+		{
+			"user_id": "12294",
+			"user_name": "Waide",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/12294/vuevfu46[1].jpg",
+			"contrib": "340"
+		},
+		{
+			"user_id": "16957",
+			"user_name": "Thomas Rosselin",
+			"avatar": null,
+			"contrib": "137"
+		},
+		{
+			"user_id": "20341",
+			"user_name": "Sarah Bour",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/20341//avatar.jpg",
+			"contrib": "92"
+		},
+		{
+			"user_id": "21261",
+			"user_name": "Joris Atoch",
+			"avatar": null,
+			"contrib": "2"
+		},
+		{
+			"user_id": "21291",
+			"user_name": "kevin gales",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/21291//avatar.jpg",
+			"contrib": "10"
+		},
+		{
+			"user_id": "21953",
+			"user_name": "Corentin Thib",
+			"avatar": null,
+			"contrib": "128"
+		},
+		{
+			"user_id": "8424",
+			"user_name": "Naï",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/8424/Logo-Naï.png",
+			"contrib": "538"
+		},
+		{
+			"user_id": "23278",
+			"user_name": "Pedro Ogawa",
+			"avatar": null,
+			"contrib": "56"
+		},
+		{
+			"user_id": "24088",
+			"user_name": "Hervé DUPE",
+			"avatar": null,
+			"contrib": "274"
+		},
+		{
+			"user_id": "24184",
+			"user_name": "TobiBiotex",
+			"avatar": null,
+			"contrib": "13"
+		},
+		{
+			"user_id": "24674",
+			"user_name": "Anthony Bernard",
+			"avatar": null,
+			"contrib": "24"
+		},
+		{
+			"user_id": "24766",
+			"user_name": "Isaiah Stark",
+			"avatar": null,
+			"contrib": "118"
+		},
+		{
+			"user_id": "24510",
+			"user_name": "victor souza",
+			"avatar": null,
+			"contrib": "72"
+		},
+		{
+			"user_id": "20771",
+			"user_name": "Alexandre Pitois",
+			"avatar": null,
+			"contrib": "0"
+		},
+		{
+			"user_id": "4387",
+			"user_name": "Gaths",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/4387/Kusuriuri.full.1021476.jpg",
+			"contrib": "171"
+		},
+		{
+			"user_id": "3989",
+			"user_name": "Anjerikku",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/3989/2b8fd512b24c5684c92563423cf02412.jpg",
+			"contrib": "192"
+		},
+		{
+			"user_id": "25501",
+			"user_name": "Nafe Heydari",
+			"avatar": null,
+			"contrib": "0"
+		},
+		{
+			"user_id": "19232",
+			"user_name": "Antoine Dps",
+			"avatar": null,
+			"contrib": "14"
+		}
+	],
+	"awakenings": [
+		{
+			"summon_id": 569,
+			"attribute_id": 3,
+			"size": "HIGH",
+			"quantity": 20,
+			"attribute": {
+				"id": 3,
+				"tid": "WATER"
+			}
+		},
+		{
+			"summon_id": 569,
+			"attribute_id": 3,
+			"size": "MID",
+			"quantity": 10,
+			"attribute": {
+				"id": 3,
+				"tid": "WATER"
+			}
+		},
+		{
+			"summon_id": 569,
+			"attribute_id": 6,
+			"size": "HIGH",
+			"quantity": 15,
+			"attribute": {
+				"id": 6,
+				"tid": "MAGIC"
+			}
+		},
+		{
+			"summon_id": 569,
+			"attribute_id": 6,
+			"size": "MID",
+			"quantity": 5,
+			"attribute": {
+				"id": 6,
+				"tid": "MAGIC"
+			}
+		}
+	],
+	"skills": [
+		{
+			"id": 27959,
+			"translate_id": "ABELLIO.TOUCH_OF_PUNISHMENT_(BEAST_FORM)",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.touch_of_punishment_(beast_form).jpg",
+			"modifier": "380%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.TOUCH_OF_PUNISHMENT_(BEAST_FORM)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Touch of Punishment (Beast Form)"
+				}
+			],
+			"name": "Touch of Punishment (Beast Form)",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.TOUCH_OF_PUNISHMENT_(BEAST_FORM)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks an enemy and stuns the target for 1 turn with a 35% chance."
+				}
+			],
+			"desc": "Attacks an enemy and stuns the target for 1 turn with a 35% chance.",
+			"evolve_translates": [
+				{
+					"id": "ABELLIO.TOUCH_OF_PUNISHMENT_(BEAST_FORM)",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%"
+				}
+			],
+			"evolve": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%"
+		},
+		{
+			"id": 28053,
+			"translate_id": "ABELLIO.WILD_BLOW_(BEAST_FORM)",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.wild_blow_(beast_form).jpg",
+			"modifier": "400%+400%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.WILD_BLOW_(BEAST_FORM)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Wild Blow (Beast Form)"
+				}
+			],
+			"name": "Wild Blow (Beast Form)",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.WILD_BLOW_(BEAST_FORM)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks an enemy to inflict damage that increases according to your Defense and recovers 30% of the inflicted damage as HP. In addition, when used in Beast Form, the damage you inflict will be increased by 20% and then transforms into Druid Form. (Reusable in 3 turns)"
+				}
+			],
+			"desc": "Attacks an enemy to inflict damage that increases according to your Defense and recovers 30% of the inflicted damage as HP. In addition, when used in Beast Form, the damage you inflict will be increased by 20% and then transforms into Druid Form. (Reusable in 3 turns)",
+			"evolve_translates": [
+				{
+					"id": "ABELLIO.WILD_BLOW_(BEAST_FORM)",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Damage +5%<br/>Lv.3 Damage +10%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +15%<br/>Lv.6 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Damage +5%<br/>Lv.3 Damage +10%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +15%<br/>Lv.6 Cooltime Turn -1"
+		},
+		{
+			"id": 28054,
+			"translate_id": "ABELLIO.WILD_CURE_(BEAST_FORM)",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.wild_cure_(beast_form).jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.WILD_CURE_(BEAST_FORM)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Wild Cure (Beast Form)"
+				}
+			],
+			"name": "Wild Cure (Beast Form)",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.WILD_CURE_(BEAST_FORM)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Recovers HP of all allies by 30%. In addition, when used in Druid Form, increases Attack Bar of all allies by 15% and then transforms into Beast Form to Provoke all enemies for 1 turn with a 50% chance. (Reusable in 5 turns)"
+				}
+			],
+			"desc": "Recovers HP of all allies by 30%. In addition, when used in Druid Form, increases Attack Bar of all allies by 15% and then transforms into Beast Form to Provoke all enemies for 1 turn with a 50% chance. (Reusable in 5 turns)",
+			"evolve_translates": [
+				{
+					"id": "ABELLIO.WILD_CURE_(BEAST_FORM)",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Recovery +5%<br/>Lv.3 Recovery +10%<br/>Lv.4 Recovery +15%<br/>Lv.5 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Recovery +5%<br/>Lv.3 Recovery +10%<br/>Lv.4 Recovery +15%<br/>Lv.5 Cooltime Turn -1"
+		},
+		{
+			"id": 27957,
+			"translate_id": "ABELLIO.WILD_CURE",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.wild_cure.jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.WILD_CURE",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Wild Cure"
+				}
+			],
+			"name": "Wild Cure",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.WILD_CURE",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Recovers the HP of all allies by 30%. In addition, when used in Druid Form, increases the Attack Bar of all allies by 15% and then transforms into Beast Form to Provoke all enemies for 1 turn with a 50% chance. (Reusable in 5 turns)"
+				}
+			],
+			"desc": "Recovers the HP of all allies by 30%. In addition, when used in Druid Form, increases the Attack Bar of all allies by 15% and then transforms into Beast Form to Provoke all enemies for 1 turn with a 50% chance. (Reusable in 5 turns)",
+			"evolve_translates": [
+				{
+					"id": "ABELLIO.WILD_CURE",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Recovery +5%<br/>Lv.3 Recovery +10%<br/>Lv.4 Recovery +15%<br/>Lv.5 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Recovery +5%<br/>Lv.3 Recovery +10%<br/>Lv.4 Recovery +15%<br/>Lv.5 Cooltime Turn -1"
+		},
+		{
+			"id": 27956,
+			"translate_id": "ABELLIO.WILD_BLOW",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.wild_blow.jpg",
+			"modifier": "400%+400%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.WILD_BLOW",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Wild Blow"
+				}
+			],
+			"name": "Wild Blow",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.WILD_BLOW",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks an enemy to inflict damage that increases according to your Defense and recovers 30% of the inflicted damage as HP. In addition, when used in Beast Form, the damage you inflict will be increased by 20% and then transforms into Druid Form. (Reusable in 3 turns)"
+				}
+			],
+			"desc": "Attacks an enemy to inflict damage that increases according to your Defense and recovers 30% of the inflicted damage as HP. In addition, when used in Beast Form, the damage you inflict will be increased by 20% and then transforms into Druid Form. (Reusable in 3 turns)",
+			"evolve_translates": [
+				{
+					"id": "ABELLIO.WILD_BLOW",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Damage +5%<br/>Lv.3 Damage +10%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +15%<br/>Lv.6 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Damage +5%<br/>Lv.3 Damage +10%<br/>Lv.4 Damage +10%<br/>Lv.5 Damage +15%<br/>Lv.6 Cooltime Turn -1"
+		},
+		{
+			"id": 27955,
+			"translate_id": "ABELLIO.TOUCH_OF_PUNISHMENT",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.touch_of_punishment.jpg",
+			"modifier": "380%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.TOUCH_OF_PUNISHMENT",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Touch of Punishment"
+				}
+			],
+			"name": "Touch of Punishment",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.TOUCH_OF_PUNISHMENT",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks an enemy and stuns the target for 1 turn with a 35% chance."
+				}
+			],
+			"desc": "Attacks an enemy and stuns the target for 1 turn with a 35% chance.",
+			"evolve_translates": [
+				{
+					"id": "ABELLIO.TOUCH_OF_PUNISHMENT",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%"
+				}
+			],
+			"evolve": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%"
+		},
+		{
+			"id": 27958,
+			"translate_id": "ABELLIO.DRUID'S_WIT_(PASSIVE)",
+			"type": "PASSIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.druid's_wit_(passive).jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.DRUID'S_WIT_(PASSIVE)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Druid's Wit (Passive) (Awakened)"
+				}
+			],
+			"name": "Druid's Wit (Passive) (Awakened)",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.DRUID'S_WIT_(PASSIVE)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Increases your Attack Bar by 100% if another ally's HP falls below 30% from an attack. [Automatic Effect]"
+				}
+			],
+			"desc": "Increases your Attack Bar by 100% if another ally's HP falls below 30% from an attack. [Automatic Effect]"
+		},
+		{
+			"id": 28055,
+			"translate_id": "ABELLIO.ENDURANCE_OF_BEAST_(PASSIVE)_(BEAST_FORM)",
+			"type": "PASSIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.endurance_of_beast_(passive)_(beast_form).jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.ENDURANCE_OF_BEAST_(PASSIVE)_(BEAST_FORM)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Endurance of Beast (Passive) (Beast Form)"
+				}
+			],
+			"name": "Endurance of Beast (Passive) (Beast Form)",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.ENDURANCE_OF_BEAST_(PASSIVE)_(BEAST_FORM)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Increases your Attack Bar by 15% when you're attacked. Also recovers the HP of all allies by 10% every turn. [Automatic Effect]"
+				}
+			],
+			"desc": "Increases your Attack Bar by 15% when you're attacked. Also recovers the HP of all allies by 10% every turn. [Automatic Effect]"
+		},
+		{
+			"id": 27977,
+			"translate_id": "ABELLIO.ENDURANCE_OF_BEAST_(PASSIVE)",
+			"type": "PASSIVE",
+			"icon_path": "https://cdn.sw-db.com/sw/skill/icon/skill-abellio.endurance_of_beast_(passive).jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ABELLIO.ENDURANCE_OF_BEAST_(PASSIVE)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Endurance of Beast (Passive)"
+				}
+			],
+			"name": "Endurance of Beast (Passive)",
+			"desc_translates": [
+				{
+					"id": "ABELLIO.ENDURANCE_OF_BEAST_(PASSIVE)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Increases your Attack Bar by 15% when you're attacked by an enemy. [Automatic Effect]"
+				}
+			],
+			"desc": "Increases your Attack Bar by 15% when you're attacked by an enemy. [Automatic Effect]"
+		}
+	],
+	"stats": [
+		{
+			"summon_id": 569,
+			"grade": 5,
+			"level": 1,
+			"awakened": 0,
+			"atk": 280,
+			"hp": 4275,
+			"def": 290,
+			"spd": 98,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 569,
+			"grade": 5,
+			"level": 1,
+			"awakened": 1,
+			"atk": 299,
+			"hp": 4560,
+			"def": 323,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 569,
+			"grade": 5,
+			"level": 35,
+			"awakened": 0,
+			"atk": 476,
+			"hp": 7260,
+			"def": 492,
+			"spd": 98,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 569,
+			"grade": 5,
+			"level": 35,
+			"awakened": 1,
+			"atk": 509,
+			"hp": 7755,
+			"def": 549,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 569,
+			"grade": 6,
+			"level": 1,
+			"awakened": 0,
+			"atk": 381,
+			"hp": 5805,
+			"def": 394,
+			"spd": 98,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 569,
+			"grade": 6,
+			"level": 1,
+			"awakened": 1,
+			"atk": 407,
+			"hp": 6195,
+			"def": 439,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 569,
+			"grade": 6,
+			"level": 40,
+			"awakened": 0,
+			"atk": 648,
+			"hp": 9885,
+			"def": 670,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 569,
+			"grade": 6,
+			"level": 40,
+			"awakened": 1,
+			"atk": 692,
+			"hp": 10545,
+			"def": 747,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		}
+	],
+	"statsfix": {
+		"0": {
+			"spd": "98",
+			"crit_rate": "15",
+			"crit_dmg": "50",
+			"res": "15",
+			"acc": "0"
+		},
+		"1": {
+			"spd": "99",
+			"crit_rate": "15",
+			"crit_dmg": "50",
+			"res": "15",
+			"acc": "0"
+		}
+	},
+	"same_as": [
+		{
+			"id": 568,
+			"name": "Bellenus",
+			"name_translation": {
+				"EN": "Bellenus"
+			},
+			"icon_path": "https://cdn.sw-db.com/sw/summon/icon/std/icon-bellenus.png",
+			"icon_path_awakened": "https://cdn.sw-db.com/sw/summon/icon/awaken/icon-bellenus.png",
+			"grade": 5,
+			"last_update_ts": "1587632777",
+			"type_id": 103,
+			"type": {
+				"tid": "DRUID"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 3,
+			"class": {
+				"tid": "DEFENSE"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 570,
+			"name": "Taranys",
+			"name_translation": {
+				"EN": "Taranys"
+			},
+			"icon_path": "https://cdn.sw-db.com/sw/summon/icon/std/icon-taranys.png",
+			"icon_path_awakened": "https://cdn.sw-db.com/sw/summon/icon/awaken/icon-taranys.png",
+			"grade": 5,
+			"last_update_ts": "1587632781",
+			"type_id": 103,
+			"type": {
+				"tid": "DRUID"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 3,
+			"class": {
+				"tid": "DEFENSE"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 571,
+			"name": "Valantis",
+			"name_translation": {
+				"EN": "Valantis"
+			},
+			"icon_path": "https://cdn.sw-db.com/sw/summon/icon/std/icon-valantis.png",
+			"icon_path_awakened": "https://cdn.sw-db.com/sw/summon/icon/awaken/icon-valantis.png",
+			"grade": 5,
+			"last_update_ts": "1587632783",
+			"type_id": 103,
+			"type": {
+				"tid": "DRUID"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 572,
+			"name": "Pater",
+			"name_translation": {
+				"EN": "Pater"
+			},
+			"icon_path": "https://cdn.sw-db.com/sw/summon/icon/std/icon-pater.png",
+			"icon_path_awakened": "https://cdn.sw-db.com/sw/summon/icon/awaken/icon-pater.png",
+			"grade": 5,
+			"last_update_ts": "1587632784",
+			"type_id": 103,
+			"type": {
+				"tid": "DRUID"
+			},
+			"attribute_id": 5,
+			"attribute": {
+				"tid": "DARK"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"reviews_summary": null
+		}
+	],
+	"all_comments": [],
+	"location": [
+		{
+			"summon_id": 569,
+			"location_id": 100,
+			"tid": "MYSTIC_SCROLL"
+		},
+		{
+			"summon_id": 569,
+			"location_id": 106,
+			"tid": "WATER_SCROLL"
+		},
+		{
+			"summon_id": 569,
+			"location_id": 108,
+			"tid": "LEGENDARY_SCROLL"
+		},
+		{
+			"summon_id": 569,
+			"location_id": 111,
+			"tid": "TEMPLE_OF_WISHES"
+		}
+	],
+	"radar": {
+		"summon": {
+			"atk": 1.02,
+			"hp": 1.06,
+			"def": 1.27,
+			"spd": 0.96,
+			"acc": 0,
+			"res": 0.88,
+			"crit_rate": 0.88,
+			"crit_dmg": 1,
+			"total": 4.31
+		},
+		"max": {
+			"atk": 1.62,
+			"hp": 1.55,
+			"def": 1.5,
+			"spd": 1.22,
+			"acc": 8.33,
+			"res": 2.35,
+			"crit_rate": 1.76,
+			"crit_dmg": 1
+		}
+	},
+	"rank_stats": {
+		"atk": "397",
+		"hp": "250",
+		"def": "28",
+		"spd": "5030",
+		"crit_rate": "6645",
+		"crit_dmg": "6625",
+		"res": "6640",
+		"acc": "6635"
+	},
+	"views": {
+		"count": 7788,
+		"last_view": "2020-06-18 06:32:07",
+		"last_view_ts": "1592454727"
+	},
+	"key": "SWDB-FullInfo-569-EN-r0,f0,a0,a0,s0,l0,s0,f0,r0,f0,c0,l0,r0,t0,v0,r0,f1,m0,n0-Protocol(HTTPS)-@@SUMMON@@",
+	"favorite": false
+}

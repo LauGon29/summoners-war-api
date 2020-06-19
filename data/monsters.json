@@ -1,0 +1,2745 @@
+{
+	"results": [
+		{
+			"id": 569,
+			"name": "Abellio",
+			"name_translation": {
+				"EN": "Abellio"
+			},
+			"icon_path": "https://cdn.sw-db.com/sw/summon/icon/std/icon-abellio.png",
+			"icon_path_awakened": "https://cdn.sw-db.com/sw/summon/icon/awaken/icon-abellio.png",
+			"grade": 5,
+			"last_update_ts": "1587632779",
+			"type_id": 103,
+			"type": {
+				"tid": "DRUID"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 3,
+			"class": {
+				"tid": "DEFENSE"
+			},
+			"rating": {
+				"users": 7,
+				"overall": null
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 6,
+					"necropolis": 6,
+					"toa": 7,
+					"toa_hm": 6,
+					"arena_offense": 7,
+					"arena_defense": 8,
+					"guildwar_offense": 6,
+					"guildwar_defense": 8,
+					"overall_rating": 7,
+					"raid": 7,
+					"categories": {
+						"dungeon": 7,
+						"toa": 7,
+						"arena": 8,
+						"gvg": 6
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 589,
+			"name": "Abigail",
+			"name_translation": {
+				"EN": "Abigail"
+			},
+			"icon_path": "https://cdn.sw-db.com/sw/summon/icon/std/icon-abigail.png",
+			"icon_path_awakened": "https://cdn.sw-db.com/sw/summon/icon/awaken/icon-abigail.png",
+			"grade": 4,
+			"last_update_ts": "1592266268",
+			"type_id": 108,
+			"type": {
+				"tid": "CANNON_GIRL"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"users": 8,
+				"overall": null
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 9,
+					"dragons": 8,
+					"necropolis": 9,
+					"toa": 8,
+					"toa_hm": 6,
+					"arena_offense": 7,
+					"arena_defense": 3,
+					"guildwar_offense": 7,
+					"guildwar_defense": 1,
+					"overall_rating": 8,
+					"raid": 1,
+					"categories": {
+						"dungeon": 7,
+						"toa": 7,
+						"arena": 5,
+						"gvg": 7
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 271,
+			"name": "Acasis",
+			"name_translation": {
+				"EN": "Acasis"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-acasis.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-acasis.png",
+			"grade": 4,
+			"last_update_ts": "1590363069",
+			"type_id": 49,
+			"type": {
+				"tid": "SYLPHID"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"giants": 10,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 6,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 6,
+				"guildwar_defense": 4,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 5,
+					"toa": 6,
+					"arena": 2,
+					"gvg": 5,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 10,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 9,
+					"dragons": 6,
+					"necropolis": 4,
+					"toa": 7,
+					"toa_hm": 5,
+					"arena_offense": 6,
+					"arena_defense": 7,
+					"guildwar_offense": 6,
+					"guildwar_defense": 6,
+					"overall_rating": 8,
+					"raid": 6,
+					"categories": {
+						"dungeon": 6,
+						"toa": 6,
+						"arena": 7,
+						"gvg": 6
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 4,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 4,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 50
+				}
+			},
+			"count": {
+				"abilities": 5
+			},
+			"abilities": [
+				{
+					"id": 6,
+					"tid": "BUFF.CR_PROTECT"
+				},
+				{
+					"id": 11,
+					"tid": "BUFF.SHIELD"
+				},
+				{
+					"id": 19,
+					"tid": "DEBUFF.DOT"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				},
+				{
+					"id": 33,
+					"tid": "CAP.HEAL"
+				}
+			]
+		},
+		{
+			"id": 511,
+			"name": "Adrian",
+			"name_translation": {
+				"EN": "Adrian"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-adrian.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-adrian.png",
+			"grade": 3,
+			"last_update_ts": "1590967878",
+			"type_id": 92,
+			"type": {
+				"tid": "ELVEN_RANGER"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"users": 6,
+				"overall": null
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 4,
+					"dragons": 5,
+					"necropolis": 9,
+					"toa": 5,
+					"toa_hm": 4,
+					"arena_offense": 5,
+					"arena_defense": 4,
+					"guildwar_offense": 6,
+					"guildwar_defense": 4,
+					"overall_rating": 6,
+					"raid": 5,
+					"categories": {
+						"dungeon": 6,
+						"toa": 5,
+						"arena": 5,
+						"gvg": 6
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 2,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 0,
+					"percent": 0
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 409,
+			"name": "Aegir",
+			"name_translation": {
+				"EN": "Aegir"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-aegir.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-aegir.png",
+			"grade": 4,
+			"last_update_ts": "1587632427",
+			"type_id": 74,
+			"type": {
+				"tid": "BARBARIC_KING"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 6,
+				"necropolis": 6,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 4,
+				"arena_defense": 2,
+				"guildwar_offense": 4,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 7,
+				"overall": {
+					"dungeon": 5,
+					"toa": 2,
+					"arena": 3,
+					"gvg": 3,
+					"users": 7
+				}
+			},
+			"higher_rating": {
+				"key": "dragons",
+				"value": 6,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 6,
+					"dragons": 7,
+					"necropolis": 5,
+					"toa": 6,
+					"toa_hm": 5,
+					"arena_offense": 7,
+					"arena_defense": 6,
+					"guildwar_offense": 8,
+					"guildwar_defense": 6,
+					"overall_rating": 7,
+					"raid": 6,
+					"categories": {
+						"dungeon": 6,
+						"toa": 6,
+						"arena": 7,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 2,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 2,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 19,
+					"tid": "DEBUFF.DOT"
+				},
+				{
+					"id": 31,
+					"tid": "CAP.INCREASE_ATB"
+				},
+				{
+					"id": 36,
+					"tid": "CAP.PURGE"
+				}
+			]
+		},
+		{
+			"id": 111,
+			"name": "Aeilene",
+			"name_translation": {
+				"EN": "Aeilene"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-aeilene.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-aeilene.png",
+			"grade": 2,
+			"last_update_ts": "1592177477",
+			"type_id": 14,
+			"type": {
+				"tid": "FAIRY"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 2,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 6,
+				"overall": {
+					"dungeon": 2,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 2,
+					"users": 6
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 2,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 5,
+					"dragons": 4,
+					"necropolis": 4,
+					"toa": 3,
+					"toa_hm": 3,
+					"arena_offense": 6,
+					"arena_defense": 3,
+					"guildwar_offense": 6,
+					"guildwar_defense": 5,
+					"overall_rating": 6,
+					"raid": 4,
+					"categories": {
+						"dungeon": 4,
+						"toa": 3,
+						"arena": 5,
+						"gvg": 6
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 1,
+					"percent": 50
+				},
+				"keep": {
+					"count": 1,
+					"percent": 50
+				},
+				"five_stars": {
+					"count": 0,
+					"percent": 0
+				},
+				"six_stars": {
+					"count": 0,
+					"percent": 0
+				}
+			},
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 24,
+					"tid": "DEBUFF.STUN"
+				},
+				{
+					"id": 30,
+					"tid": "CAP.CLEANSE"
+				},
+				{
+					"id": 33,
+					"tid": "CAP.HEAL"
+				}
+			]
+		},
+		{
+			"id": 244,
+			"name": "Ahman",
+			"name_translation": {
+				"EN": "Ahman"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-ahman.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-ahman.png",
+			"grade": 3,
+			"last_update_ts": "1589758264",
+			"type_id": 4,
+			"type": {
+				"tid": "BEARMAN"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"rating": {
+				"giants": 6,
+				"dragons": 6,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 6,
+				"arena_offense": 4,
+				"arena_defense": 4,
+				"guildwar_offense": 4,
+				"guildwar_defense": 4,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 5,
+					"toa": 6,
+					"arena": 4,
+					"gvg": 4,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 6,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 5,
+					"necropolis": 3,
+					"toa": 6,
+					"toa_hm": 6,
+					"arena_offense": 4,
+					"arena_defense": 6,
+					"guildwar_offense": 4,
+					"guildwar_defense": 6,
+					"overall_rating": 8,
+					"raid": 6,
+					"categories": {
+						"dungeon": 5,
+						"toa": 6,
+						"arena": 5,
+						"gvg": 4
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 1,
+					"percent": 25
+				},
+				"keep": {
+					"count": 3,
+					"percent": 75
+				},
+				"five_stars": {
+					"count": 3,
+					"percent": 75
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 50
+				}
+			},
+			"count": {
+				"abilities": 2
+			},
+			"abilities": [
+				{
+					"id": 21,
+					"tid": "DEBUFF.PROVOKE"
+				},
+				{
+					"id": 33,
+					"tid": "CAP.HEAL"
+				}
+			]
+		},
+		{
+			"id": 417,
+			"name": "Akhamamir",
+			"name_translation": {
+				"EN": "Akhamamir"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-akhamamir.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-akhamamir.png",
+			"grade": 5,
+			"last_update_ts": "1587942321",
+			"type_id": 71,
+			"type": {
+				"tid": "IFRIT"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 10,
+				"dragons": 4,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 4,
+				"arena_offense": 10,
+				"arena_defense": 4,
+				"guildwar_offense": 8,
+				"guildwar_defense": 4,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 5,
+					"toa": 4,
+					"arena": 7,
+					"gvg": 6,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 10,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 9,
+					"dragons": 4,
+					"necropolis": 4,
+					"toa": 8,
+					"toa_hm": 5,
+					"arena_offense": 9,
+					"arena_defense": 6,
+					"guildwar_offense": 9,
+					"guildwar_defense": 6,
+					"overall_rating": 8,
+					"raid": 6,
+					"maze": 8,
+					"categories": {
+						"dungeon": 6,
+						"toa": 7,
+						"arena": 8,
+						"gvg": 9
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 2,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 0,
+					"percent": 0
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 19,
+					"tid": "DEBUFF.DOT"
+				},
+				{
+					"id": 24,
+					"tid": "DEBUFF.STUN"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				}
+			]
+		},
+		{
+			"id": 202,
+			"name": "Akia",
+			"name_translation": {
+				"EN": "Akia"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-akia.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-akia.png",
+			"grade": 4,
+			"last_update_ts": "1587631973",
+			"type_id": 50,
+			"type": {
+				"tid": "SUCCUBUS"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 4,
+				"arena_defense": 2,
+				"guildwar_offense": 4,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 7,
+				"overall": {
+					"dungeon": 2,
+					"toa": 2,
+					"arena": 3,
+					"gvg": 3,
+					"users": 7
+				}
+			},
+			"higher_rating": {
+				"key": "arena_offense",
+				"value": 4,
+				"cat": "arena"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 4,
+					"necropolis": 4,
+					"toa": 5,
+					"toa_hm": 5,
+					"arena_offense": 5,
+					"arena_defense": 3,
+					"guildwar_offense": 5,
+					"guildwar_defense": 5,
+					"overall_rating": 7,
+					"raid": 4,
+					"maze": 8,
+					"categories": {
+						"dungeon": 5,
+						"toa": 5,
+						"arena": 4,
+						"gvg": 5
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 5
+			},
+			"abilities": [
+				{
+					"id": 22,
+					"tid": "DEBUFF.SLEEP"
+				},
+				{
+					"id": 25,
+					"tid": "DEBUFF.UNRECOVERABLE"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				},
+				{
+					"id": 31,
+					"tid": "CAP.INCREASE_ATB"
+				},
+				{
+					"id": 34,
+					"tid": "CAP.LIFE_LEECH"
+				}
+			]
+		},
+		{
+			"id": 298,
+			"name": "Akroma",
+			"name_translation": {
+				"EN": "Akroma"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-akroma.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-akroma.png",
+			"grade": 5,
+			"last_update_ts": "1587632217",
+			"type_id": 54,
+			"type": {
+				"tid": "VALKYRJA"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 3,
+			"class": {
+				"tid": "DEFENSE"
+			},
+			"rating": {
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": 8,
+				"arena_defense": 10,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"users": 9,
+				"overall": {
+					"arena": 9,
+					"users": 9
+				}
+			},
+			"higher_rating": {
+				"key": "arena_defense",
+				"value": 10,
+				"cat": "arena"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 9,
+					"dragons": 9,
+					"necropolis": 8,
+					"toa": 8,
+					"toa_hm": 8,
+					"arena_offense": 10,
+					"arena_defense": 10,
+					"guildwar_offense": 10,
+					"guildwar_defense": 9,
+					"overall_rating": 9,
+					"raid": 9,
+					"categories": {
+						"dungeon": 9,
+						"toa": 8,
+						"arena": 10,
+						"gvg": 10
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 2
+			},
+			"abilities": [
+				{
+					"id": 8,
+					"tid": "BUFF.IMMUNE"
+				},
+				{
+					"id": 14,
+					"tid": "DEBUFF.ACC"
+				}
+			]
+		},
+		{
+			"id": 541,
+			"name": "Alexandra",
+			"name_translation": {
+				"EN": "Alexandra"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-alexandra.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-alexandra.png",
+			"grade": 5,
+			"last_update_ts": "1587632718",
+			"type_id": 98,
+			"type": {
+				"tid": "UNICORN"
+			},
+			"attribute_id": 5,
+			"attribute": {
+				"tid": "DARK"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"rating": {
+				"users": 7,
+				"overall": null
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 6,
+					"necropolis": 6,
+					"toa": 7,
+					"toa_hm": 7,
+					"arena_offense": 8,
+					"arena_defense": 8,
+					"guildwar_offense": 8,
+					"guildwar_defense": 8,
+					"overall_rating": 7,
+					"raid": 7,
+					"categories": {
+						"dungeon": 7,
+						"toa": 7,
+						"arena": 8,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 1,
+					"percent": 50
+				},
+				"keep": {
+					"count": 1,
+					"percent": 50
+				},
+				"five_stars": {
+					"count": 0,
+					"percent": 0
+				},
+				"six_stars": {
+					"count": 1,
+					"percent": 50
+				}
+			},
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 410,
+			"name": "Alicia",
+			"name_translation": {
+				"EN": "Alicia"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-alicia.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-alicia.png",
+			"grade": 5,
+			"last_update_ts": "1590447915",
+			"type_id": 75,
+			"type": {
+				"tid": "POLAR_QUEEN"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 6,
+				"dragons": 6,
+				"necropolis": 4,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 10,
+				"arena_defense": 2,
+				"guildwar_offense": 8,
+				"guildwar_defense": 4,
+				"raid": null,
+				"maze": null,
+				"users": 9,
+				"overall": {
+					"dungeon": 5,
+					"toa": 2,
+					"arena": 6,
+					"gvg": 6,
+					"users": 9
+				}
+			},
+			"higher_rating": {
+				"key": "arena_offense",
+				"value": 10,
+				"cat": "arena"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 7,
+					"necropolis": 5,
+					"toa": 8,
+					"toa_hm": 7,
+					"arena_offense": 10,
+					"arena_defense": 7,
+					"guildwar_offense": 9,
+					"guildwar_defense": 7,
+					"overall_rating": 9,
+					"raid": 6,
+					"categories": {
+						"dungeon": 6,
+						"toa": 8,
+						"arena": 9,
+						"gvg": 9
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 4,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 3,
+					"percent": 75
+				},
+				"six_stars": {
+					"count": 4,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 2
+			},
+			"abilities": [
+				{
+					"id": 15,
+					"tid": "DEBUFF.ATK"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				}
+			]
+		},
+		{
+			"id": 74,
+			"name": "Allen",
+			"name_translation": {
+				"EN": "Allen"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-allen.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-allen.png",
+			"grade": 2,
+			"last_update_ts": "1592177460",
+			"type_id": 53,
+			"type": {
+				"tid": "VAGABOND"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 2,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 5,
+				"overall": {
+					"dungeon": 2,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 2,
+					"users": 5
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 2,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 3,
+					"dragons": 3,
+					"necropolis": 3,
+					"toa": 3,
+					"toa_hm": 2,
+					"arena_offense": 4,
+					"arena_defense": 3,
+					"guildwar_offense": 3,
+					"guildwar_defense": 3,
+					"overall_rating": 5,
+					"raid": 3,
+					"categories": {
+						"dungeon": 3,
+						"toa": 3,
+						"arena": 4,
+						"gvg": 3
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 2
+			},
+			"abilities": [
+				{
+					"id": 18,
+					"tid": "DEBUFF.DEF"
+				},
+				{
+					"id": 21,
+					"tid": "DEBUFF.PROVOKE"
+				}
+			]
+		},
+		{
+			"id": 489,
+			"name": "Amarna",
+			"name_translation": {
+				"EN": "Amarna"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amarna.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amarna.png",
+			"grade": 4,
+			"last_update_ts": "1587632612",
+			"type_id": 87,
+			"type": {
+				"tid": "ANUBIS"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"users": 8,
+				"overall": null
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 7,
+					"necropolis": 8,
+					"toa": 7,
+					"toa_hm": 7,
+					"arena_offense": 9,
+					"arena_defense": 9,
+					"guildwar_offense": 9,
+					"guildwar_defense": 9,
+					"overall_rating": 8,
+					"raid": 8,
+					"maze": 10,
+					"categories": {
+						"dungeon": 8,
+						"toa": 7,
+						"arena": 9,
+						"gvg": 9
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 1,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 1,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 1,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 493,
+			"name": "Amduat",
+			"name_translation": {
+				"EN": "Amduat"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amduat.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amduat.png",
+			"grade": 4,
+			"last_update_ts": "1587632621",
+			"type_id": 88,
+			"type": {
+				"tid": "HORUS"
+			},
+			"attribute_id": 5,
+			"attribute": {
+				"tid": "DARK"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"users": 7,
+				"overall": null
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 6,
+					"dragons": 7,
+					"necropolis": 1,
+					"toa": 3,
+					"toa_hm": 2,
+					"arena_offense": 8,
+					"arena_defense": 6,
+					"guildwar_offense": 9,
+					"guildwar_defense": 7,
+					"overall_rating": 7,
+					"raid": 2,
+					"maze": 1,
+					"categories": {
+						"dungeon": 3,
+						"toa": 3,
+						"arena": 7,
+						"gvg": 9
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 538,
+			"name": "Amelia",
+			"name_translation": {
+				"EN": "Amelia"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+			"grade": 5,
+			"last_update_ts": "1587632722",
+			"type_id": 98,
+			"type": {
+				"tid": "UNICORN"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"rating": {
+				"users": 7,
+				"overall": null
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 6,
+					"dragons": 8,
+					"necropolis": 5,
+					"toa": 7,
+					"toa_hm": 7,
+					"arena_offense": 8,
+					"arena_defense": 9,
+					"guildwar_offense": 8,
+					"guildwar_defense": 9,
+					"overall_rating": 7,
+					"raid": 9,
+					"categories": {
+						"dungeon": 7,
+						"toa": 7,
+						"arena": 9,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 94,
+			"name": "Anavel",
+			"name_translation": {
+				"EN": "Anavel"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-anavel.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-anavel.png",
+			"grade": 5,
+			"last_update_ts": "1592177420",
+			"type_id": 38,
+			"type": {
+				"tid": "OCCULT_GIRL"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"giants": 6,
+				"dragons": 6,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 6,
+				"arena_defense": 4,
+				"guildwar_offense": 6,
+				"guildwar_defense": 6,
+				"raid": null,
+				"maze": null,
+				"users": 9,
+				"overall": {
+					"dungeon": 5,
+					"toa": 2,
+					"arena": 5,
+					"gvg": 6,
+					"users": 9
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 6,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 8,
+					"dragons": 9,
+					"necropolis": 6,
+					"toa": 9,
+					"toa_hm": 7,
+					"arena_offense": 9,
+					"arena_defense": 9,
+					"guildwar_offense": 9,
+					"guildwar_defense": 9,
+					"overall_rating": 9,
+					"raid": 9,
+					"maze": 9,
+					"categories": {
+						"dungeon": 8,
+						"toa": 8,
+						"arena": 9,
+						"gvg": 9
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 2,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 2,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 5
+			},
+			"abilities": [
+				{
+					"id": 18,
+					"tid": "DEBUFF.DEF"
+				},
+				{
+					"id": 22,
+					"tid": "DEBUFF.SLEEP"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				},
+				{
+					"id": 30,
+					"tid": "CAP.CLEANSE"
+				},
+				{
+					"id": 33,
+					"tid": "CAP.HEAL"
+				}
+			]
+		},
+		{
+			"id": 264,
+			"name": "Anduril",
+			"name_translation": {
+				"EN": "Anduril"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-anduril.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-anduril.png",
+			"grade": 3,
+			"last_update_ts": "1589758286",
+			"type_id": 25,
+			"type": {
+				"tid": "INFERNO"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 2,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 6,
+				"overall": {
+					"dungeon": 2,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 2,
+					"users": 6
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 2,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 9,
+					"dragons": 2,
+					"necropolis": 1,
+					"toa": 7,
+					"toa_hm": 6,
+					"arena_offense": 6,
+					"arena_defense": 6,
+					"guildwar_offense": 8,
+					"guildwar_defense": 7,
+					"overall_rating": 6,
+					"raid": 2,
+					"categories": {
+						"dungeon": 4,
+						"toa": 7,
+						"arena": 6,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 15,
+					"tid": "DEBUFF.ATK"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				},
+				{
+					"id": 31,
+					"tid": "CAP.INCREASE_ATB"
+				}
+			]
+		},
+		{
+			"id": 402,
+			"name": "Anne",
+			"name_translation": {
+				"EN": "Anne"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-anne.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-anne.png",
+			"grade": 3,
+			"last_update_ts": "1587632409",
+			"type_id": 76,
+			"type": {
+				"tid": "COW_GIRL"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 4,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 6,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 6,
+				"overall": {
+					"dungeon": 3,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 4,
+					"users": 6
+				}
+			},
+			"higher_rating": {
+				"key": "guildwar_offense",
+				"value": 6,
+				"cat": "gvg"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 1,
+					"dragons": 2,
+					"necropolis": 3,
+					"toa": 9,
+					"toa_hm": 8,
+					"arena_offense": 5,
+					"arena_defense": 7,
+					"guildwar_offense": 10,
+					"guildwar_defense": 10,
+					"overall_rating": 6,
+					"raid": 4,
+					"categories": {
+						"dungeon": 3,
+						"toa": 9,
+						"arena": 6,
+						"gvg": 10
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 1,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 1,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 0,
+					"percent": 0
+				}
+			},
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 23,
+					"tid": "DEBUFF.SPD"
+				},
+				{
+					"id": 24,
+					"tid": "DEBUFF.STUN"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				}
+			]
+		},
+		{
+			"id": 285,
+			"name": "Antares",
+			"name_translation": {
+				"EN": "Antares"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-antares.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-antares.png",
+			"grade": 4,
+			"last_update_ts": "1587632186",
+			"type_id": 29,
+			"type": {
+				"tid": "LICH"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 2,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 6,
+				"overall": {
+					"dungeon": 2,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 2,
+					"users": 6
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 2,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 2,
+					"dragons": 4,
+					"necropolis": 8,
+					"toa": 5,
+					"toa_hm": 5,
+					"arena_offense": 6,
+					"arena_defense": 4,
+					"guildwar_offense": 6,
+					"guildwar_defense": 4,
+					"overall_rating": 6,
+					"raid": 2,
+					"categories": {
+						"dungeon": 4,
+						"toa": 5,
+						"arena": 5,
+						"gvg": 6
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 1,
+					"percent": 50
+				},
+				"keep": {
+					"count": 1,
+					"percent": 50
+				},
+				"five_stars": {
+					"count": 1,
+					"percent": 50
+				},
+				"six_stars": {
+					"count": 0,
+					"percent": 0
+				}
+			},
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 23,
+					"tid": "DEBUFF.SPD"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				},
+				{
+					"id": 34,
+					"tid": "CAP.LIFE_LEECH"
+				}
+			]
+		},
+		{
+			"id": 434,
+			"name": "Aqcus",
+			"name_translation": {
+				"EN": "Aqcus"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-aqcus.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-aqcus.png",
+			"grade": 3,
+			"last_update_ts": "1587632470",
+			"type_id": 77,
+			"type": {
+				"tid": "CHARGER_SHARK"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 6,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 2,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 7,
+				"overall": {
+					"dungeon": 3,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 2,
+					"users": 7
+				}
+			},
+			"higher_rating": {
+				"key": "dragons",
+				"value": 6,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 4,
+					"dragons": 3,
+					"necropolis": 3,
+					"toa": 4,
+					"toa_hm": 5,
+					"arena_offense": 5,
+					"arena_defense": 3,
+					"guildwar_offense": 5,
+					"guildwar_defense": 3,
+					"overall_rating": 7,
+					"raid": 3,
+					"categories": {
+						"dungeon": 3,
+						"toa": 5,
+						"arena": 4,
+						"gvg": 5
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 1,
+					"percent": 50
+				},
+				"keep": {
+					"count": 1,
+					"percent": 50
+				},
+				"five_stars": {
+					"count": 1,
+					"percent": 50
+				},
+				"six_stars": {
+					"count": 0,
+					"percent": 0
+				}
+			},
+			"count": {
+				"abilities": 4
+			},
+			"abilities": [
+				{
+					"id": 5,
+					"tid": "BUFF.CR"
+				},
+				{
+					"id": 15,
+					"tid": "DEBUFF.ATK"
+				},
+				{
+					"id": 19,
+					"tid": "DEBUFF.DOT"
+				},
+				{
+					"id": 23,
+					"tid": "DEBUFF.SPD"
+				}
+			]
+		},
+		{
+			"id": 348,
+			"name": "Aquila",
+			"name_translation": {
+				"EN": "Aquila"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-aquila.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-aquila.png",
+			"grade": 4,
+			"last_update_ts": "1587632332",
+			"type_id": 64,
+			"type": {
+				"tid": "BROWNIE_MAGICIAN"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 6,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 8,
+				"arena_defense": 6,
+				"guildwar_offense": 8,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 3,
+					"toa": 2,
+					"arena": 7,
+					"gvg": 5,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "arena_offense",
+				"value": 8,
+				"cat": "arena"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 3,
+					"dragons": 3,
+					"necropolis": 2,
+					"toa": 5,
+					"toa_hm": 4,
+					"arena_offense": 9,
+					"arena_defense": 9,
+					"guildwar_offense": 9,
+					"guildwar_defense": 9,
+					"overall_rating": 8,
+					"raid": 3,
+					"categories": {
+						"dungeon": 3,
+						"toa": 5,
+						"arena": 9,
+						"gvg": 9
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 2,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 2,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 4
+			},
+			"abilities": [
+				{
+					"id": 2,
+					"tid": "BUFF.ATK"
+				},
+				{
+					"id": 5,
+					"tid": "BUFF.CR"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				},
+				{
+					"id": 36,
+					"tid": "CAP.PURGE"
+				}
+			]
+		},
+		{
+			"id": 259,
+			"name": "Arang",
+			"name_translation": {
+				"EN": "Arang"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-arang.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-arang.png",
+			"grade": 4,
+			"last_update_ts": "1589758273",
+			"type_id": 36,
+			"type": {
+				"tid": "NINE-TAILED_FOX"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 8,
+				"dragons": 2,
+				"necropolis": 8,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 6,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 6,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 4,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 8,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 8,
+					"dragons": 5,
+					"necropolis": 8,
+					"toa": 6,
+					"toa_hm": 5,
+					"arena_offense": 9,
+					"arena_defense": 5,
+					"guildwar_offense": 8,
+					"guildwar_defense": 6,
+					"overall_rating": 8,
+					"raid": 6,
+					"categories": {
+						"dungeon": 7,
+						"toa": 6,
+						"arena": 7,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 2,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 2,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 0,
+					"percent": 0
+				}
+			},
+			"count": {
+				"abilities": 5
+			},
+			"abilities": [
+				{
+					"id": 14,
+					"tid": "DEBUFF.ACC"
+				},
+				{
+					"id": 15,
+					"tid": "DEBUFF.ATK"
+				},
+				{
+					"id": 18,
+					"tid": "DEBUFF.DEF"
+				},
+				{
+					"id": 23,
+					"tid": "DEBUFF.SPD"
+				},
+				{
+					"id": 34,
+					"tid": "CAP.LIFE_LEECH"
+				}
+			]
+		},
+		{
+			"id": 258,
+			"name": "Ardella",
+			"name_translation": {
+				"EN": "Ardella"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-ardella.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-ardella.png",
+			"grade": 3,
+			"last_update_ts": "1589758270",
+			"type_id": 32,
+			"type": {
+				"tid": "MAGICAL_ARCHER"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 2,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 6,
+				"overall": {
+					"dungeon": 2,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 2,
+					"users": 6
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 2,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 8,
+					"dragons": 2,
+					"necropolis": 3,
+					"toa": 5,
+					"toa_hm": 3,
+					"arena_offense": 8,
+					"arena_defense": 3,
+					"guildwar_offense": 7,
+					"guildwar_defense": 3,
+					"overall_rating": 6,
+					"raid": 8,
+					"categories": {
+						"dungeon": 5,
+						"toa": 4,
+						"arena": 6,
+						"gvg": 7
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 1,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 0,
+					"percent": 0
+				},
+				"six_stars": {
+					"count": 1,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 0
+			}
+		},
+		{
+			"id": 273,
+			"name": "Argen",
+			"name_translation": {
+				"EN": "Argen"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-argen.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-argen.png",
+			"grade": 4,
+			"last_update_ts": "1590363074",
+			"type_id": 55,
+			"type": {
+				"tid": "VAMPIRE"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 8,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 6,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 4,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 4,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "giants",
+				"value": 8,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 6,
+					"necropolis": 5,
+					"toa": 8,
+					"toa_hm": 6,
+					"arena_offense": 7,
+					"arena_defense": 4,
+					"guildwar_offense": 8,
+					"guildwar_defense": 6,
+					"overall_rating": 8,
+					"raid": 5,
+					"categories": {
+						"dungeon": 6,
+						"toa": 7,
+						"arena": 6,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 1,
+					"percent": 50
+				},
+				"keep": {
+					"count": 1,
+					"percent": 50
+				},
+				"five_stars": {
+					"count": 1,
+					"percent": 50
+				},
+				"six_stars": {
+					"count": 1,
+					"percent": 50
+				}
+			},
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 15,
+					"tid": "DEBUFF.ATK"
+				},
+				{
+					"id": 23,
+					"tid": "DEBUFF.SPD"
+				},
+				{
+					"id": 34,
+					"tid": "CAP.LIFE_LEECH"
+				}
+			]
+		},
+		{
+			"id": 294,
+			"name": "Aria",
+			"name_translation": {
+				"EN": "Aria"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-aria.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-aria.png",
+			"grade": 4,
+			"last_update_ts": "1587632208",
+			"type_id": 50,
+			"type": {
+				"tid": "SUCCUBUS"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"rating": {
+				"giants": 4,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 10,
+				"arena_offense": 6,
+				"arena_defense": 6,
+				"guildwar_offense": 6,
+				"guildwar_defense": 4,
+				"raid": null,
+				"maze": null,
+				"users": 9,
+				"overall": {
+					"dungeon": 3,
+					"toa": 10,
+					"arena": 6,
+					"gvg": 5,
+					"users": 9
+				}
+			},
+			"higher_rating": {
+				"key": "toa_hm",
+				"value": 10,
+				"cat": "toa"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 6,
+					"dragons": 5,
+					"necropolis": 4,
+					"toa": 10,
+					"toa_hm": 10,
+					"arena_offense": 7,
+					"arena_defense": 5,
+					"guildwar_offense": 7,
+					"guildwar_defense": 5,
+					"overall_rating": 9,
+					"raid": 4,
+					"categories": {
+						"dungeon": 5,
+						"toa": 10,
+						"arena": 6,
+						"gvg": 7
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 2,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 2,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 2,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 4
+			},
+			"abilities": [
+				{
+					"id": 14,
+					"tid": "DEBUFF.ACC"
+				},
+				{
+					"id": 22,
+					"tid": "DEBUFF.SLEEP"
+				},
+				{
+					"id": 23,
+					"tid": "DEBUFF.SPD"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				}
+			]
+		},
+		{
+			"id": 231,
+			"name": "Ariel",
+			"name_translation": {
+				"EN": "Ariel"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-ariel.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-ariel.png",
+			"grade": 5,
+			"last_update_ts": "1590363083",
+			"type_id": 3,
+			"type": {
+				"tid": "ARCHANGEL"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"giants": 6,
+				"dragons": 6,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 6,
+				"arena_offense": 4,
+				"arena_defense": 8,
+				"guildwar_offense": 8,
+				"guildwar_defense": 6,
+				"raid": null,
+				"maze": null,
+				"users": 9,
+				"overall": {
+					"dungeon": 5,
+					"toa": 6,
+					"arena": 6,
+					"gvg": 7,
+					"users": 9
+				}
+			},
+			"higher_rating": {
+				"key": "arena_defense",
+				"value": 8,
+				"cat": "arena"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 9,
+					"dragons": 9,
+					"necropolis": 5,
+					"toa": 8,
+					"toa_hm": 8,
+					"arena_offense": 8,
+					"arena_defense": 9,
+					"guildwar_offense": 8,
+					"guildwar_defense": 9,
+					"overall_rating": 9,
+					"raid": 10,
+					"categories": {
+						"dungeon": 8,
+						"toa": 8,
+						"arena": 9,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 5,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 1,
+					"percent": 20
+				},
+				"six_stars": {
+					"count": 5,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 3,
+					"tid": "BUFF.HOT"
+				},
+				{
+					"id": 33,
+					"tid": "CAP.HEAL"
+				},
+				{
+					"id": 36,
+					"tid": "CAP.PURGE"
+				}
+			]
+		},
+		{
+			"id": 131,
+			"name": "Arkajan",
+			"name_translation": {
+				"EN": "Arkajan"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-arkajan.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-arkajan.png",
+			"grade": 2,
+			"last_update_ts": "1592177444",
+			"type_id": 59,
+			"type": {
+				"tid": "YETI"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 3,
+			"class": {
+				"tid": "DEFENSE"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 6,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 2,
+				"arena_defense": 2,
+				"guildwar_offense": 2,
+				"guildwar_defense": 2,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 3,
+					"toa": 2,
+					"arena": 2,
+					"gvg": 2,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "necropolis",
+				"value": 6,
+				"cat": "dungeon"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 2,
+					"dragons": 2,
+					"necropolis": 10,
+					"toa": 6,
+					"toa_hm": 8,
+					"arena_offense": 2,
+					"arena_defense": 2,
+					"guildwar_offense": 2,
+					"guildwar_defense": 3,
+					"overall_rating": 8,
+					"raid": 4,
+					"categories": {
+						"dungeon": 5,
+						"toa": 7,
+						"arena": 2,
+						"gvg": 2
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 3
+			},
+			"abilities": [
+				{
+					"id": 2,
+					"tid": "BUFF.ATK"
+				},
+				{
+					"id": 23,
+					"tid": "DEBUFF.SPD"
+				},
+				{
+					"id": 24,
+					"tid": "DEBUFF.STUN"
+				}
+			]
+		},
+		{
+			"id": 62,
+			"name": "Arnold",
+			"name_translation": {
+				"EN": "Arnold"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-arnold.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-arnold.png",
+			"grade": 4,
+			"last_update_ts": "1592177419",
+			"type_id": 8,
+			"type": {
+				"tid": "DEATH_KNIGHT"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"rating": {
+				"giants": 2,
+				"dragons": 2,
+				"necropolis": 2,
+				"toa": null,
+				"toa_hm": 2,
+				"arena_offense": 4,
+				"arena_defense": 4,
+				"guildwar_offense": 8,
+				"guildwar_defense": 6,
+				"raid": null,
+				"maze": null,
+				"users": 8,
+				"overall": {
+					"dungeon": 2,
+					"toa": 2,
+					"arena": 4,
+					"gvg": 7,
+					"users": 8
+				}
+			},
+			"higher_rating": {
+				"key": "guildwar_offense",
+				"value": 8,
+				"cat": "gvg"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 3,
+					"dragons": 3,
+					"necropolis": 3,
+					"toa": 4,
+					"toa_hm": 4,
+					"arena_offense": 6,
+					"arena_defense": 4,
+					"guildwar_offense": 6,
+					"guildwar_defense": 5,
+					"overall_rating": 8,
+					"raid": 6,
+					"categories": {
+						"dungeon": 4,
+						"toa": 4,
+						"arena": 5,
+						"gvg": 6
+					}
+				}
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 0,
+					"percent": 0
+				},
+				"keep": {
+					"count": 1,
+					"percent": 100
+				},
+				"five_stars": {
+					"count": 1,
+					"percent": 100
+				},
+				"six_stars": {
+					"count": 1,
+					"percent": 100
+				}
+			},
+			"count": {
+				"abilities": 4
+			},
+			"abilities": [
+				{
+					"id": 15,
+					"tid": "DEBUFF.ATK"
+				},
+				{
+					"id": 25,
+					"tid": "DEBUFF.UNRECOVERABLE"
+				},
+				{
+					"id": 26,
+					"tid": "CAP.AOE_ATK"
+				},
+				{
+					"id": 34,
+					"tid": "CAP.LIFE_LEECH"
+				}
+			]
+		},
+		{
+			"id": 305,
+			"name": "Artamiel",
+			"name_translation": {
+				"EN": "Artamiel"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-artamiel.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-artamiel.png",
+			"grade": 5,
+			"last_update_ts": "1587632230",
+			"type_id": 3,
+			"type": {
+				"tid": "ARCHANGEL"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"rating": {
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": 6,
+				"arena_defense": 8,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"users": 9,
+				"overall": {
+					"arena": 7,
+					"users": 9
+				}
+			},
+			"higher_rating": {
+				"key": "arena_defense",
+				"value": 8,
+				"cat": "arena"
+			},
+			"users_rating": {
+				"overall": {
+					"giants": 7,
+					"dragons": 7,
+					"necropolis": 7,
+					"toa": 8,
+					"toa_hm": 8,
+					"arena_offense": 9,
+					"arena_defense": 10,
+					"guildwar_offense": 8,
+					"guildwar_defense": 9,
+					"overall_rating": 9,
+					"raid": 9,
+					"categories": {
+						"dungeon": 8,
+						"toa": 8,
+						"arena": 10,
+						"gvg": 8
+					}
+				}
+			},
+			"reviews_summary": null,
+			"count": {
+				"abilities": 2
+			},
+			"abilities": [
+				{
+					"id": 33,
+					"tid": "CAP.HEAL"
+				},
+				{
+					"id": 36,
+					"tid": "CAP.PURGE"
+				}
+			]
+		}
+	]
+}

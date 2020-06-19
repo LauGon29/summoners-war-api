@@ -1,0 +1,3137 @@
+{
+	"id": 111,
+	"type_id": 14,
+	"attribute_id": 1,
+	"name": "Aeilene",
+	"class_id": 2,
+	"grade": 2,
+	"devilmon_req": 15,
+	"advanced": 0,
+	"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-aeilene.png",
+	"screenshot_path": "http://cdn.shinsoft.fr/sw/summon/screenshot/std/icon-aeilene.png",
+	"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-aeilene.png",
+	"screenshot_path_awakened": "http://cdn.shinsoft.fr/sw/summon/screenshot/awaken/icon-rounded-aeilene.jpg",
+	"last_update": "2020-06-15 01:31:17",
+	"last_updater": 1,
+	"last_update_ts": "1592177477",
+	"count": {
+		"reviews": 2,
+		"favorites": 211,
+		"awakenings": 4,
+		"abilities": 3,
+		"skills": 4,
+		"stats": 20,
+		"same_as": 4,
+		"fusion": 0,
+		"material_fusion": 1,
+		"language_comments": {
+			"FR": 4,
+			"EN": 0,
+			"OTHER": 0
+		},
+		"comments": 4,
+		"location": 5,
+		"teams": 0
+	},
+	"attribute": {
+		"id": 1,
+		"tid": "WIND"
+	},
+	"type": {
+		"id": 14,
+		"tid": "FAIRY"
+	},
+	"class": {
+		"id": 2,
+		"tid": "SUPPORT"
+	},
+	"name_translation": {
+		"EN": "Aeilene"
+	},
+	"reviews_summary": {
+		"food": {
+			"count": 1,
+			"percent": 50
+		},
+		"keep": {
+			"count": 1,
+			"percent": 50
+		},
+		"five_stars": {
+			"count": 0,
+			"percent": 0
+		},
+		"six_stars": {
+			"count": 0,
+			"percent": 0
+		}
+	},
+	"medias": [
+		{
+			"type": "YOUTUBE",
+			"url": "https://www.youtube.com/embed/pa_GewWmkX8?feature=oembed"
+		}
+	],
+	"rating": {
+		"giants": 2,
+		"dragons": 2,
+		"necropolis": 2,
+		"toa": null,
+		"toa_hm": 2,
+		"arena_offense": 2,
+		"arena_defense": 2,
+		"guildwar_offense": 2,
+		"guildwar_defense": 2,
+		"raid": null,
+		"maze": null,
+		"users": 6,
+		"overall": {
+			"dungeon": 2,
+			"toa": 2,
+			"arena": 2,
+			"gvg": 2,
+			"users": 6
+		}
+	},
+	"higher_rating": {
+		"key": "giants",
+		"value": 2,
+		"cat": "dungeon"
+	},
+	"users_rating": {
+		"list": [
+			{
+				"user_id": "147",
+				"summon_id": "111",
+				"overall_rating": "7",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"user_name": "Kywi",
+				"name": "Kywi",
+				"avatar": "",
+				"contrib": "155"
+			},
+			{
+				"user_id": "212",
+				"summon_id": "111",
+				"overall_rating": "7",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"user_name": "SEB",
+				"name": "SEB",
+				"avatar": "",
+				"contrib": "207"
+			},
+			{
+				"user_id": "39",
+				"summon_id": "111",
+				"overall_rating": "4",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"user_name": "Apolline Gaillard",
+				"name": "Apolline Gaillard",
+				"avatar": "https://cdn.shinsoft.fr/sw/upload/user/39/tumblr_n6mg5rUgkU1tzkt70o3_400.png",
+				"contrib": "553"
+			},
+			{
+				"user_id": "1",
+				"summon_id": "111",
+				"overall_rating": "5",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"user_name": "Shinzah",
+				"name": "Shinzah",
+				"avatar": "https://cdn.shinsoft.fr/sw/upload/user/1/AK_Cine_Classe.png",
+				"contrib": "1749"
+			},
+			{
+				"user_id": "927",
+				"summon_id": "111",
+				"overall_rating": "9",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"user_name": "Arlekya",
+				"name": "Arlekya",
+				"avatar": "",
+				"contrib": "10"
+			},
+			{
+				"user_id": "994",
+				"summon_id": "111",
+				"overall_rating": "5",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"user_name": "FATiG",
+				"name": "FATiG",
+				"avatar": "https://cdn.shinsoft.fr/sw/upload/user/994/logo perso retouché.jpg",
+				"contrib": "1560"
+			},
+			{
+				"user_id": "6127",
+				"summon_id": "111",
+				"overall_rating": "7",
+				"giants": "3",
+				"dragons": "2",
+				"necropolis": "3",
+				"toa": "3",
+				"toa_hm": "1",
+				"arena_offense": "7",
+				"arena_defense": "5",
+				"guildwar_offense": "6",
+				"guildwar_defense": "5",
+				"raid": "5",
+				"maze": null,
+				"user_name": "Yolace Ruisi",
+				"name": "Yolace Ruisi",
+				"avatar": "",
+				"contrib": "10"
+			},
+			{
+				"user_id": "1969",
+				"summon_id": "111",
+				"overall_rating": "0",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": "10",
+				"raid": null,
+				"maze": null,
+				"user_name": "juju 52575",
+				"name": "juju 52575",
+				"avatar": "https://cdn.sw-db.com/sw/upload/user/1969/TheBoomrang589.png",
+				"contrib": "35"
+			},
+			{
+				"user_id": "2288",
+				"summon_id": "111",
+				"overall_rating": "7",
+				"giants": "7",
+				"dragons": "7",
+				"necropolis": "7",
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": "7",
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": "7",
+				"maze": null,
+				"user_name": "Jonathan Eric Wood",
+				"name": "Jonathan Eric Wood",
+				"avatar": "",
+				"contrib": "11"
+			},
+			{
+				"user_id": "106",
+				"summon_id": "111",
+				"overall_rating": "4",
+				"giants": null,
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": null,
+				"arena_defense": null,
+				"guildwar_offense": null,
+				"guildwar_defense": null,
+				"raid": null,
+				"maze": null,
+				"user_name": "Meliodas",
+				"name": "Meliodas",
+				"avatar": "https://cdn.shinsoft.fr/sw/upload/user/106/khr__adult_reborn_scribble_by_shadowdragon22-d3lt7dy - copie.jpg",
+				"contrib": "2802"
+			},
+			{
+				"user_id": "4461",
+				"summon_id": "111",
+				"overall_rating": "5",
+				"giants": "8",
+				"dragons": "1",
+				"necropolis": "1",
+				"toa": "1",
+				"toa_hm": "1",
+				"arena_offense": "1",
+				"arena_defense": "1",
+				"guildwar_offense": "7",
+				"guildwar_defense": "7",
+				"raid": "1",
+				"maze": null,
+				"user_name": "Guitayk",
+				"name": "Guitayk",
+				"avatar": "",
+				"contrib": "998"
+			},
+			{
+				"user_id": "13588",
+				"summon_id": "111",
+				"overall_rating": "6",
+				"giants": "3",
+				"dragons": "3",
+				"necropolis": "6",
+				"toa": "1",
+				"toa_hm": "1",
+				"arena_offense": "8",
+				"arena_defense": "2",
+				"guildwar_offense": "8",
+				"guildwar_defense": "3",
+				"raid": "5",
+				"maze": null,
+				"user_name": "Firstandclay614 Duwizer",
+				"name": "Firstandclay614 Duwizer",
+				"avatar": "",
+				"contrib": "18"
+			},
+			{
+				"user_id": "12145",
+				"summon_id": "111",
+				"overall_rating": "8",
+				"giants": "8",
+				"dragons": null,
+				"necropolis": null,
+				"toa": null,
+				"toa_hm": null,
+				"arena_offense": "6",
+				"arena_defense": null,
+				"guildwar_offense": "6",
+				"guildwar_defense": null,
+				"raid": "6",
+				"maze": null,
+				"user_name": "TheEagle 22",
+				"name": "TheEagle 22",
+				"avatar": "",
+				"contrib": "5"
+			},
+			{
+				"user_id": "6927",
+				"summon_id": "111",
+				"overall_rating": "3",
+				"giants": "5",
+				"dragons": "3",
+				"necropolis": "4",
+				"toa": "2",
+				"toa_hm": "1",
+				"arena_offense": "5",
+				"arena_defense": "4",
+				"guildwar_offense": "5",
+				"guildwar_defense": "4",
+				"raid": "2",
+				"maze": null,
+				"user_name": "Mina reichsfürer_SS",
+				"name": "Mina reichsfürer_SS",
+				"avatar": "https://cdn.sw-db.com/sw/upload/user/6927/1503224863284.png",
+				"contrib": "494"
+			},
+			{
+				"user_id": "14983",
+				"summon_id": "111",
+				"overall_rating": "10",
+				"giants": "10",
+				"dragons": "10",
+				"necropolis": "10",
+				"toa": "10",
+				"toa_hm": "10",
+				"arena_offense": "10",
+				"arena_defense": "10",
+				"guildwar_offense": "10",
+				"guildwar_defense": "10",
+				"raid": null,
+				"maze": null,
+				"user_name": "Eliza Mokapon",
+				"name": "Eliza Mokapon",
+				"avatar": "",
+				"contrib": "13"
+			},
+			{
+				"user_id": "11582",
+				"summon_id": "111",
+				"overall_rating": "1",
+				"giants": "1",
+				"dragons": "1",
+				"necropolis": "1",
+				"toa": "1",
+				"toa_hm": "1",
+				"arena_offense": "1",
+				"arena_defense": "1",
+				"guildwar_offense": "1",
+				"guildwar_defense": "1",
+				"raid": "1",
+				"maze": null,
+				"user_name": "NicoSeb71",
+				"name": "NicoSeb71",
+				"avatar": "https://cdn.sw-db.com/sw/upload/user/11582/Rules_icon.png",
+				"contrib": "1052"
+			},
+			{
+				"user_id": "22622",
+				"summon_id": "111",
+				"overall_rating": "7",
+				"giants": "2",
+				"dragons": "6",
+				"necropolis": "2",
+				"toa": "6",
+				"toa_hm": "5",
+				"arena_offense": "9",
+				"arena_defense": "1",
+				"guildwar_offense": "8",
+				"guildwar_defense": "1",
+				"raid": "4",
+				"maze": null,
+				"user_name": "Gemini Returns",
+				"name": "Gemini Returns",
+				"avatar": "https://cdn.sw-db.com/sw/upload/user/22622//avatar.jpg",
+				"contrib": "0"
+			}
+		],
+		"overall": {
+			"giants": 5,
+			"dragons": 4,
+			"necropolis": 4,
+			"toa": 3,
+			"toa_hm": 3,
+			"arena_offense": 6,
+			"arena_defense": 3,
+			"guildwar_offense": 6,
+			"guildwar_defense": 5,
+			"overall_rating": 6,
+			"raid": 4,
+			"categories": {
+				"dungeon": 4,
+				"toa": 3,
+				"arena": 5,
+				"gvg": 6
+			}
+		}
+	},
+	"users_favorite": [
+		{
+			"user_id": "147",
+			"user_name": "Kywi",
+			"avatar": null,
+			"contrib": "155"
+		},
+		{
+			"user_id": "663",
+			"user_name": "Janak",
+			"avatar": null,
+			"contrib": "26"
+		},
+		{
+			"user_id": "330",
+			"user_name": "Angelo_R_Ltd",
+			"avatar": "http://cdn.shinsoft.fr/sw/upload/user/330/FSCN1588square.jpg",
+			"contrib": "754"
+		},
+		{
+			"user_id": "202",
+			"user_name": "Lucide DievalOupa",
+			"avatar": "http://cdn.shinsoft.fr/sw/upload/user/202/10010407_10204700040159867_4213309486721880527_o.jpg",
+			"contrib": "194"
+		},
+		{
+			"user_id": "2717",
+			"user_name": "Tymothé Bridelence (Sinéon)",
+			"avatar": null,
+			"contrib": "48"
+		},
+		{
+			"user_id": "770",
+			"user_name": "Soidet Romain",
+			"avatar": null,
+			"contrib": "30"
+		},
+		{
+			"user_id": "1198",
+			"user_name": "Bubbledine",
+			"avatar": null,
+			"contrib": "368"
+		},
+		{
+			"user_id": "10758",
+			"user_name": "Arnaud H",
+			"avatar": null,
+			"contrib": "178"
+		},
+		{
+			"user_id": "1342",
+			"user_name": "Jérôme Pascault",
+			"avatar": null,
+			"contrib": "53"
+		},
+		{
+			"user_id": "1442",
+			"user_name": "shosho",
+			"avatar": "http://cdn.shinsoft.fr/sw/upload/user/1442/maxresdefault.jpg",
+			"contrib": "208"
+		},
+		{
+			"user_id": "2288",
+			"user_name": "Jonathan Eric Wood",
+			"avatar": null,
+			"contrib": "11"
+		},
+		{
+			"user_id": "647",
+			"user_name": "Godkiller",
+			"avatar": null,
+			"contrib": "132"
+		},
+		{
+			"user_id": "103",
+			"user_name": "Samantha Masson",
+			"avatar": null,
+			"contrib": "257"
+		},
+		{
+			"user_id": "2894",
+			"user_name": "the_kyom",
+			"avatar": null,
+			"contrib": "106"
+		},
+		{
+			"user_id": "3073",
+			"user_name": "Niizuma",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/3073/Niizuma.Eiji.full.1152966.jpg",
+			"contrib": "184"
+		},
+		{
+			"user_id": "2869",
+			"user_name": "Charon",
+			"avatar": null,
+			"contrib": "152"
+		},
+		{
+			"user_id": "3277",
+			"user_name": "QuenotTodd",
+			"avatar": null,
+			"contrib": "316"
+		},
+		{
+			"user_id": "19709",
+			"user_name": "Seb",
+			"avatar": null,
+			"contrib": "116"
+		},
+		{
+			"user_id": "10693",
+			"user_name": "Sabri Na",
+			"avatar": null,
+			"contrib": "274"
+		},
+		{
+			"user_id": "3819",
+			"user_name": "Heddoun",
+			"avatar": null,
+			"contrib": "150"
+		},
+		{
+			"user_id": "3886",
+			"user_name": "Kwebz",
+			"avatar": null,
+			"contrib": "137"
+		},
+		{
+			"user_id": "3921",
+			"user_name": "devoucoux",
+			"avatar": null,
+			"contrib": "158"
+		},
+		{
+			"user_id": "5435",
+			"user_name": "Palothor",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/5435/Kappa2.png",
+			"contrib": "74"
+		},
+		{
+			"user_id": "3956",
+			"user_name": "Jeffrey Wagner",
+			"avatar": null,
+			"contrib": "144"
+		},
+		{
+			"user_id": "5575",
+			"user_name": "ROYER Margaux",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/5575/neck-tattoo-geometric-floral-pattern.jpg",
+			"contrib": "14"
+		},
+		{
+			"user_id": "4001",
+			"user_name": "Hezo",
+			"avatar": null,
+			"contrib": "186"
+		},
+		{
+			"user_id": "4033",
+			"user_name": "Kult",
+			"avatar": null,
+			"contrib": "128"
+		},
+		{
+			"user_id": "3717",
+			"user_name": "Nipica “Nipica64” R",
+			"avatar": null,
+			"contrib": "297"
+		},
+		{
+			"user_id": "19554",
+			"user_name": "Marie Laure Beaussoleil",
+			"avatar": null,
+			"contrib": "36"
+		},
+		{
+			"user_id": "763",
+			"user_name": "SERRE",
+			"avatar": null,
+			"contrib": "608"
+		},
+		{
+			"user_id": "4282",
+			"user_name": "John Doe",
+			"avatar": null,
+			"contrib": "95"
+		},
+		{
+			"user_id": "4367",
+			"user_name": "Erwan",
+			"avatar": null,
+			"contrib": "168"
+		},
+		{
+			"user_id": "4398",
+			"user_name": "melange",
+			"avatar": null,
+			"contrib": "62"
+		},
+		{
+			"user_id": "4369",
+			"user_name": "Sandra",
+			"avatar": null,
+			"contrib": "22"
+		},
+		{
+			"user_id": "3202",
+			"user_name": "gwen1232",
+			"avatar": null,
+			"contrib": "154"
+		},
+		{
+			"user_id": "3550",
+			"user_name": "BeTr4y4l",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/3550/napoleondos.jpg",
+			"contrib": "557"
+		},
+		{
+			"user_id": "4575",
+			"user_name": "Kaiirie",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/4575/Dragon_Knight_Water_Icon.png",
+			"contrib": "155"
+		},
+		{
+			"user_id": "4265",
+			"user_name": "David Goes",
+			"avatar": null,
+			"contrib": "146"
+		},
+		{
+			"user_id": "8473",
+			"user_name": "Romain Lalanne",
+			"avatar": null,
+			"contrib": "546"
+		},
+		{
+			"user_id": "4629",
+			"user_name": "jockfreakzz",
+			"avatar": null,
+			"contrib": "86"
+		},
+		{
+			"user_id": "4648",
+			"user_name": "Mauhulakh",
+			"avatar": null,
+			"contrib": "170"
+		},
+		{
+			"user_id": "4672",
+			"user_name": "Mercier",
+			"avatar": null,
+			"contrib": "86"
+		},
+		{
+			"user_id": "4801",
+			"user_name": "Mancini-J-F",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/4801/9ca68dd5e1458f68ff431033c1743472.jpg",
+			"contrib": "176"
+		},
+		{
+			"user_id": "4754",
+			"user_name": "aielander1",
+			"avatar": null,
+			"contrib": "202"
+		},
+		{
+			"user_id": "5848",
+			"user_name": "PoppyFr",
+			"avatar": null,
+			"contrib": "258"
+		},
+		{
+			"user_id": "6114",
+			"user_name": "Dorlyy",
+			"avatar": null,
+			"contrib": "34"
+		},
+		{
+			"user_id": "6149",
+			"user_name": "Pheyn",
+			"avatar": null,
+			"contrib": "226"
+		},
+		{
+			"user_id": "19379",
+			"user_name": "Arnaud BAGRI",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/19379//avatar.jpg",
+			"contrib": "552"
+		},
+		{
+			"user_id": "6436",
+			"user_name": "Arwemis",
+			"avatar": null,
+			"contrib": "92"
+		},
+		{
+			"user_id": "4989",
+			"user_name": "bhakuren",
+			"avatar": null,
+			"contrib": "242"
+		},
+		{
+			"user_id": "6574",
+			"user_name": "Overact",
+			"avatar": null,
+			"contrib": "195"
+		},
+		{
+			"user_id": "6736",
+			"user_name": "C4RRi3R",
+			"avatar": null,
+			"contrib": "184"
+		},
+		{
+			"user_id": "6804",
+			"user_name": "jeff n2d",
+			"avatar": null,
+			"contrib": "716"
+		},
+		{
+			"user_id": "6952",
+			"user_name": "DIKING zPRO",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/6952/logodiking.jpg",
+			"contrib": "530"
+		},
+		{
+			"user_id": "2907",
+			"user_name": "TrueFu",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/2907/moton2152.jpg",
+			"contrib": "519"
+		},
+		{
+			"user_id": "1802",
+			"user_name": "Gilles Bardouillet",
+			"avatar": null,
+			"contrib": "154"
+		},
+		{
+			"user_id": "7112",
+			"user_name": "Jasval22",
+			"avatar": null,
+			"contrib": "158"
+		},
+		{
+			"user_id": "6877",
+			"user_name": "Antoine Despres",
+			"avatar": null,
+			"contrib": "60"
+		},
+		{
+			"user_id": "6576",
+			"user_name": "ApdoTroy",
+			"avatar": null,
+			"contrib": "92"
+		},
+		{
+			"user_id": "7209",
+			"user_name": "ErAs0r",
+			"avatar": null,
+			"contrib": "184"
+		},
+		{
+			"user_id": "7257",
+			"user_name": "Polokrik",
+			"avatar": null,
+			"contrib": "152"
+		},
+		{
+			"user_id": "7079",
+			"user_name": "JFouLBoxon",
+			"avatar": null,
+			"contrib": "148"
+		},
+		{
+			"user_id": "7284",
+			"user_name": "FraGot Zephizou",
+			"avatar": null,
+			"contrib": "76"
+		},
+		{
+			"user_id": "7352",
+			"user_name": "Miraaq",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/7352/LOL.png",
+			"contrib": "78"
+		},
+		{
+			"user_id": "5634",
+			"user_name": "Jay",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/5634/204736.jpg",
+			"contrib": "772"
+		},
+		{
+			"user_id": "11503",
+			"user_name": "Christophe Burton",
+			"avatar": null,
+			"contrib": "476"
+		},
+		{
+			"user_id": "7370",
+			"user_name": "Liyron Philippe",
+			"avatar": null,
+			"contrib": "152"
+		},
+		{
+			"user_id": "3102",
+			"user_name": "Pavaux “Elysïum” Vincent",
+			"avatar": null,
+			"contrib": "62"
+		},
+		{
+			"user_id": "7311",
+			"user_name": "Alexcopin",
+			"avatar": null,
+			"contrib": "60"
+		},
+		{
+			"user_id": "7616",
+			"user_name": "Wicked",
+			"avatar": null,
+			"contrib": "198"
+		},
+		{
+			"user_id": "7631",
+			"user_name": "KhaGeex",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/7631/fuck.jpg",
+			"contrib": "103"
+		},
+		{
+			"user_id": "7862",
+			"user_name": "Jason",
+			"avatar": null,
+			"contrib": "98"
+		},
+		{
+			"user_id": "8010",
+			"user_name": "Arga",
+			"avatar": null,
+			"contrib": "56"
+		},
+		{
+			"user_id": "19287",
+			"user_name": "Nallatir Horion",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/19287/chat_sniper.jpg",
+			"contrib": "480"
+		},
+		{
+			"user_id": "8049",
+			"user_name": "Jeremy Heloin",
+			"avatar": null,
+			"contrib": "110"
+		},
+		{
+			"user_id": "8104",
+			"user_name": "Letoc",
+			"avatar": null,
+			"contrib": "52"
+		},
+		{
+			"user_id": "8127",
+			"user_name": "Scaxo",
+			"avatar": null,
+			"contrib": "146"
+		},
+		{
+			"user_id": "8292",
+			"user_name": "Auberon",
+			"avatar": null,
+			"contrib": "86"
+		},
+		{
+			"user_id": "6088",
+			"user_name": "Jean-Raphaël Biehler",
+			"avatar": null,
+			"contrib": "478"
+		},
+		{
+			"user_id": "7864",
+			"user_name": "QUINITO67",
+			"avatar": null,
+			"contrib": "94"
+		},
+		{
+			"user_id": "8410",
+			"user_name": "na",
+			"avatar": null,
+			"contrib": "118"
+		},
+		{
+			"user_id": "82",
+			"user_name": "Fresh Thoma",
+			"avatar": "http://cdn.shinsoft.fr/sw/upload/user/82/calme.jpg",
+			"contrib": "257"
+		},
+		{
+			"user_id": "8626",
+			"user_name": "ilanouh",
+			"avatar": null,
+			"contrib": "78"
+		},
+		{
+			"user_id": "8908",
+			"user_name": "Cyril",
+			"avatar": null,
+			"contrib": "190"
+		},
+		{
+			"user_id": "8986",
+			"user_name": "balef",
+			"avatar": null,
+			"contrib": "148"
+		},
+		{
+			"user_id": "8992",
+			"user_name": "Akatsuki",
+			"avatar": null,
+			"contrib": "244"
+		},
+		{
+			"user_id": "9085",
+			"user_name": "skoupayou",
+			"avatar": null,
+			"contrib": "82"
+		},
+		{
+			"user_id": "9198",
+			"user_name": "Lîndow",
+			"avatar": null,
+			"contrib": "72"
+		},
+		{
+			"user_id": "9238",
+			"user_name": "xSenna",
+			"avatar": null,
+			"contrib": "376"
+		},
+		{
+			"user_id": "9280",
+			"user_name": "seniso",
+			"avatar": null,
+			"contrib": "166"
+		},
+		{
+			"user_id": "13858",
+			"user_name": "Chiappelloni Christophe",
+			"avatar": null,
+			"contrib": "94"
+		},
+		{
+			"user_id": "9393",
+			"user_name": "Kalcifer",
+			"avatar": null,
+			"contrib": "70"
+		},
+		{
+			"user_id": "7971",
+			"user_name": "RaphyStoll",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/7971/raphystoll-profile_image-f00a97b6f723f3f0-300x300.png",
+			"contrib": "330"
+		},
+		{
+			"user_id": "15662",
+			"user_name": "Milva",
+			"avatar": null,
+			"contrib": "520"
+		},
+		{
+			"user_id": "9481",
+			"user_name": "Abso",
+			"avatar": null,
+			"contrib": "52"
+		},
+		{
+			"user_id": "9546",
+			"user_name": "Statheon",
+			"avatar": null,
+			"contrib": "246"
+		},
+		{
+			"user_id": "9552",
+			"user_name": "Diios",
+			"avatar": null,
+			"contrib": "160"
+		},
+		{
+			"user_id": "8164",
+			"user_name": "Darkneova",
+			"avatar": null,
+			"contrib": "70"
+		},
+		{
+			"user_id": "6375",
+			"user_name": "Ferdefeu",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/6375/Logo Fini.png",
+			"contrib": "181"
+		},
+		{
+			"user_id": "9638",
+			"user_name": "Nuinui",
+			"avatar": null,
+			"contrib": "190"
+		},
+		{
+			"user_id": "1199",
+			"user_name": "basubi",
+			"avatar": null,
+			"contrib": "180"
+		},
+		{
+			"user_id": "9701",
+			"user_name": "Ishzark",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/9701/12185382_10153724341223685_2548882454713308468_o.jpg",
+			"contrib": "234"
+		},
+		{
+			"user_id": "9615",
+			"user_name": "Christian",
+			"avatar": null,
+			"contrib": "263"
+		},
+		{
+			"user_id": "9746",
+			"user_name": "sebast",
+			"avatar": null,
+			"contrib": "20"
+		},
+		{
+			"user_id": "9915",
+			"user_name": "hastien",
+			"avatar": null,
+			"contrib": "90"
+		},
+		{
+			"user_id": "18493",
+			"user_name": "Dunadan",
+			"avatar": null,
+			"contrib": "430"
+		},
+		{
+			"user_id": "1846",
+			"user_name": "Leeangelmoon",
+			"avatar": null,
+			"contrib": "222"
+		},
+		{
+			"user_id": "10257",
+			"user_name": "Salenders",
+			"avatar": null,
+			"contrib": "100"
+		},
+		{
+			"user_id": "10276",
+			"user_name": "LiaDJOKE",
+			"avatar": null,
+			"contrib": "76"
+		},
+		{
+			"user_id": "10291",
+			"user_name": "lucas",
+			"avatar": null,
+			"contrib": "116"
+		},
+		{
+			"user_id": "8092",
+			"user_name": "KimiNymphea",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/8092/15895434_1904915813071933_8841525626970132432_o.jpg",
+			"contrib": "17"
+		},
+		{
+			"user_id": "10352",
+			"user_name": "Mathieu",
+			"avatar": null,
+			"contrib": "122"
+		},
+		{
+			"user_id": "10504",
+			"user_name": "Helli",
+			"avatar": null,
+			"contrib": "534"
+		},
+		{
+			"user_id": "10537",
+			"user_name": "Marimout",
+			"avatar": null,
+			"contrib": "209"
+		},
+		{
+			"user_id": "10656",
+			"user_name": "Charly Bachelin",
+			"avatar": null,
+			"contrib": "122"
+		},
+		{
+			"user_id": "10658",
+			"user_name": "Baldr Game",
+			"avatar": null,
+			"contrib": "416"
+		},
+		{
+			"user_id": "10713",
+			"user_name": "Arland",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/10713/lisboa-essencias-de-Portugal-.jpg",
+			"contrib": "60"
+		},
+		{
+			"user_id": "6223",
+			"user_name": "markvador49",
+			"avatar": null,
+			"contrib": "1230"
+		},
+		{
+			"user_id": "13978",
+			"user_name": "licorne",
+			"avatar": null,
+			"contrib": "598"
+		},
+		{
+			"user_id": "5600",
+			"user_name": "Nallatir",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/5600/chat_sniper.jpg",
+			"contrib": "148"
+		},
+		{
+			"user_id": "23827",
+			"user_name": "Sandrine Patin",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/23827/pinguin.png",
+			"contrib": "14"
+		},
+		{
+			"user_id": "16166",
+			"user_name": "Francky Maxi",
+			"avatar": null,
+			"contrib": "390"
+		},
+		{
+			"user_id": "11219",
+			"user_name": "Hugo Meunier",
+			"avatar": null,
+			"contrib": "87"
+		},
+		{
+			"user_id": "11549",
+			"user_name": "MarKamui",
+			"avatar": null,
+			"contrib": "714"
+		},
+		{
+			"user_id": "11861",
+			"user_name": "AlexandreSama",
+			"avatar": null,
+			"contrib": "205"
+		},
+		{
+			"user_id": "11880",
+			"user_name": "pomone",
+			"avatar": null,
+			"contrib": "109"
+		},
+		{
+			"user_id": "11896",
+			"user_name": "Kenji",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/11896/ff13-vs.jpg",
+			"contrib": "310"
+		},
+		{
+			"user_id": "1303",
+			"user_name": "mooha",
+			"avatar": null,
+			"contrib": "160"
+		},
+		{
+			"user_id": "12261",
+			"user_name": "Fremilia",
+			"avatar": null,
+			"contrib": "178"
+		},
+		{
+			"user_id": "17970",
+			"user_name": "Flávio Bento",
+			"avatar": null,
+			"contrib": "258"
+		},
+		{
+			"user_id": "7113",
+			"user_name": "Datytlh",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/7113/niort1.jpg",
+			"contrib": "229"
+		},
+		{
+			"user_id": "7756",
+			"user_name": "Vampire142",
+			"avatar": null,
+			"contrib": "352"
+		},
+		{
+			"user_id": "6155",
+			"user_name": "Laurie Boyer",
+			"avatar": null,
+			"contrib": "35"
+		},
+		{
+			"user_id": "10067",
+			"user_name": "maxime massaer",
+			"avatar": null,
+			"contrib": "172"
+		},
+		{
+			"user_id": "2895",
+			"user_name": "Alex Gt",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/2895/Talon wallpp.jpeg",
+			"contrib": "207"
+		},
+		{
+			"user_id": "12627",
+			"user_name": "AioSentinell",
+			"avatar": null,
+			"contrib": "610"
+		},
+		{
+			"user_id": "12549",
+			"user_name": "Grégory Eicher",
+			"avatar": null,
+			"contrib": "632"
+		},
+		{
+			"user_id": "9317",
+			"user_name": "manu sarabia",
+			"avatar": null,
+			"contrib": "208"
+		},
+		{
+			"user_id": "13207",
+			"user_name": "MrTheMarcusss",
+			"avatar": null,
+			"contrib": "194"
+		},
+		{
+			"user_id": "13514",
+			"user_name": "MoiMeme",
+			"avatar": null,
+			"contrib": "138"
+		},
+		{
+			"user_id": "9596",
+			"user_name": "C4ptain S4m",
+			"avatar": null,
+			"contrib": "60"
+		},
+		{
+			"user_id": "10841",
+			"user_name": "Mehdi Boutet",
+			"avatar": null,
+			"contrib": "107"
+		},
+		{
+			"user_id": "6194",
+			"user_name": "donrom",
+			"avatar": null,
+			"contrib": "233"
+		},
+		{
+			"user_id": "13256",
+			"user_name": "Lafourcade",
+			"avatar": null,
+			"contrib": "134"
+		},
+		{
+			"user_id": "13879",
+			"user_name": "Chninkel",
+			"avatar": null,
+			"contrib": "190"
+		},
+		{
+			"user_id": "13748",
+			"user_name": "Marc Soune-Seyne",
+			"avatar": null,
+			"contrib": "262"
+		},
+		{
+			"user_id": "13952",
+			"user_name": "chatelier",
+			"avatar": null,
+			"contrib": "268"
+		},
+		{
+			"user_id": "13981",
+			"user_name": "Gideon62",
+			"avatar": null,
+			"contrib": "254"
+		},
+		{
+			"user_id": "14196",
+			"user_name": "RaitenTaisou",
+			"avatar": null,
+			"contrib": "88"
+		},
+		{
+			"user_id": "14166",
+			"user_name": "Romain Masson",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/14166/1525_milwaukee_brewers-cap-2016.png",
+			"contrib": "544"
+		},
+		{
+			"user_id": "14308",
+			"user_name": "Mickaël Hernandez",
+			"avatar": null,
+			"contrib": "68"
+		},
+		{
+			"user_id": "13925",
+			"user_name": "Vasco Alves",
+			"avatar": null,
+			"contrib": "158"
+		},
+		{
+			"user_id": "13493",
+			"user_name": "Justpriest",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/13493/1-36.png",
+			"contrib": "108"
+		},
+		{
+			"user_id": "14378",
+			"user_name": "Knight-sevy",
+			"avatar": null,
+			"contrib": "134"
+		},
+		{
+			"user_id": "10694",
+			"user_name": "harlockS00999",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/10694/1458978083777.jpeg",
+			"contrib": "118"
+		},
+		{
+			"user_id": "13363",
+			"user_name": "TheR7angelo",
+			"avatar": null,
+			"contrib": "206"
+		},
+		{
+			"user_id": "14301",
+			"user_name": "Master Zoug",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/14301/neko_cube.jpg",
+			"contrib": "277"
+		},
+		{
+			"user_id": "15121",
+			"user_name": "Aigloun",
+			"avatar": null,
+			"contrib": "116"
+		},
+		{
+			"user_id": "3156",
+			"user_name": "Haroun Cheref",
+			"avatar": null,
+			"contrib": "1135"
+		},
+		{
+			"user_id": "15303",
+			"user_name": "Fabien Sarazin",
+			"avatar": null,
+			"contrib": "1043"
+		},
+		{
+			"user_id": "1053",
+			"user_name": "Tsensei",
+			"avatar": null,
+			"contrib": "647"
+		},
+		{
+			"user_id": "13576",
+			"user_name": "Cerry - Bifleurs",
+			"avatar": null,
+			"contrib": "489"
+		},
+		{
+			"user_id": "2628",
+			"user_name": "Easyghost",
+			"avatar": null,
+			"contrib": "775"
+		},
+		{
+			"user_id": "5831",
+			"user_name": "NachoHume",
+			"avatar": null,
+			"contrib": "635"
+		},
+		{
+			"user_id": "16601",
+			"user_name": "David Thierry",
+			"avatar": null,
+			"contrib": "449"
+		},
+		{
+			"user_id": "1377",
+			"user_name": "Rastafog",
+			"avatar": null,
+			"contrib": "233"
+		},
+		{
+			"user_id": "11070",
+			"user_name": "Draseres PvP",
+			"avatar": null,
+			"contrib": "481"
+		},
+		{
+			"user_id": "16857",
+			"user_name": "Tricom",
+			"avatar": null,
+			"contrib": "82"
+		},
+		{
+			"user_id": "821",
+			"user_name": "darkSordon",
+			"avatar": "http://cdn.shinsoft.fr/sw/upload/user/821/icone bilal.jpg",
+			"contrib": "665"
+		},
+		{
+			"user_id": "17052",
+			"user_name": "Paul-Lucas Estrada",
+			"avatar": null,
+			"contrib": "420"
+		},
+		{
+			"user_id": "17055",
+			"user_name": "Soak",
+			"avatar": null,
+			"contrib": "431"
+		},
+		{
+			"user_id": "17063",
+			"user_name": "raptore91",
+			"avatar": null,
+			"contrib": "452"
+		},
+		{
+			"user_id": "6636",
+			"user_name": "Dsitrezo",
+			"avatar": null,
+			"contrib": "716"
+		},
+		{
+			"user_id": "17131",
+			"user_name": "krystopher",
+			"avatar": null,
+			"contrib": "60"
+		},
+		{
+			"user_id": "11569",
+			"user_name": "Loïc Domin",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/11569/aLMMpgg_460s.jpg",
+			"contrib": "535"
+		},
+		{
+			"user_id": "16500",
+			"user_name": "Jonathan Boomer Messina",
+			"avatar": null,
+			"contrib": "399"
+		},
+		{
+			"user_id": "17439",
+			"user_name": "Renaud Lemée (Ren86)",
+			"avatar": null,
+			"contrib": "418"
+		},
+		{
+			"user_id": "11737",
+			"user_name": "Brunk Mortel",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/11737/A-metroid.jpg",
+			"contrib": "466"
+		},
+		{
+			"user_id": "17846",
+			"user_name": "astrollerN",
+			"avatar": null,
+			"contrib": "424"
+		},
+		{
+			"user_id": "10469",
+			"user_name": "Glorfy",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/10469/Kirigaya Kazuto.jpg",
+			"contrib": "555"
+		},
+		{
+			"user_id": "18014",
+			"user_name": "Mycocoze",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/18014/IMG_2071.JPG",
+			"contrib": "503"
+		},
+		{
+			"user_id": "18090",
+			"user_name": "Mathieu Rogy",
+			"avatar": null,
+			"contrib": "728"
+		},
+		{
+			"user_id": "15214",
+			"user_name": "Musashi Myamoto (Corbeau22)",
+			"avatar": null,
+			"contrib": "65"
+		},
+		{
+			"user_id": "20278",
+			"user_name": "Bruno Bandeira",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/20278//avatar.jpg",
+			"contrib": "4"
+		},
+		{
+			"user_id": "20494",
+			"user_name": "Kelen Nakatsu Dummy Japan (1 pullip)",
+			"avatar": null,
+			"contrib": "246"
+		},
+		{
+			"user_id": "20584",
+			"user_name": "Angel Martinez (Nakker)",
+			"avatar": null,
+			"contrib": "380"
+		},
+		{
+			"user_id": "20948",
+			"user_name": "Oscar Larquey",
+			"avatar": null,
+			"contrib": "155"
+		},
+		{
+			"user_id": "18385",
+			"user_name": "mickael drugeau",
+			"avatar": null,
+			"contrib": "462"
+		},
+		{
+			"user_id": "21113",
+			"user_name": "Rémi SlaaXx Nardi",
+			"avatar": null,
+			"contrib": "488"
+		},
+		{
+			"user_id": "19101",
+			"user_name": "Antonin Bourrelly",
+			"avatar": null,
+			"contrib": "386"
+		},
+		{
+			"user_id": "21318",
+			"user_name": "soleil",
+			"avatar": null,
+			"contrib": "462"
+		},
+		{
+			"user_id": "21467",
+			"user_name": "Guiruya",
+			"avatar": null,
+			"contrib": "490"
+		},
+		{
+			"user_id": "21510",
+			"user_name": "Jérôme Vanbaelen",
+			"avatar": null,
+			"contrib": "582"
+		},
+		{
+			"user_id": "17767",
+			"user_name": "BroKen DreamZ",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/17767//avatar.jpg",
+			"contrib": "472"
+		},
+		{
+			"user_id": "17377",
+			"user_name": "Fed",
+			"avatar": null,
+			"contrib": "122"
+		},
+		{
+			"user_id": "22314",
+			"user_name": "Julien Legrand",
+			"avatar": null,
+			"contrib": "689"
+		},
+		{
+			"user_id": "19213",
+			"user_name": "Darnalean",
+			"avatar": null,
+			"contrib": "450"
+		},
+		{
+			"user_id": "22576",
+			"user_name": "Kieu Minh Tu Anh",
+			"avatar": null,
+			"contrib": "0"
+		},
+		{
+			"user_id": "22622",
+			"user_name": "Gemini Returns",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/22622//avatar.jpg",
+			"contrib": "0"
+		},
+		{
+			"user_id": "23020",
+			"user_name": "Toni Kilpeläinen",
+			"avatar": null,
+			"contrib": "0"
+		},
+		{
+			"user_id": "13812",
+			"user_name": "pavix1.1",
+			"avatar": null,
+			"contrib": "67"
+		},
+		{
+			"user_id": "23341",
+			"user_name": "Khaonak",
+			"avatar": null,
+			"contrib": "1130"
+		},
+		{
+			"user_id": "22333",
+			"user_name": "Jeremy Lerebours",
+			"avatar": null,
+			"contrib": "478"
+		},
+		{
+			"user_id": "23885",
+			"user_name": "Naomi Doring",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/23885//avatar.jpg",
+			"contrib": "62"
+		},
+		{
+			"user_id": "23960",
+			"user_name": "Patty Forster",
+			"avatar": null,
+			"contrib": "176"
+		},
+		{
+			"user_id": "24046",
+			"user_name": "Nicolas L'Hoir",
+			"avatar": null,
+			"contrib": "116"
+		},
+		{
+			"user_id": "24699",
+			"user_name": "Seebirt",
+			"avatar": null,
+			"contrib": "598"
+		},
+		{
+			"user_id": "24088",
+			"user_name": "Hervé DUPE",
+			"avatar": null,
+			"contrib": "274"
+		},
+		{
+			"user_id": "22871",
+			"user_name": "Pandez",
+			"avatar": null,
+			"contrib": "0"
+		},
+		{
+			"user_id": "25641",
+			"user_name": "Melissa Whalen",
+			"avatar": null,
+			"contrib": "0"
+		},
+		{
+			"user_id": "25820",
+			"user_name": "Séverine Delorme-Rosier",
+			"avatar": null,
+			"contrib": "0"
+		}
+	],
+	"awakenings": [
+		{
+			"summon_id": 111,
+			"attribute_id": 1,
+			"size": "LOW",
+			"quantity": 10,
+			"attribute": {
+				"id": 1,
+				"tid": "WIND"
+			}
+		},
+		{
+			"summon_id": 111,
+			"attribute_id": 1,
+			"size": "MID",
+			"quantity": 5,
+			"attribute": {
+				"id": 1,
+				"tid": "WIND"
+			}
+		},
+		{
+			"summon_id": 111,
+			"attribute_id": 6,
+			"size": "LOW",
+			"quantity": 15,
+			"attribute": {
+				"id": 6,
+				"tid": "MAGIC"
+			}
+		},
+		{
+			"summon_id": 111,
+			"attribute_id": 6,
+			"size": "MID",
+			"quantity": 10,
+			"attribute": {
+				"id": 6,
+				"tid": "MAGIC"
+			}
+		}
+	],
+	"awakening_bonus": {
+		"summon_id": 111,
+		"stat": "SKILL",
+		"value": 26093,
+		"skill": {
+			"id": 26093,
+			"summon_id": 111,
+			"translate_id": "AEILENE.SPIRIT'S_WRATH",
+			"type": "ACTIVE",
+			"icon_path": "http://cdn.shinsoft.fr/sw/skill/icon/skill-aeilene.spirit's_wrath.jpg",
+			"modifier": "690%",
+			"req_awaken": 1,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [],
+			"name": "Spirit's Wrath"
+		}
+	},
+	"abilities": [
+		{
+			"id": 24,
+			"tid": "DEBUFF.STUN"
+		},
+		{
+			"id": 30,
+			"tid": "CAP.CLEANSE"
+		},
+		{
+			"id": 33,
+			"tid": "CAP.HEAL"
+		}
+	],
+	"skills": [
+		{
+			"id": 26093,
+			"translate_id": "AEILENE.SPIRIT'S_WRATH",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-aeilene.spirit's_wrath.jpg",
+			"modifier": "690%",
+			"req_awaken": 1,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "AEILENE.SPIRIT'S_WRATH",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Spirit's Wrath"
+				}
+			],
+			"name": "Spirit's Wrath",
+			"desc_translates": [
+				{
+					"id": "AEILENE.SPIRIT'S_WRATH",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks the enemy with the spirit's power. Damage is increased by 30% for each harmful effect on the enemy. (Reusable in 4 turns)"
+				}
+			],
+			"desc": "Attacks the enemy with the spirit's power. Damage is increased by 30% for each harmful effect on the enemy. (Reusable in 4 turns)",
+			"evolve_translates": [
+				{
+					"id": "AEILENE.SPIRIT'S_WRATH",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Damage +10%<br />\r\nLv.3 Damage +10%<br />\r\nLv.4 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Damage +10%<br />\r\nLv.3 Damage +10%<br />\r\nLv.4 Cooltime Turn -1"
+		},
+		{
+			"id": 26092,
+			"translate_id": "AEILENE.PURIFY",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-aeilene.purify.jpg",
+			"modifier": "480%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "AEILENE.PURIFY",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Purify"
+				}
+			],
+			"name": "Purify",
+			"desc_translates": [
+				{
+					"id": "AEILENE.PURIFY",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Removes all harmful effects on the target ally and recovers its HP. The recovery amount is proportionate to the Attack Power. (Reusable in 2 turns)"
+				}
+			],
+			"desc": "Removes all harmful effects on the target ally and recovers its HP. The recovery amount is proportionate to the Attack Power. (Reusable in 2 turns)",
+			"evolve_translates": [
+				{
+					"id": "AEILENE.PURIFY",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Recovery +5%<br />\r\nLv.3 Recovery +5%<br />\r\nLv.4 Recovery +10%<br />\r\nLv.5 Recovery +10%<br />\r\nLv.6 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Recovery +5%<br />\r\nLv.3 Recovery +5%<br />\r\nLv.4 Recovery +10%<br />\r\nLv.5 Recovery +10%<br />\r\nLv.6 Cooltime Turn -1"
+		},
+		{
+			"id": 26091,
+			"translate_id": "AEILENE.GUST",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-aeilene.gust.jpg",
+			"modifier": "140% x3",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "AEILENE.GUST",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Gust"
+				}
+			],
+			"name": "Gust",
+			"desc_translates": [
+				{
+					"id": "AEILENE.GUST",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks the enemy 3 times with a whirling gust of wind. Stuns the enemy for 1 turn with a 60% chance. If the target is immune to stun, reduces the target's Attack Bar to 0 with a 60% chance."
+				}
+			],
+			"desc": "Attacks the enemy 3 times with a whirling gust of wind. Stuns the enemy for 1 turn with a 60% chance. If the target is immune to stun, reduces the target's Attack Bar to 0 with a 60% chance.",
+			"evolve_translates": [
+				{
+					"id": "AEILENE.GUST",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Harmful effect Rate +5%<br />\r\nLv.3 Damage +10%<br />\r\nLv.4 Harmful effect Rate +5%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Harmful effect Rate +5%<br />\r\nLv.7 Damage +10%<br />\r\nLv.8 Harmful effect Rate +25%"
+				}
+			],
+			"evolve": "Lv.2 Harmful effect Rate +5%<br />\r\nLv.3 Damage +10%<br />\r\nLv.4 Harmful effect Rate +5%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Harmful effect Rate +5%<br />\r\nLv.7 Damage +10%<br />\r\nLv.8 Harmful effect Rate +25%"
+		},
+		{
+			"id": 28066,
+			"translate_id": "AEILENE.SPIRIT'S_WRATH_(PASSIVE)",
+			"type": "PASSIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-aeilene.spirit's_wrath_(passive).jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "AEILENE.SPIRIT'S_WRATH_(PASSIVE)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Spirit's Wrath (Passive)"
+				}
+			],
+			"name": "Spirit's Wrath (Passive)",
+			"desc_translates": [
+				{
+					"id": "AEILENE.SPIRIT'S_WRATH_(PASSIVE)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "The inflicting damage is increased by 30% for each harmful effect on the enemy. [Automatic Effect]"
+				}
+			],
+			"desc": "The inflicting damage is increased by 30% for each harmful effect on the enemy. [Automatic Effect]"
+		}
+	],
+	"stats": [
+		{
+			"summon_id": 111,
+			"grade": 2,
+			"level": 1,
+			"awakened": 0,
+			"atk": 77,
+			"hp": 1080,
+			"def": 67,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 2,
+			"level": 1,
+			"awakened": 1,
+			"atk": 88,
+			"hp": 1155,
+			"def": 75,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 2,
+			"level": 20,
+			"awakened": 0,
+			"atk": 145,
+			"hp": 2040,
+			"def": 127,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 2,
+			"level": 20,
+			"awakened": 1,
+			"atk": 167,
+			"hp": 2175,
+			"def": 142,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 3,
+			"level": 1,
+			"awakened": 0,
+			"atk": 116,
+			"hp": 1635,
+			"def": 102,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 3,
+			"level": 1,
+			"awakened": 1,
+			"atk": 133,
+			"hp": 1740,
+			"def": 114,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 3,
+			"level": 25,
+			"awakened": 0,
+			"atk": 209,
+			"hp": 2940,
+			"def": 183,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 3,
+			"level": 25,
+			"awakened": 1,
+			"atk": 240,
+			"hp": 3135,
+			"def": 205,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 4,
+			"level": 1,
+			"awakened": 0,
+			"atk": 168,
+			"hp": 2355,
+			"def": 147,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 4,
+			"level": 1,
+			"awakened": 1,
+			"atk": 192,
+			"hp": 2520,
+			"def": 164,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 4,
+			"level": 30,
+			"awakened": 0,
+			"atk": 285,
+			"hp": 4005,
+			"def": 250,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 4,
+			"level": 30,
+			"awakened": 1,
+			"atk": 327,
+			"hp": 4275,
+			"def": 279,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 5,
+			"level": 1,
+			"awakened": 0,
+			"atk": 228,
+			"hp": 3210,
+			"def": 200,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 5,
+			"level": 1,
+			"awakened": 1,
+			"atk": 261,
+			"hp": 3420,
+			"def": 223,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 5,
+			"level": 35,
+			"awakened": 0,
+			"atk": 387,
+			"hp": 5445,
+			"def": 339,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 5,
+			"level": 35,
+			"awakened": 1,
+			"atk": 444,
+			"hp": 5805,
+			"def": 379,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 6,
+			"level": 1,
+			"awakened": 0,
+			"atk": 310,
+			"hp": 4365,
+			"def": 271,
+			"spd": 103,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 6,
+			"level": 1,
+			"awakened": 1,
+			"atk": 355,
+			"hp": 4650,
+			"def": 304,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 6,
+			"level": 40,
+			"awakened": 0,
+			"atk": 527,
+			"hp": 7410,
+			"def": 461,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 111,
+			"grade": 6,
+			"level": 40,
+			"awakened": 1,
+			"atk": 604,
+			"hp": 7905,
+			"def": 516,
+			"spd": 104,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		}
+	],
+	"statsfix": {
+		"0": {
+			"spd": "103",
+			"crit_rate": "15",
+			"crit_dmg": "50",
+			"res": "15",
+			"acc": "0"
+		},
+		"1": {
+			"spd": "104",
+			"crit_rate": "15",
+			"crit_dmg": "50",
+			"res": "15",
+			"acc": "0"
+		}
+	},
+	"same_as": [
+		{
+			"id": 53,
+			"name": "Iselia",
+			"name_translation": {
+				"EN": "Iselia"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-iselia.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-iselia.png",
+			"grade": 3,
+			"last_update_ts": "1592177486",
+			"type_id": 14,
+			"type": {
+				"tid": "FAIRY"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 150,
+			"name": "Sorin",
+			"name_translation": {
+				"EN": "Sorin"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-sorin.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-sorin.png",
+			"grade": 2,
+			"last_update_ts": "1592177411",
+			"type_id": 14,
+			"type": {
+				"tid": "FAIRY"
+			},
+			"attribute_id": 5,
+			"attribute": {
+				"tid": "DARK"
+			},
+			"class_id": 1,
+			"class": {
+				"tid": "ATTACK"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 217,
+			"name": "Elucia",
+			"name_translation": {
+				"EN": "Elucia"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-elucia.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-elucia.png",
+			"grade": 3,
+			"last_update_ts": "1590363084",
+			"type_id": 14,
+			"type": {
+				"tid": "FAIRY"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"reviews_summary": {
+				"food": {
+					"count": 2,
+					"percent": 100
+				},
+				"keep": {
+					"count": 0,
+					"percent": 0
+				},
+				"five_stars": {
+					"count": 0,
+					"percent": 0
+				},
+				"six_stars": {
+					"count": 0,
+					"percent": 0
+				}
+			}
+		},
+		{
+			"id": 246,
+			"name": "Neal",
+			"name_translation": {
+				"EN": "Neal"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-neal.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-neal.png",
+			"grade": 3,
+			"last_update_ts": "1589758270",
+			"type_id": 14,
+			"type": {
+				"tid": "FAIRY"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 2,
+			"class": {
+				"tid": "SUPPORT"
+			},
+			"reviews_summary": null
+		}
+	],
+	"runes": [
+		{
+			"build": {
+				"id": 2,
+				"name": "Late Game",
+				"comment": null,
+				"usages": 0,
+				"user_id": null,
+				"validated": 1,
+				"like": 1,
+				"like_by": "kiba14",
+				"dislike": 0,
+				"dislike_by": null,
+				"create_date": "2015-09-28 11:38:53",
+				"create_date_ts": 1443433133,
+				"recommanded": false
+			},
+			"runes": [
+				{
+					"id": 2,
+					"idx": 1,
+					"stat": "ATK",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 2,
+					"idx": 2,
+					"stat": "ATK_PERCENT",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 2,
+					"idx": 3,
+					"stat": "DEF",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 2,
+					"idx": 4,
+					"stat": "ATK_PERCENT",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 2,
+					"idx": 5,
+					"stat": "HP",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				},
+				{
+					"id": 2,
+					"idx": 6,
+					"stat": "HP_PERCENT",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				}
+			],
+			"recap": {
+				"sets": {
+					"0": "VIOLENT",
+					"4": "ENERGY"
+				},
+				"slots": [
+					{
+						"stat": "ATK",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "ATK_PERCENT",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "DEF",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "ATK_PERCENT",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "HP",
+						"set_tid": "ENERGY"
+					},
+					{
+						"stat": "HP_PERCENT",
+						"set_tid": "ENERGY"
+					}
+				]
+			}
+		},
+		{
+			"build": {
+				"id": 1,
+				"name": "Basic",
+				"comment": null,
+				"usages": 1,
+				"user_id": null,
+				"validated": 1,
+				"like": 0,
+				"like_by": null,
+				"dislike": 0,
+				"dislike_by": null,
+				"create_date": "2015-09-28 11:38:53",
+				"create_date_ts": 1443433133,
+				"recommanded": false
+			},
+			"runes": [
+				{
+					"id": 1,
+					"idx": 1,
+					"stat": "ATK",
+					"set_id": 1,
+					"set": {
+						"id": 1,
+						"tid": "FATAL",
+						"nb_req": 4,
+						"location_id": 2,
+						"location": {
+							"id": 2,
+							"tid": "MT_SIZ"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 2,
+					"stat": "ATK_PERCENT",
+					"set_id": 1,
+					"set": {
+						"id": 1,
+						"tid": "FATAL",
+						"nb_req": 4,
+						"location_id": 2,
+						"location": {
+							"id": 2,
+							"tid": "MT_SIZ"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 3,
+					"stat": "DEF",
+					"set_id": 1,
+					"set": {
+						"id": 1,
+						"tid": "FATAL",
+						"nb_req": 4,
+						"location_id": 2,
+						"location": {
+							"id": 2,
+							"tid": "MT_SIZ"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 4,
+					"stat": "ATK_PERCENT",
+					"set_id": 1,
+					"set": {
+						"id": 1,
+						"tid": "FATAL",
+						"nb_req": 4,
+						"location_id": 2,
+						"location": {
+							"id": 2,
+							"tid": "MT_SIZ"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 5,
+					"stat": "HP",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 6,
+					"stat": "HP_PERCENT",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				}
+			],
+			"recap": {
+				"sets": {
+					"0": "FATAL",
+					"4": "ENERGY"
+				},
+				"slots": [
+					{
+						"stat": "ATK",
+						"set_tid": "FATAL"
+					},
+					{
+						"stat": "ATK_PERCENT",
+						"set_tid": "FATAL"
+					},
+					{
+						"stat": "DEF",
+						"set_tid": "FATAL"
+					},
+					{
+						"stat": "ATK_PERCENT",
+						"set_tid": "FATAL"
+					},
+					{
+						"stat": "HP",
+						"set_tid": "ENERGY"
+					},
+					{
+						"stat": "HP_PERCENT",
+						"set_tid": "ENERGY"
+					}
+				]
+			}
+		},
+		{
+			"build": {
+				"id": 3,
+				"name": "Late Game",
+				"comment": null,
+				"usages": 0,
+				"user_id": null,
+				"validated": 1,
+				"like": 0,
+				"like_by": null,
+				"dislike": 0,
+				"dislike_by": null,
+				"create_date": "2015-09-28 11:38:53",
+				"create_date_ts": 1443433133,
+				"recommanded": false
+			},
+			"runes": [
+				{
+					"id": 3,
+					"idx": 1,
+					"stat": "ATK",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 3,
+					"idx": 2,
+					"stat": "ATK_PERCENT",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 3,
+					"idx": 3,
+					"stat": "DEF",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 3,
+					"idx": 4,
+					"stat": "ATK_PERCENT",
+					"set_id": 9,
+					"set": {
+						"id": 9,
+						"tid": "VIOLENT",
+						"nb_req": 4,
+						"location_id": 52,
+						"location": {
+							"id": 52,
+							"tid": "DRAGONS_LAIR"
+						}
+					}
+				},
+				{
+					"id": 3,
+					"idx": 5,
+					"stat": "HP",
+					"set_id": 15,
+					"set": {
+						"id": 15,
+						"tid": "REVENGE",
+						"nb_req": 2,
+						"location_id": 9,
+						"location": {
+							"id": 9,
+							"tid": "FAIMON_VOLCANO"
+						}
+					}
+				},
+				{
+					"id": 3,
+					"idx": 6,
+					"stat": "HP_PERCENT",
+					"set_id": 15,
+					"set": {
+						"id": 15,
+						"tid": "REVENGE",
+						"nb_req": 2,
+						"location_id": 9,
+						"location": {
+							"id": 9,
+							"tid": "FAIMON_VOLCANO"
+						}
+					}
+				}
+			],
+			"recap": {
+				"sets": {
+					"0": "VIOLENT",
+					"4": "REVENGE"
+				},
+				"slots": [
+					{
+						"stat": "ATK",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "ATK_PERCENT",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "DEF",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "ATK_PERCENT",
+						"set_tid": "VIOLENT"
+					},
+					{
+						"stat": "HP",
+						"set_tid": "REVENGE"
+					},
+					{
+						"stat": "HP_PERCENT",
+						"set_tid": "REVENGE"
+					}
+				]
+			}
+		}
+	],
+	"substats": [
+		"CRIT_RATE",
+		"CRIT_DMG",
+		"ATK_PERCENT",
+		"SPD",
+		"HP_PERCENT"
+	],
+	"material_fusion": [
+		{
+			"summon_id": 533,
+			"material_summon_id": 111,
+			"awakened": 1,
+			"grade": 4,
+			"summon": {
+				"id": 533,
+				"name": "Harmonia",
+				"name_translation": {
+					"EN": "Harmonia"
+				},
+				"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-harmonia.png",
+				"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-harmonia.png",
+				"grade": 4,
+				"last_update_ts": "1587632711",
+				"type_id": 96,
+				"type": {
+					"tid": "HARP_MAGICIAN"
+				},
+				"attribute_id": 2,
+				"attribute": {
+					"tid": "FIRE"
+				},
+				"class_id": 2,
+				"class": {
+					"tid": "SUPPORT"
+				},
+				"rating": {
+					"users": 8,
+					"overall": null
+				},
+				"users_rating": {
+					"overall": {
+						"giants": 4,
+						"dragons": 8,
+						"necropolis": 5,
+						"toa": 8,
+						"toa_hm": 9,
+						"arena_offense": 9,
+						"arena_defense": 8,
+						"guildwar_offense": 9,
+						"guildwar_defense": 8,
+						"overall_rating": 8,
+						"raid": 8,
+						"categories": {
+							"dungeon": 6,
+							"toa": 9,
+							"arena": 9,
+							"gvg": 9
+						}
+					}
+				},
+				"reviews_summary": {
+					"food": {
+						"count": 0,
+						"percent": 0
+					},
+					"keep": {
+						"count": 1,
+						"percent": 100
+					},
+					"five_stars": {
+						"count": 0,
+						"percent": 0
+					},
+					"six_stars": {
+						"count": 1,
+						"percent": 100
+					}
+				}
+			}
+		}
+	],
+	"comments": [
+		{
+			"id": 3043,
+			"parent_id": null,
+			"summon_id": 111,
+			"user_id": 7751,
+			"title": "Langauge",
+			"comment": "Csak spanyol van itt? Magyar nuku?",
+			"langcode": "FR",
+			"last_update": "2017-06-18 11:46:28",
+			"last_update_ts": "1497779188000",
+			"author": {
+				"id": 7751,
+				"name": "Szitty",
+				"title": null,
+				"know_more": null,
+				"avatar": "",
+				"contrib": 9,
+				"langcode": "EN",
+				"permissions": {
+					"logged": true
+				}
+			},
+			"like": {
+				"nb": 0,
+				"user_id": [],
+				"by": ""
+			}
+		},
+		{
+			"id": 2836,
+			"parent_id": null,
+			"summon_id": 111,
+			"user_id": 12985,
+			"title": "Runages",
+			"comment": "Bonjour pouvez vous me donner des conseil pour le runages svp",
+			"langcode": "FR",
+			"last_update": "2017-04-21 11:09:55",
+			"last_update_ts": "1492765795000",
+			"author": {
+				"id": 12985,
+				"name": "Mélissa Robert",
+				"title": null,
+				"know_more": null,
+				"avatar": "",
+				"contrib": 4,
+				"langcode": "FR",
+				"permissions": {
+					"logged": true
+				}
+			},
+			"like": {
+				"nb": 0,
+				"user_id": [],
+				"by": ""
+			}
+		},
+		{
+			"id": 830,
+			"parent_id": null,
+			"summon_id": 111,
+			"user_id": 1969,
+			"title": "???",
+			"comment": "Quelqu'un peut me dire pourquoi elle a 6* de moyenne?",
+			"langcode": "FR",
+			"last_update": "2016-02-24 18:17:44",
+			"last_update_ts": "1456334264000",
+			"author": {
+				"id": 1969,
+				"name": "juju 52575",
+				"title": null,
+				"know_more": null,
+				"avatar": "https://cdn.sw-db.com/sw/upload/user/1969/TheBoomrang589.png",
+				"contrib": 35,
+				"langcode": "FR",
+				"permissions": {
+					"logged": true
+				}
+			},
+			"like": {
+				"nb": 1,
+				"user_id": [
+					11022
+				],
+				"by": "{E_X}_Atomic_"
+			},
+			"responses": [
+				{
+					"id": 836,
+					"parent_id": 830,
+					"summon_id": 111,
+					"user_id": 1,
+					"title": "Moyenne",
+					"comment": "Elle a 6/10 de moyenne.  Vous Pouvez consulter le détail dans la partie Notation",
+					"langcode": "FR",
+					"last_update": "2016-02-25 08:10:39",
+					"last_update_ts": "1456384239000",
+					"author": {
+						"id": 1,
+						"name": "Shinzah",
+						"title": "Créateur de SW-DB",
+						"know_more": "<p>Créateur, développeur de SW-DB et joueur casual de Summoners War</p>",
+						"avatar": "https://cdn.shinsoft.fr/sw/upload/user/1/AK_Cine_Classe.png",
+						"contrib": 1749,
+						"langcode": "FR",
+						"permissions": {
+							"logged": true,
+							"admin": true,
+							"moderator": true,
+							"donator": true,
+							"translator": true,
+							"beta": true
+						},
+						"groups": [
+							{
+								"id": 1,
+								"name": "Administrator",
+								"name_tid": "USER_ADMIN",
+								"description": "SW-DB administrators",
+								"label": {
+									"name": "Admin",
+									"color": "danger"
+								}
+							},
+							{
+								"id": 2,
+								"name": "Moderator",
+								"name_tid": "USER_MODERATOR",
+								"description": "SW-DB moderators"
+							},
+							{
+								"id": 3,
+								"name": "PRO",
+								"name_tid": "USER_DONATOR",
+								"description": "SW-DB Pro version"
+							},
+							{
+								"id": 4,
+								"name": "Staff",
+								"name_tid": "USER_STAFF",
+								"description": "SW-DB Staff"
+							},
+							{
+								"id": 6,
+								"name": "Translator",
+								"name_tid": "USER_TRANSLATOR",
+								"description": "SW-DB Translators"
+							},
+							{
+								"id": 7,
+								"name": "Beta",
+								"name_tid": "USER_BETA",
+								"description": "SW-DB Beta testers"
+							}
+						]
+					},
+					"like": {
+						"nb": 1,
+						"user_id": [
+							11022
+						],
+						"by": "{E_X}_Atomic_"
+					}
+				}
+			]
+		}
+	],
+	"all_comments": [
+		{
+			"date": "1456334264000"
+		},
+		{
+			"date": "1456384239000"
+		},
+		{
+			"date": "1492765795000"
+		},
+		{
+			"date": "1497779188000"
+		}
+	],
+	"location": [
+		{
+			"summon_id": 111,
+			"location_id": 53,
+			"tid": "SECRET_DUNGEON"
+		},
+		{
+			"summon_id": 111,
+			"location_id": 101,
+			"tid": "UNKNOWN_SCROLL"
+		},
+		{
+			"summon_id": 111,
+			"location_id": 107,
+			"tid": "WIND_SCROLL"
+		},
+		{
+			"summon_id": 111,
+			"location_id": 109,
+			"tid": "SOCIAL_POINT"
+		},
+		{
+			"summon_id": 111,
+			"location_id": 110,
+			"tid": "MAGIC_SHOP"
+		}
+	],
+	"radar": {
+		"summon": {
+			"atk": 0.89,
+			"hp": 0.8,
+			"def": 0.88,
+			"spd": 1.01,
+			"acc": 0,
+			"res": 0.88,
+			"crit_rate": 0.88,
+			"crit_dmg": 1,
+			"total": 3.58
+		},
+		"max": {
+			"atk": 1.62,
+			"hp": 1.55,
+			"def": 1.5,
+			"spd": 1.22,
+			"acc": 8.33,
+			"res": 2.35,
+			"crit_rate": 1.76,
+			"crit_dmg": 1
+		}
+	},
+	"rank_stats": {
+		"atk": "746",
+		"hp": "1087",
+		"def": "838",
+		"spd": "1616",
+		"crit_rate": "532",
+		"crit_dmg": "103",
+		"res": "421",
+		"acc": "459"
+	},
+	"views": {
+		"count": 13470,
+		"last_view": "2020-06-17 17:41:02",
+		"last_view_ts": "1592408462"
+	},
+	"key": "SWDB-FullInfo-111-EN-r0,f0,a0,a0,s0,l0,s0,f0,r0,f0,c0,l0,r0,t0,v0,r0,f1,m0,n0-Protocol(HTTPS)-@@SUMMON@@",
+	"favorite": false
+}

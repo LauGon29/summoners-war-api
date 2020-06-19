@@ -1,0 +1,3780 @@
+{
+    "id": 493,
+    "type_id": 88,
+    "attribute_id": 5,
+    "name": "Amduat",
+    "class_id": 2,
+    "grade": 4,
+    "devilmon_req": 11,
+    "advanced": 0,
+    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amduat.png",
+    "screenshot_path": null,
+    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amduat.png",
+    "screenshot_path_awakened": null,
+    "last_update": "2020-04-23 11:03:41",
+    "last_updater": 1,
+    "last_update_ts": "1587632621",
+    "count": {
+        "reviews": 0,
+        "favorites": 117,
+        "awakenings": 4,
+        "abilities": 0,
+        "skills": 4,
+        "stats": 12,
+        "same_as": 4,
+        "fusion": 0,
+        "material_fusion": 0,
+        "language_comments": {
+            "FR": 15,
+            "EN": 0,
+            "OTHER": 0
+        },
+        "comments": 15,
+        "location": 2,
+        "teams": 4
+    },
+    "attribute": {
+        "id": 5,
+        "tid": "DARK"
+    },
+    "type": {
+        "id": 88,
+        "tid": "HORUS"
+    },
+    "class": {
+        "id": 2,
+        "tid": "SUPPORT"
+    },
+    "name_translation": {
+        "EN": "Amduat"
+    },
+    "reviews_summary": null,
+    "medias": [
+        {
+            "type": "YOUTUBE",
+            "url": "https://www.youtube.com/embed/92L3E6WpqvE?feature=oembed"
+        }
+    ],
+    "rating": {
+        "users": 7,
+        "overall": null
+    },
+    "higher_rating": {
+        "key": "users",
+        "value": 7,
+        "cat": "users"
+    },
+    "users_rating": {
+        "list": [
+            {
+                "user_id": "5869",
+                "summon_id": "493",
+                "overall_rating": "8",
+                "giants": "9",
+                "dragons": "9",
+                "necropolis": "1",
+                "toa": "1",
+                "toa_hm": "1",
+                "arena_offense": "8",
+                "arena_defense": "3",
+                "guildwar_offense": "9",
+                "guildwar_defense": "5",
+                "raid": "5",
+                "maze": null,
+                "user_name": "Batou Noel",
+                "name": "Batou Noel",
+                "avatar": "",
+                "contrib": "115"
+            },
+            {
+                "user_id": "1087",
+                "summon_id": "493",
+                "overall_rating": "8",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": null,
+                "maze": null,
+                "user_name": "epsom2",
+                "name": "epsom2",
+                "avatar": "",
+                "contrib": "17"
+            },
+            {
+                "user_id": "1174",
+                "summon_id": "493",
+                "overall_rating": "8",
+                "giants": "7",
+                "dragons": "8",
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": "8",
+                "arena_defense": "7",
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": null,
+                "maze": null,
+                "user_name": "Amhéon",
+                "name": "Amhéon",
+                "avatar": "",
+                "contrib": "324"
+            },
+            {
+                "user_id": "185",
+                "summon_id": "493",
+                "overall_rating": "4",
+                "giants": "8",
+                "dragons": "9",
+                "necropolis": "1",
+                "toa": "1",
+                "toa_hm": "1",
+                "arena_offense": "9",
+                "arena_defense": "1",
+                "guildwar_offense": "9",
+                "guildwar_defense": "1",
+                "raid": "1",
+                "maze": null,
+                "user_name": "Gaby",
+                "name": "Gaby",
+                "avatar": "https://cdn.shinsoft.fr/sw/upload/user/185/RTEmagicC_amaterasu-japan.jpg.jpg",
+                "contrib": "1692"
+            },
+            {
+                "user_id": "3566",
+                "summon_id": "493",
+                "overall_rating": "7",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": "10",
+                "arena_defense": "10",
+                "guildwar_offense": "10",
+                "guildwar_defense": "10",
+                "raid": null,
+                "maze": null,
+                "user_name": "Narcissme",
+                "name": "Narcissme",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/3566/c434c6e5952f61bcaf4a2556d8b9ef05.jpg",
+                "contrib": "48"
+            },
+            {
+                "user_id": "16677",
+                "summon_id": "493",
+                "overall_rating": "8",
+                "giants": "1",
+                "dragons": "1",
+                "necropolis": "1",
+                "toa": "6",
+                "toa_hm": "3",
+                "arena_offense": "6",
+                "arena_defense": "10",
+                "guildwar_offense": "6",
+                "guildwar_defense": "10",
+                "raid": "1",
+                "maze": "1",
+                "user_name": "Kyami",
+                "name": "Kyami",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/16677/5d9d4e3504ba0b0b432450a9e5120d22a3659fee_full.jpg",
+                "contrib": "405"
+            }
+        ],
+        "overall": {
+            "giants": 6,
+            "dragons": 7,
+            "necropolis": 1,
+            "toa": 3,
+            "toa_hm": 2,
+            "arena_offense": 8,
+            "arena_defense": 6,
+            "guildwar_offense": 9,
+            "guildwar_defense": 7,
+            "overall_rating": 7,
+            "raid": 2,
+            "maze": 1,
+            "categories": {
+                "dungeon": 3,
+                "toa": 3,
+                "arena": 7,
+                "gvg": 9
+            }
+        }
+    },
+    "users_favorite": [
+        {
+            "user_id": "1174",
+            "user_name": "Amhéon",
+            "avatar": null,
+            "contrib": "324"
+        },
+        {
+            "user_id": "10343",
+            "user_name": "Fabian Fassbender",
+            "avatar": null,
+            "contrib": "74"
+        },
+        {
+            "user_id": "1126",
+            "user_name": "Irox Gaming",
+            "avatar": null,
+            "contrib": "248"
+        },
+        {
+            "user_id": "2280",
+            "user_name": "Descombes Axel",
+            "avatar": null,
+            "contrib": "8"
+        },
+        {
+            "user_id": "2371",
+            "user_name": "Olivier",
+            "avatar": null,
+            "contrib": "474"
+        },
+        {
+            "user_id": "2386",
+            "user_name": "quentin saccomani",
+            "avatar": null,
+            "contrib": "58"
+        },
+        {
+            "user_id": "2448",
+            "user_name": "Amon-Rê",
+            "avatar": null,
+            "contrib": "20"
+        },
+        {
+            "user_id": "2568",
+            "user_name": "Rattatac",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/2568/Koala.jpg",
+            "contrib": "56"
+        },
+        {
+            "user_id": "644",
+            "user_name": "Sobeck1",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/644/14625269_325081297855699_1079877387_n.jpg",
+            "contrib": "145"
+        },
+        {
+            "user_id": "4515",
+            "user_name": "Jichaels",
+            "avatar": null,
+            "contrib": "62"
+        },
+        {
+            "user_id": "3165",
+            "user_name": "Cédric Pury",
+            "avatar": null,
+            "contrib": "94"
+        },
+        {
+            "user_id": "3210",
+            "user_name": "Julian Amezquita",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/3210/thumb.jpg",
+            "contrib": "368"
+        },
+        {
+            "user_id": "3642",
+            "user_name": "Junpei Kun",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/3642/Profile.jpg",
+            "contrib": "146"
+        },
+        {
+            "user_id": "3912",
+            "user_name": "Kylar",
+            "avatar": null,
+            "contrib": "62"
+        },
+        {
+            "user_id": "4416",
+            "user_name": "Lyra Zu'",
+            "avatar": null,
+            "contrib": "44"
+        },
+        {
+            "user_id": "8473",
+            "user_name": "Romain Lalanne",
+            "avatar": null,
+            "contrib": "546"
+        },
+        {
+            "user_id": "4698",
+            "user_name": "Leviahtemps",
+            "avatar": null,
+            "contrib": "135"
+        },
+        {
+            "user_id": "9717",
+            "user_name": "Heleina",
+            "avatar": null,
+            "contrib": "137"
+        },
+        {
+            "user_id": "4927",
+            "user_name": "Aelianaka",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/4927/Maki (1).jpg",
+            "contrib": "314"
+        },
+        {
+            "user_id": "5029",
+            "user_name": "Taloz",
+            "avatar": null,
+            "contrib": "68"
+        },
+        {
+            "user_id": "1279",
+            "user_name": "David Ngi",
+            "avatar": null,
+            "contrib": "113"
+        },
+        {
+            "user_id": "5869",
+            "user_name": "Batou Noel",
+            "avatar": null,
+            "contrib": "115"
+        },
+        {
+            "user_id": "3296",
+            "user_name": "Rasmus BITW",
+            "avatar": null,
+            "contrib": "251"
+        },
+        {
+            "user_id": "6466",
+            "user_name": "ghostiopair",
+            "avatar": null,
+            "contrib": "128"
+        },
+        {
+            "user_id": "6467",
+            "user_name": "Nalo",
+            "avatar": null,
+            "contrib": "828"
+        },
+        {
+            "user_id": "6592",
+            "user_name": "AXE",
+            "avatar": null,
+            "contrib": "46"
+        },
+        {
+            "user_id": "6455",
+            "user_name": "kynae summonerwar",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/6455/kyna.jpg",
+            "contrib": "158"
+        },
+        {
+            "user_id": "6936",
+            "user_name": "T0sen1",
+            "avatar": null,
+            "contrib": "97"
+        },
+        {
+            "user_id": "7800",
+            "user_name": "Angelgiord",
+            "avatar": null,
+            "contrib": "81"
+        },
+        {
+            "user_id": "3490",
+            "user_name": "ImSoHappy",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/3490/kid-buu-dragon-ball-z_1920x1200_217.jpg",
+            "contrib": "218"
+        },
+        {
+            "user_id": "7472",
+            "user_name": "Jules Carmaux",
+            "avatar": null,
+            "contrib": "48"
+        },
+        {
+            "user_id": "19400",
+            "user_name": "YorKen",
+            "avatar": null,
+            "contrib": "442"
+        },
+        {
+            "user_id": "13901",
+            "user_name": "Extahliah",
+            "avatar": null,
+            "contrib": "137"
+        },
+        {
+            "user_id": "185",
+            "user_name": "Gaby",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/185/RTEmagicC_amaterasu-japan.jpg.jpg",
+            "contrib": "1692"
+        },
+        {
+            "user_id": "8728",
+            "user_name": "Klopin",
+            "avatar": null,
+            "contrib": "256"
+        },
+        {
+            "user_id": "7060",
+            "user_name": "BLEVANUS olivier",
+            "avatar": null,
+            "contrib": "385"
+        },
+        {
+            "user_id": "11396",
+            "user_name": "Abdel Mahjoub",
+            "avatar": null,
+            "contrib": "152"
+        },
+        {
+            "user_id": "19196",
+            "user_name": "Flo Sgr",
+            "avatar": null,
+            "contrib": "430"
+        },
+        {
+            "user_id": "6402",
+            "user_name": "ErenSok",
+            "avatar": null,
+            "contrib": "515"
+        },
+        {
+            "user_id": "1268",
+            "user_name": "JackPowerDuck",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/1268/image.gif",
+            "contrib": "214"
+        },
+        {
+            "user_id": "9232",
+            "user_name": "Kyodon",
+            "avatar": null,
+            "contrib": "430"
+        },
+        {
+            "user_id": "9297",
+            "user_name": "khaled",
+            "avatar": null,
+            "contrib": "104"
+        },
+        {
+            "user_id": "2752",
+            "user_name": "Chimiotherapie",
+            "avatar": null,
+            "contrib": "58"
+        },
+        {
+            "user_id": "9511",
+            "user_name": "Lisabois",
+            "avatar": null,
+            "contrib": "122"
+        },
+        {
+            "user_id": "9636",
+            "user_name": "Feitte",
+            "avatar": null,
+            "contrib": "609"
+        },
+        {
+            "user_id": "9819",
+            "user_name": "coco04122",
+            "avatar": null,
+            "contrib": "52"
+        },
+        {
+            "user_id": "4853",
+            "user_name": "Adwa",
+            "avatar": null,
+            "contrib": "104"
+        },
+        {
+            "user_id": "10356",
+            "user_name": "tonton-noob",
+            "avatar": null,
+            "contrib": "124"
+        },
+        {
+            "user_id": "3071",
+            "user_name": "Cyril Hernandez",
+            "avatar": null,
+            "contrib": "151"
+        },
+        {
+            "user_id": "816",
+            "user_name": "Mohamed Ali Zitouni",
+            "avatar": null,
+            "contrib": "523"
+        },
+        {
+            "user_id": "10116",
+            "user_name": "FrJrG",
+            "avatar": null,
+            "contrib": "154"
+        },
+        {
+            "user_id": "11305",
+            "user_name": "Tenryu",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/11305/Noctali Mentali.jpg",
+            "contrib": "152"
+        },
+        {
+            "user_id": "11317",
+            "user_name": "Jmecache Cacher",
+            "avatar": null,
+            "contrib": "42"
+        },
+        {
+            "user_id": "11546",
+            "user_name": "Thibaut Barlier",
+            "avatar": null,
+            "contrib": "58"
+        },
+        {
+            "user_id": "1742",
+            "user_name": "Sweaty Sweat",
+            "avatar": "https://lh5.googleusercontent.com/-oRqlIRMOdjM/AAAAAAAAAAI/AAAAAAAAACM/W82FPrp7JLg/photo.jpg?sz=100",
+            "contrib": "118"
+        },
+        {
+            "user_id": "11793",
+            "user_name": "Kiso Icestorm",
+            "avatar": null,
+            "contrib": "100"
+        },
+        {
+            "user_id": "18555",
+            "user_name": "wikisword",
+            "avatar": null,
+            "contrib": "490"
+        },
+        {
+            "user_id": "11997",
+            "user_name": "Grard",
+            "avatar": null,
+            "contrib": "154"
+        },
+        {
+            "user_id": "9202",
+            "user_name": "Nestelo",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/9202/No game no life.png",
+            "contrib": "111"
+        },
+        {
+            "user_id": "7141",
+            "user_name": "Azazelx_",
+            "avatar": null,
+            "contrib": "64"
+        },
+        {
+            "user_id": "12386",
+            "user_name": "tt bbchou",
+            "avatar": null,
+            "contrib": "16"
+        },
+        {
+            "user_id": "13149",
+            "user_name": "FL-Mister",
+            "avatar": null,
+            "contrib": "94"
+        },
+        {
+            "user_id": "12473",
+            "user_name": "Lucas Porraz",
+            "avatar": null,
+            "contrib": "78"
+        },
+        {
+            "user_id": "4824",
+            "user_name": "Sparous",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/4824/big boggey.jpg",
+            "contrib": "124"
+        },
+        {
+            "user_id": "359",
+            "user_name": "Sacri “Kelbz” Kelb",
+            "avatar": null,
+            "contrib": "130"
+        },
+        {
+            "user_id": "12926",
+            "user_name": "Loup COHEN",
+            "avatar": null,
+            "contrib": "96"
+        },
+        {
+            "user_id": "10268",
+            "user_name": "le-gros-jesus",
+            "avatar": null,
+            "contrib": "538"
+        },
+        {
+            "user_id": "1289",
+            "user_name": "Ax0ne",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/1289/Volkswagen-vw-logo-566x335.jpg",
+            "contrib": "1053"
+        },
+        {
+            "user_id": "13389",
+            "user_name": "Linsey Courteille",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/13389/index.jpg",
+            "contrib": "46"
+        },
+        {
+            "user_id": "5823",
+            "user_name": "Hyida",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/5823/téléchargement (3).jpg",
+            "contrib": "428"
+        },
+        {
+            "user_id": "5978",
+            "user_name": "leo",
+            "avatar": null,
+            "contrib": "114"
+        },
+        {
+            "user_id": "1637",
+            "user_name": "dovakhiin",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/1637/avatar85617_1.gif",
+            "contrib": "531"
+        },
+        {
+            "user_id": "5340",
+            "user_name": "Yag",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/5340/fsociety--1-.png",
+            "contrib": "516"
+        },
+        {
+            "user_id": "12353",
+            "user_name": "Frederik Dujardin",
+            "avatar": null,
+            "contrib": "135"
+        },
+        {
+            "user_id": "5595",
+            "user_name": "Thomas Verdun",
+            "avatar": null,
+            "contrib": "58"
+        },
+        {
+            "user_id": "14640",
+            "user_name": "COTTET Julien",
+            "avatar": null,
+            "contrib": "248"
+        },
+        {
+            "user_id": "14702",
+            "user_name": "Dream",
+            "avatar": null,
+            "contrib": "110"
+        },
+        {
+            "user_id": "18393",
+            "user_name": "Lucas Fleury",
+            "avatar": null,
+            "contrib": "482"
+        },
+        {
+            "user_id": "14953",
+            "user_name": "TTomTT",
+            "avatar": null,
+            "contrib": "74"
+        },
+        {
+            "user_id": "4876",
+            "user_name": "Lgx",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/4876/12993536_1070688579641300_5113098465127158974_n(1).jpg",
+            "contrib": "152"
+        },
+        {
+            "user_id": "14544",
+            "user_name": "Mendosa",
+            "avatar": null,
+            "contrib": "424"
+        },
+        {
+            "user_id": "16601",
+            "user_name": "David Thierry",
+            "avatar": null,
+            "contrib": "449"
+        },
+        {
+            "user_id": "17063",
+            "user_name": "raptore91",
+            "avatar": null,
+            "contrib": "452"
+        },
+        {
+            "user_id": "17105",
+            "user_name": "Tarlyn",
+            "avatar": null,
+            "contrib": "388"
+        },
+        {
+            "user_id": "11569",
+            "user_name": "Loïc Domin",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/11569/aLMMpgg_460s.jpg",
+            "contrib": "535"
+        },
+        {
+            "user_id": "5657",
+            "user_name": "Shivattack",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/5657/Koala.jpg",
+            "contrib": "442"
+        },
+        {
+            "user_id": "1602",
+            "user_name": "djox",
+            "avatar": null,
+            "contrib": "495"
+        },
+        {
+            "user_id": "17804",
+            "user_name": "Brieuc garnier",
+            "avatar": null,
+            "contrib": "388"
+        },
+        {
+            "user_id": "17942",
+            "user_name": "françois bourmault",
+            "avatar": "https://cdn.sw-db.com/sw/upload/user/17942//avatar.jpg",
+            "contrib": "416"
+        },
+        {
+            "user_id": "6279",
+            "user_name": "Darunya",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/6279/SCRAT basse qualité.jpg",
+            "contrib": "490"
+        },
+        {
+            "user_id": "1778",
+            "user_name": "Lothkaro",
+            "avatar": null,
+            "contrib": "563"
+        },
+        {
+            "user_id": "18344",
+            "user_name": "Hubert",
+            "avatar": null,
+            "contrib": "472"
+        },
+        {
+            "user_id": "15817",
+            "user_name": "Angy Dust",
+            "avatar": null,
+            "contrib": "75"
+        },
+        {
+            "user_id": "6636",
+            "user_name": "Dsitrezo",
+            "avatar": null,
+            "contrib": "716"
+        },
+        {
+            "user_id": "20020",
+            "user_name": "rossmary oruss",
+            "avatar": "https://cdn.sw-db.com/sw/upload/user/20020//avatar.jpg",
+            "contrib": "552"
+        },
+        {
+            "user_id": "20021",
+            "user_name": "Marcio",
+            "avatar": null,
+            "contrib": "594"
+        },
+        {
+            "user_id": "20554",
+            "user_name": "Lumyn0",
+            "avatar": null,
+            "contrib": "428"
+        },
+        {
+            "user_id": "6972",
+            "user_name": "valard",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/6972/chowiona.jpg",
+            "contrib": "1486"
+        },
+        {
+            "user_id": "14511",
+            "user_name": "GrosTony",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/14511/arton76.png",
+            "contrib": "577"
+        },
+        {
+            "user_id": "11022",
+            "user_name": "{E_X}_Atomic_",
+            "avatar": null,
+            "contrib": "119"
+        },
+        {
+            "user_id": "21122",
+            "user_name": "Ghostiopair",
+            "avatar": "https://cdn.sw-db.com/sw/upload/user/21122//avatar.jpg",
+            "contrib": "456"
+        },
+        {
+            "user_id": "20648",
+            "user_name": "Lucas Bouchet",
+            "avatar": null,
+            "contrib": "454"
+        },
+        {
+            "user_id": "21240",
+            "user_name": "Michael Doutreloux",
+            "avatar": null,
+            "contrib": "444"
+        },
+        {
+            "user_id": "21362",
+            "user_name": "Evn",
+            "avatar": null,
+            "contrib": "516"
+        },
+        {
+            "user_id": "14619",
+            "user_name": "Marc",
+            "avatar": null,
+            "contrib": "602"
+        },
+        {
+            "user_id": "13812",
+            "user_name": "pavix1.1",
+            "avatar": null,
+            "contrib": "67"
+        },
+        {
+            "user_id": "21462",
+            "user_name": "FatJambon",
+            "avatar": null,
+            "contrib": "471"
+        },
+        {
+            "user_id": "14491",
+            "user_name": "max",
+            "avatar": null,
+            "contrib": "674"
+        },
+        {
+            "user_id": "21641",
+            "user_name": "Nicholas Kalma",
+            "avatar": null,
+            "contrib": "536"
+        },
+        {
+            "user_id": "4483",
+            "user_name": "raganren death",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/4483/a14.jpg",
+            "contrib": "344"
+        },
+        {
+            "user_id": "17581",
+            "user_name": "Zebulon",
+            "avatar": null,
+            "contrib": "486"
+        },
+        {
+            "user_id": "14941",
+            "user_name": "Franck TABARLY",
+            "avatar": null,
+            "contrib": "550"
+        },
+        {
+            "user_id": "6979",
+            "user_name": "Bl4ckJak",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/6979/Konachan.com - 111338 blue_hair hatsune_miku jpeg_artifacts miku_append vocaloid.jpg",
+            "contrib": "600"
+        },
+        {
+            "user_id": "24906",
+            "user_name": "Hasea",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "24948",
+            "user_name": "Kinji Sama",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "25775",
+            "user_name": "Patrick Peyre",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "20746",
+            "user_name": "Tony Flejeo",
+            "avatar": null,
+            "contrib": "630"
+        }
+    ],
+    "awakenings": [
+        {
+            "summon_id": 493,
+            "attribute_id": 5,
+            "size": "HIGH",
+            "quantity": 12,
+            "attribute": {
+                "id": 5,
+                "tid": "DARK"
+            }
+        },
+        {
+            "summon_id": 493,
+            "attribute_id": 5,
+            "size": "MID",
+            "quantity": 15,
+            "attribute": {
+                "id": 5,
+                "tid": "DARK"
+            }
+        },
+        {
+            "summon_id": 493,
+            "attribute_id": 6,
+            "size": "HIGH",
+            "quantity": 7,
+            "attribute": {
+                "id": 6,
+                "tid": "MAGIC"
+            }
+        },
+        {
+            "summon_id": 493,
+            "attribute_id": 6,
+            "size": "MID",
+            "quantity": 15,
+            "attribute": {
+                "id": 6,
+                "tid": "MAGIC"
+            }
+        }
+    ],
+    "awakening_bonus": {
+        "summon_id": 493,
+        "stat": "ATK",
+        "value": 33
+    },
+    "skills": [
+        {
+            "id": 27366,
+            "translate_id": "AMDUAT.LEADER_SKILL",
+            "type": "LEADER",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amduat.leader_skill.jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMDUAT.LEADER_SKILL",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Leader Skill"
+                }
+            ],
+            "name": "Leader Skill",
+            "desc_translates": [
+                {
+                    "id": "AMDUAT.LEADER_SKILL",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Leader Skill (Awakened) : Increases the Attack Power  of ally monsters in the Arena by 33%."
+                }
+            ],
+            "desc": "Leader Skill (Awakened) : Increases the Attack Power  of ally monsters in the Arena by 33%."
+        },
+        {
+            "id": 27335,
+            "translate_id": "AMDUAT.OVERPOWER",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amduat.overpower.jpg",
+            "modifier": "380%",
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMDUAT.OVERPOWER",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Overpower"
+                }
+            ],
+            "name": "Overpower",
+            "desc_translates": [
+                {
+                    "id": "AMDUAT.OVERPOWER",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Deals damage to an enemy and with a 50% chance, decreases its Attack Bar by 30%."
+                }
+            ],
+            "desc": "Deals damage to an enemy and with a 50% chance, decreases its Attack Bar by 30%.",
+            "evolve_translates": [
+                {
+                    "id": "AMDUAT.OVERPOWER",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +15%"
+                }
+            ],
+            "evolve": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +15%"
+        },
+        {
+            "id": 27336,
+            "translate_id": "AMDUAT.DESERT_WIND",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amduat.desert_wind.jpg",
+            "modifier": "((Spd+50)/0.5)%",
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMDUAT.DESERT_WIND",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Desert Wind"
+                }
+            ],
+            "name": "Desert Wind",
+            "desc_translates": [
+                {
+                    "id": "AMDUAT.DESERT_WIND",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Attacks all enemies with winds of sand, decreasing 30% of their Attack Bar and also their Attack Speed by 2 turns with a 50% chance. The damage of this skill increases accordingly to your Attack Speed. (Reusable in 5 turns)"
+                }
+            ],
+            "desc": "Attacks all enemies with winds of sand, decreasing 30% of their Attack Bar and also their Attack Speed by 2 turns with a 50% chance. The damage of this skill increases accordingly to your Attack Speed. (Reusable in 5 turns)",
+            "evolve_translates": [
+                {
+                    "id": "AMDUAT.DESERT_WIND",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Damage +10%<br/>Lv.3 Harmful Effect Rate +10%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Cooltime Turn -1"
+                }
+            ],
+            "evolve": "Lv.2 Damage +10%<br/>Lv.3 Harmful Effect Rate +10%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Cooltime Turn -1"
+        },
+        {
+            "id": 27337,
+            "translate_id": "AMDUAT.TIP_OF_THE_SPEAR_(PASSIVE)",
+            "type": "PASSIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-amduat.tip_of_the_spear_(passive).jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "AMDUAT.TIP_OF_THE_SPEAR_(PASSIVE)",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Tip of the Spear"
+                }
+            ],
+            "name": "Tip of the Spear",
+            "desc_translates": [
+                {
+                    "id": "AMDUAT.TIP_OF_THE_SPEAR_(PASSIVE)",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Recovers 25% of the Attack Bar each time an enemy gains a turn. [Automatic Effect]"
+                }
+            ],
+            "desc": "Recovers 25% of the Attack Bar each time an enemy gains a turn. [Automatic Effect]"
+        }
+    ],
+    "leader": {
+        "summon_id": 493,
+        "skill_id": 27366,
+        "stat": "ATK",
+        "value": 33,
+        "type": "ARENA",
+        "skill": {
+            "id": 27366,
+            "summon_id": 493,
+            "translate_id": "AMDUAT.LEADER_SKILL",
+            "type": "LEADER",
+            "icon_path": "http://cdn.shinsoft.fr/sw/skill/icon/skill-amduat.leader_skill.jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [],
+            "name": "Leader Skill"
+        }
+    },
+    "stats": [
+        {
+            "summon_id": 493,
+            "grade": 4,
+            "level": 1,
+            "awakened": 0,
+            "atk": 189,
+            "hp": 2985,
+            "def": 189,
+            "spd": 101,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 4,
+            "level": 1,
+            "awakened": 1,
+            "atk": 206,
+            "hp": 3300,
+            "def": 203,
+            "spd": 102,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 4,
+            "level": 30,
+            "awakened": 0,
+            "atk": 321,
+            "hp": 5085,
+            "def": 321,
+            "spd": 101,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 4,
+            "level": 30,
+            "awakened": 1,
+            "atk": 351,
+            "hp": 5610,
+            "def": 345,
+            "spd": 102,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 5,
+            "level": 1,
+            "awakened": 0,
+            "atk": 257,
+            "hp": 4065,
+            "def": 257,
+            "spd": 101,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 5,
+            "level": 1,
+            "awakened": 1,
+            "atk": 280,
+            "hp": 4485,
+            "def": 276,
+            "spd": 102,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 5,
+            "level": 35,
+            "awakened": 0,
+            "atk": 436,
+            "hp": 6900,
+            "def": 436,
+            "spd": 101,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 5,
+            "level": 35,
+            "awakened": 1,
+            "atk": 476,
+            "hp": 7635,
+            "def": 468,
+            "spd": 102,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 6,
+            "level": 1,
+            "awakened": 0,
+            "atk": 349,
+            "hp": 5520,
+            "def": 349,
+            "spd": 101,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 6,
+            "level": 1,
+            "awakened": 1,
+            "atk": 381,
+            "hp": 6105,
+            "def": 375,
+            "spd": 102,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 6,
+            "level": 40,
+            "awakened": 0,
+            "atk": 593,
+            "hp": 9390,
+            "def": 593,
+            "spd": 102,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 493,
+            "grade": 6,
+            "level": 40,
+            "awakened": 1,
+            "atk": 648,
+            "hp": 10380,
+            "def": 637,
+            "spd": 102,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        }
+    ],
+    "statsfix": {
+        "0": {
+            "spd": "102",
+            "crit_rate": "15",
+            "crit_dmg": "50",
+            "res": "15",
+            "acc": "0"
+        },
+        "1": {
+            "spd": "102",
+            "crit_rate": "15",
+            "crit_dmg": "50",
+            "res": "15",
+            "acc": "0"
+        }
+    },
+    "same_as": [
+        {
+            "id": 478,
+            "name": "Duamutef",
+            "name_translation": {
+                "EN": "Duamutef"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-duamutef.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-duamutef.png",
+            "grade": 4,
+            "last_update_ts": "1587632584",
+            "type_id": 88,
+            "type": {
+                "tid": "HORUS"
+            },
+            "attribute_id": 2,
+            "attribute": {
+                "tid": "FIRE"
+            },
+            "class_id": 3,
+            "class": {
+                "tid": "DEFENSE"
+            },
+            "reviews_summary": null
+        },
+        {
+            "id": 482,
+            "name": "Qebehsenuef",
+            "name_translation": {
+                "EN": "Qebehsenuef"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-qebehsenuef.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-qebehsenuef.png",
+            "grade": 4,
+            "last_update_ts": "1587632595",
+            "type_id": 88,
+            "type": {
+                "tid": "HORUS"
+            },
+            "attribute_id": 3,
+            "attribute": {
+                "tid": "WATER"
+            },
+            "class_id": 2,
+            "class": {
+                "tid": "SUPPORT"
+            },
+            "reviews_summary": null
+        },
+        {
+            "id": 486,
+            "name": "Imesety",
+            "name_translation": {
+                "EN": "Imesety"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-imesety.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-imesety.png",
+            "grade": 4,
+            "last_update_ts": "1587632605",
+            "type_id": 88,
+            "type": {
+                "tid": "HORUS"
+            },
+            "attribute_id": 1,
+            "attribute": {
+                "tid": "WIND"
+            },
+            "class_id": 2,
+            "class": {
+                "tid": "SUPPORT"
+            },
+            "reviews_summary": null
+        },
+        {
+            "id": 490,
+            "name": "Wedjat",
+            "name_translation": {
+                "EN": "Wedjat"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-wedjat.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-wedjat.png",
+            "grade": 5,
+            "last_update_ts": "1587632614",
+            "type_id": 88,
+            "type": {
+                "tid": "HORUS"
+            },
+            "attribute_id": 4,
+            "attribute": {
+                "tid": "LIGHT"
+            },
+            "class_id": 3,
+            "class": {
+                "tid": "DEFENSE"
+            },
+            "reviews_summary": null
+        }
+    ],
+    "runes": [
+        {
+            "build": {
+                "id": 4,
+                "name": "MID GAME//COUNTER TOP TIER",
+                "comment": "Le seul set utile est un despair de base obligatoire , pour son Skill 1 déjà qu'il fait très régulièrement, et son AOE ! &nbsp;Je le joue de cette façon la pour les défenses d’arène et gvg ! Il sert juste comme Broken combo contre les léo et le speed team !&nbsp;",
+                "usages": 1,
+                "user_id": 3566,
+                "validated": 1,
+                "like": 2,
+                "like_by": "darkheaven5017 / Paul.S",
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2017-01-17 22:05:16",
+                "create_date_ts": 1484687116,
+                "author": {
+                    "id": 3566,
+                    "name": "Narcissme",
+                    "title": null,
+                    "know_more": null,
+                    "avatar": "https://cdn.sw-db.com/sw/upload/user/3566/c434c6e5952f61bcaf4a2556d8b9ef05.jpg",
+                    "contrib": 48,
+                    "langcode": "FR",
+                    "permissions": {
+                        "logged": true
+                    }
+                },
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 4,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 10,
+                    "set": {
+                        "id": 10,
+                        "tid": "DESPAIR",
+                        "nb_req": 4,
+                        "location_id": 51,
+                        "location": {
+                            "id": 51,
+                            "tid": "GIANTS_KEEP"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 10,
+                    "set": {
+                        "id": 10,
+                        "tid": "DESPAIR",
+                        "nb_req": 4,
+                        "location_id": 51,
+                        "location": {
+                            "id": 51,
+                            "tid": "GIANTS_KEEP"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 10,
+                    "set": {
+                        "id": 10,
+                        "tid": "DESPAIR",
+                        "nb_req": 4,
+                        "location_id": 51,
+                        "location": {
+                            "id": 51,
+                            "tid": "GIANTS_KEEP"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 4,
+                    "stat": "HP_PERCENT",
+                    "set_id": 10,
+                    "set": {
+                        "id": 10,
+                        "tid": "DESPAIR",
+                        "nb_req": 4,
+                        "location_id": 51,
+                        "location": {
+                            "id": 51,
+                            "tid": "GIANTS_KEEP"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "DESPAIR",
+                    "4": "REVENGE"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "DESPAIR"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "DESPAIR"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "DESPAIR"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "DESPAIR"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "REVENGE"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 2,
+                "name": "Late Game",
+                "comment": null,
+                "usages": 1,
+                "user_id": null,
+                "validated": 1,
+                "like": 1,
+                "like_by": "BLEVANUS olivier",
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2015-10-06 13:54:30",
+                "create_date_ts": 1444132470,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 2,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 4,
+                    "stat": "CRIT_DMG",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 13,
+                    "set": {
+                        "id": 13,
+                        "tid": "NEMESIS",
+                        "nb_req": 2,
+                        "location_id": 11,
+                        "location": {
+                            "id": 11,
+                            "tid": "FERUR_CASTLE"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 6,
+                    "stat": "ATK_PERCENT",
+                    "set_id": 13,
+                    "set": {
+                        "id": 13,
+                        "tid": "NEMESIS",
+                        "nb_req": 2,
+                        "location_id": 11,
+                        "location": {
+                            "id": 11,
+                            "tid": "FERUR_CASTLE"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "VIOLENT",
+                    "4": "NEMESIS"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "CRIT_DMG",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "NEMESIS"
+                    },
+                    {
+                        "stat": "ATK_PERCENT",
+                        "set_tid": "NEMESIS"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 3,
+                "name": "Late Game",
+                "comment": null,
+                "usages": 1,
+                "user_id": null,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 1,
+                "dislike_by": "Batou Noel",
+                "create_date": "2015-11-27 19:04:25",
+                "create_date_ts": 1448647465,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 3,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 4,
+                    "stat": "CRIT_DMG",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 6,
+                    "stat": "ATK_PERCENT",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "VIOLENT",
+                    "4": "REVENGE"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "CRIT_DMG",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "ATK_PERCENT",
+                        "set_tid": "REVENGE"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 1,
+                "name": "Early Game",
+                "comment": null,
+                "usages": 0,
+                "user_id": null,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2015-10-06 13:54:30",
+                "create_date_ts": 1444132470,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 1,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 4,
+                    "stat": "HP_PERCENT",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "SWIFT",
+                    "4": "ENERGY"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "ENERGY"
+                    }
+                ]
+            }
+        }
+    ],
+    "substats": [
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "HP_PERCENT",
+        "SPD",
+        "DEF_PERCENT"
+    ],
+    "comments": [
+        {
+            "id": 2330,
+            "parent_id": null,
+            "summon_id": 493,
+            "user_id": 3566,
+            "title": "Ne lisez pas les commenter au dessus ils ne sont plus viable",
+            "comment": "Le seul set OK est un despair , pour profiter de son skil 1 , qui réduit la jauge d'attaque + de son AOE pour proc le '' ston'' un maximum avec son passif c'est une machine a break combo et speed team ! &nbsp;",
+            "langcode": "FR",
+            "last_update": "2017-01-17 22:07:08",
+            "last_update_ts": "1484687228000",
+            "author": {
+                "id": 3566,
+                "name": "Narcissme",
+                "title": null,
+                "know_more": null,
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/3566/c434c6e5952f61bcaf4a2556d8b9ef05.jpg",
+                "contrib": 48,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "like": {
+                "nb": 1,
+                "user_id": [
+                    7060
+                ],
+                "by": "BLEVANUS olivier"
+            }
+        },
+        {
+            "id": 1649,
+            "parent_id": null,
+            "summon_id": 493,
+            "user_id": 5869,
+            "title": "Pkoi tjs Violent ?",
+            "comment": "Je me demande s'il ne serait pas interessant de le jouer Attack ... quand je vois les build proposés je me dis Beurk, Violent n est pas adapté à son pouvoir, Speed why not, Vengence AHAHAH mais vous n avez pas lu son skill 1 ??? ... mais Fatal ou Rage/focus ? Son passif couvre sa vitesse, et il envoie son slow avec moult dégat ?<br>",
+            "langcode": "FR",
+            "last_update": "2016-09-06 20:16:09",
+            "last_update_ts": "1473185769000",
+            "author": {
+                "id": 5869,
+                "name": "Batou Noel",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 115,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "like": {
+                "nb": 0,
+                "user_id": [],
+                "by": ""
+            },
+            "responses": [
+                {
+                    "id": 1651,
+                    "parent_id": 1649,
+                    "summon_id": 493,
+                    "user_id": 2068,
+                    "title": "Re: \"Pkoi tjs Violent ?\"",
+                    "comment": "La question qui me vient à l'esprit, en premier lieu, est : as-tu vu ses skills et ratios ?<br>Il suffit de lire les ratios pour se rendre compte que le skill 2 est basé&nbsp;<b>uniquement </b>sur la Speed d'Amduat.<br><b>--&gt; Fatale est donc à éliminer.</b><br>De par ce fait, il est loin d'être un monstre pour nuke.<br><b>--&gt; Rage est donc à éliminer.</b><br>La vitesse est <i>plus ou moins</i>&nbsp;importante sur Amduat.<br><br>Néanmoins, si tu le croises en Arène, sa seule utilité est de briser les combos.<br>Je m'explique : il gagne son tour pendant que l'adversaire prépare son coup.<br>Son rôle va être de détruire ce(s) combo(s) en question en utilisant le skill 2, donc un excellent counter lors des <b>rushs</b> au Lushen.<br>De par ce fait, tu as le choix entre Swift et Violent.<br><br>L'IA de Summoners War n'est point parfait, alors si il est possible de limiter les erreurs en utilisant du Violent, pourquoi tu t'en priverais ?<br><b>--&gt; Swift est donc à éliminer</b><br><br>Je terminerais sur la question du titre.<br>A ce jour, le set Violent est le set <b>ultime </b>de Summoners War, il te permet d'augmenter énormément tes capacités. Tu ne te rends pas compte encore de sa puissance, mais obtenir des tours supplémentaires peut changer la donne lors d'un combat.<br>Il n'y a donc aucune raison de se demander pourquoi ce buildset est présent sur 90% des monstres <i>(il faut les build après, les 90% de mobs).</i><br>Sauf nerf, le set Violent restera le set <i>\"utilisé à toutes les sauces\".<br></i>",
+                    "langcode": "FR",
+                    "last_update": "2016-09-07 08:29:20",
+                    "last_update_ts": "1473229760000",
+                    "author": {
+                        "id": 2068,
+                        "name": "Jagox7",
+                        "title": null,
+                        "know_more": null,
+                        "avatar": "https://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+                        "contrib": 1165,
+                        "langcode": "FR",
+                        "permissions": {
+                            "logged": true
+                        }
+                    },
+                    "like": {
+                        "nb": 2,
+                        "user_id": [
+                            501,
+                            6586
+                        ],
+                        "by": "Ristoum Spatz / rachel13"
+                    },
+                    "responses": [
+                        {
+                            "id": 1654,
+                            "parent_id": 1651,
+                            "summon_id": 493,
+                            "user_id": 5869,
+                            "title": "Re: \"Pkoi tjs Violent ?\"",
+                            "comment": "Merci pour l'analyse éclairée sur ma proposition. En effet après réflexion, c'était assez bête !<br><br>Mais je n'en démords pas que Violent sur Amduat n'est pas adapté :<br>Tu le dis toi même, il sert à casser les combos (il joue généralement après le Bernard ennemi), 1 seul coup suffit à mettre à mal la strat adverse. Pourquoi TENTER, et j'insiste bien sur le terme, de lui faire jouer un 2e tour ? il ne mettra pas de dégât significatif et a déjà fait son office. Quand à l'IA, aussi débile soit elle, elle joue plus volontier les sorts à CD que le skill 1. Ce qui dans notre cas est plutôt bienvenu.<br>Pour rappel, Violent n'est pas ultime : un évènement qui arrive moins de 25% du temps ne peut être considéré comme ultime, bâtir une strat dessus relève du cocufiage. D'autant que ca prend 4 slots de rune qui prennent de ce fait la place d'1 ou 2 autres bonus. Et que, finalement, on a autre chose à foutre des runes Violent plutôt compliquées à chopper que de les mettre sur un mob qui n'en a aucun usage réel. Sur un Vero,&nbsp; une Chasun, le gain est incontestable, mais là ...<br><br>Ma question de fond reste entière : Quid de ces 1 ou 2 bonus ?<br>",
+                            "langcode": "FR",
+                            "last_update": "2016-09-07 19:31:50",
+                            "last_update_ts": "1473269510000",
+                            "author": {
+                                "id": 5869,
+                                "name": "Batou Noel",
+                                "title": null,
+                                "know_more": null,
+                                "avatar": "",
+                                "contrib": 115,
+                                "langcode": "FR",
+                                "permissions": {
+                                    "logged": true
+                                }
+                            },
+                            "like": {
+                                "nb": 0,
+                                "user_id": [],
+                                "by": ""
+                            },
+                            "responses": [
+                                {
+                                    "id": 1655,
+                                    "parent_id": 1654,
+                                    "summon_id": 493,
+                                    "user_id": 2068,
+                                    "title": "Re: \"Pkoi tjs Violent ?\"",
+                                    "comment": "L'IA est loin d'offrir l'assurance du skill 2.<br>Il n'y a qu'à voir le nombre de fois que le skill 3 n'est point activé par une Chloé en AD, ou un Bernard, ou tout autre mob : le % est finalement assez conséquent.<br>Toutefois, je comprends ton idée, mais c'est néanmoins le set le plus intéressant.<br>Mais, au cas où tu ne le saurais probablement pas, le set Violent est amélioré en défense d'Arène et de GvG, jusqu'à 35-40% (je ne me souviens plus du % exact)<br><i>PS : De plus, ce n'est qu'un pourcentage pour rejouer 1 fois, ensuite vient la probabilité de rejouer sur un tour qui est lui-même un tour supplémentaire, etc.</i><br><br>D'un autre côté, grâce aux nouvelles runes, certains builds seront plus exotiques. Je pense qu'il ne tardera pas trop de temps pour voir un mob support tel qu'Amduat avec 3 sets de 7% PV alliés, voire 2 sets et 1 set de Shield.<br>Ces nouveaux sets de runes vont sûrement chambouler et diversifier les TheoryCrafts de chacun.<br>Donc, au final, fais le tien, tant que c'est logique et nécessaire pour toi ;)",
+                                    "langcode": "FR",
+                                    "last_update": "2016-09-07 19:51:57",
+                                    "last_update_ts": "1473270717000",
+                                    "author": {
+                                        "id": 2068,
+                                        "name": "Jagox7",
+                                        "title": null,
+                                        "know_more": null,
+                                        "avatar": "https://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+                                        "contrib": 1165,
+                                        "langcode": "FR",
+                                        "permissions": {
+                                            "logged": true
+                                        }
+                                    },
+                                    "like": {
+                                        "nb": 0,
+                                        "user_id": [],
+                                        "by": ""
+                                    },
+                                    "responses": [
+                                        {
+                                            "id": 1656,
+                                            "parent_id": 1655,
+                                            "summon_id": 493,
+                                            "user_id": 5869,
+                                            "title": "Re: \"Pkoi tjs Violent ?\"",
+                                            "comment": "En effet, la mise à jour vient perturber la réflexion, d autant que Amduat est l exemple type du mob qui n a d autres avantages que de porter une team !<br>Je n étais pas au courant pour le taux en défense sur Violent ... ceci dit, je ne pense pas qu il soit un choix judicieux sur une défense sérieuse, du fait de son action très stratégique, donc la question ne le concerne pas vraiment.<br>Mais je serai ravi de reprendre le débat après appropriation des nouvelles runes, voir si ces dernières changent ton idée sur le runage idéal de Amduat :)<br>",
+                                            "langcode": "FR",
+                                            "last_update": "2016-09-08 00:02:51",
+                                            "last_update_ts": "1473285771000",
+                                            "author": {
+                                                "id": 5869,
+                                                "name": "Batou Noel",
+                                                "title": null,
+                                                "know_more": null,
+                                                "avatar": "",
+                                                "contrib": 115,
+                                                "langcode": "FR",
+                                                "permissions": {
+                                                    "logged": true
+                                                }
+                                            },
+                                            "like": {
+                                                "nb": 0,
+                                                "user_id": [],
+                                                "by": ""
+                                            },
+                                            "responses": [
+                                                {
+                                                    "id": 1658,
+                                                    "parent_id": 1656,
+                                                    "summon_id": 493,
+                                                    "user_id": 2068,
+                                                    "title": "Re: \"Pkoi tjs Violent ?\"",
+                                                    "comment": "Le concept de ces nouveaux sets rend le TheoryCraft plus personnel.<br>Ainsi, les professionnels trouveront des builds optimisés, mais à leur goût. Il en découdra donc des désaccords entre eux.<br>Alors, raisonnons à la logique, un mélange des sets 7%PV et Shield est judicieux, mais chacun fait le sien en fonction de ses attentes :)",
+                                                    "langcode": "FR",
+                                                    "last_update": "2016-09-08 14:13:08",
+                                                    "last_update_ts": "1473336788000",
+                                                    "author": {
+                                                        "id": 2068,
+                                                        "name": "Jagox7",
+                                                        "title": null,
+                                                        "know_more": null,
+                                                        "avatar": "https://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+                                                        "contrib": 1165,
+                                                        "langcode": "FR",
+                                                        "permissions": {
+                                                            "logged": true
+                                                        }
+                                                    },
+                                                    "like": {
+                                                        "nb": 0,
+                                                        "user_id": [],
+                                                        "by": ""
+                                                    },
+                                                    "responses": [
+                                                        {
+                                                            "id": 1661,
+                                                            "parent_id": 1658,
+                                                            "summon_id": 493,
+                                                            "user_id": 501,
+                                                            "title": "Re: \"Pkoi tjs Violent ?\"",
+                                                            "comment": "Les nouveaux sets de runes ne réglent pas la question du violent de mon point de vue. Si vous estimez que si alors la question est réglé le violent n'est pas le mieux.<br>Avec les nouveaux sets, les équipes en combo vont être favorisée donc le theorycrafting se fait en fonction des monstres de chacun.<br>Petit exemple avec le set Combat en comparaison avec le Fatal&nbsp;(pas le plus malin vu l'utilisation de ce set en late game):<br>C'est un set de 2 runes qui octroie 7% d'atk à l'équipe. Donc 2 sets Combat font 14%.Dès lors que l'équipe est constituée de plus de 3 monstres qui auraient été runé en Fatal avant la mise à jour le set Combat est plus approprié sur ces trois monstres. 3*14=42 La différence n'est pas énorme mais c'est aussi valable pour les autres sets.<br>Il est aussi possible d'utiliser des sets uniquements pour booster un monstre mais je m'éloigne du sujet.<br><br>Je ne vois pas donc pas le rapport avec l'intérêt que présente Amduat pour empêcher une équipe d'éxecuter un combo.<br>Selon moi, le violent n'est pas le plus rentable si le but est juste de casser le combo. Je ne sais pas quelles sont les probabilités que l'ia utilise le skill 1 ou 2 mais ca ne me semble pas favorable de se reposer 2 fois sur le hasard pour l'utilisation du skill 2. Si l'équipe est suffisamment bien runée pour résister à un combo le violent devient plus utile (mais Amduat lui même perd de l'utilité).<br><br>Anecdote, hier même j'ai vu un Amduat en arène. Je suis parti dessus avec une combo team pour tester. Malheureusement mon nuket a resisté à la diminution de barre. Cela m'a fait penser qu'en fait Amduat est intéressant contre des joueurs qui ne connaissent pas le monstre et qui ne regardent pas ses compétences car cela reste facile à contrer donc il est peut-être plus intéressant en arène live.",
+                                                            "langcode": "FR",
+                                                            "last_update": "2016-09-08 18:59:42",
+                                                            "last_update_ts": "1473353982000",
+                                                            "author": {
+                                                                "id": 501,
+                                                                "name": "Ristoum Spatz",
+                                                                "title": null,
+                                                                "know_more": null,
+                                                                "avatar": "https://cdn.shinsoft.fr/sw/upload/user/501/ziggs gauffre.jpg",
+                                                                "contrib": 1731,
+                                                                "langcode": "FR",
+                                                                "permissions": {
+                                                                    "logged": true,
+                                                                    "donator": true
+                                                                },
+                                                                "groups": [
+                                                                    {
+                                                                        "id": 3,
+                                                                        "name": "PRO",
+                                                                        "name_tid": "USER_DONATOR",
+                                                                        "description": "SW-DB Pro version",
+                                                                        "label": {
+                                                                            "name": "PRO",
+                                                                            "color": "royal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "like": {
+                                                                "nb": 0,
+                                                                "user_id": [],
+                                                                "by": ""
+                                                            },
+                                                            "responses": [
+                                                                {
+                                                                    "id": 1663,
+                                                                    "parent_id": 1661,
+                                                                    "summon_id": 493,
+                                                                    "user_id": 2068,
+                                                                    "title": "Re: \"Pkoi tjs Violent ?\"",
+                                                                    "comment": "L'idée est la suivante : actuellement, Violent est le set de runes à privilégier sur Amduat.<br>Mais les nouvelles runes vont sûrement diviser les joueurs en deux catégories :<br>- Le \"old-school\" (ne pas confondre avec \"has-been\") : Violent + 2set<br>- La \"nouvelle génération\" : 3x2sets de 7%PV, 7%Def, Shield, voire 7%Atk, 7%Res, 7%Acc.<br><br>Pourquoi ?<br>A l'heure actuelle, Amduat est un mob purement utilitaire, dont le principal but était de détruire les combos.<br>Violent offre toujours ce taux de réussite intéressant du skill 2, mais certains vont possiblement préférer en faire un réel support sur pattes, de A à Z, en lui conférant des sets de runes qui apporteront des stats bonus à l'équipe.<br>Ainsi, Amduat jouera son rôle, avec un taux de réussite amoindri, mais permettra d'encaisser encore plus les dégâts des nukers sur un long fight.<br><br>Comprends-tu où je souhaitais en venir, mon cher ? :)",
+                                                                    "langcode": "FR",
+                                                                    "last_update": "2016-09-09 08:31:38",
+                                                                    "last_update_ts": "1473402698000",
+                                                                    "author": {
+                                                                        "id": 2068,
+                                                                        "name": "Jagox7",
+                                                                        "title": null,
+                                                                        "know_more": null,
+                                                                        "avatar": "https://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+                                                                        "contrib": 1165,
+                                                                        "langcode": "FR",
+                                                                        "permissions": {
+                                                                            "logged": true
+                                                                        }
+                                                                    },
+                                                                    "like": {
+                                                                        "nb": 0,
+                                                                        "user_id": [],
+                                                                        "by": ""
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1013,
+            "parent_id": null,
+            "summon_id": 493,
+            "user_id": 644,
+            "title": "Spectra like",
+            "comment": "Je viens de l'avoir et je pense vraiment que c'est Spectra, mais en mieux, je ne l'ai pas encore testé en toa, mais j'ai vraiment l'impression qu'il peut devenir très utile !",
+            "langcode": "FR",
+            "last_update": "2016-04-07 19:53:43",
+            "last_update_ts": "1460051623000",
+            "author": {
+                "id": 644,
+                "name": "Sobeck1",
+                "title": null,
+                "know_more": null,
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/644/14625269_325081297855699_1079877387_n.jpg",
+                "contrib": 145,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "like": {
+                "nb": 0,
+                "user_id": [],
+                "by": ""
+            },
+            "responses": [
+                {
+                    "id": 1015,
+                    "parent_id": 1013,
+                    "summon_id": 493,
+                    "user_id": 2068,
+                    "title": "Re: \"Spectra like\"",
+                    "comment": "Amduat est bien loin un support et un mob différent de Spectra.<br>Spectra est le BossKiller du ToA Normal/Hard par excellence pour plusieurs raisons :<br>- 100% chance d'appliquer le Speed Debuff, et ne prend pas en compte l'avantage/désavantage d'élément, car il ne \"hit\" pas.<br>- Skill 3 avec 3 tours de CoolDown<br>- Skill 2 fait des damages monstrueux, et est généralement le seul dps au ToA 100<br><br>Si remplacer Spectra en ToA est ton idée, ne le fait pas.<br>Si tu as songer à remplacer un autre mob comme Basalt <i>- qui decrease l'ATB principalement -</i>&nbsp;par Amduat, elle n'est pas mauvaise, mais il te faudra un runage Violent ou Swift, de la Spd et de l'Acc%.",
+                    "langcode": "FR",
+                    "last_update": "2016-04-08 10:38:51",
+                    "last_update_ts": "1460104731000",
+                    "author": {
+                        "id": 2068,
+                        "name": "Jagox7",
+                        "title": null,
+                        "know_more": null,
+                        "avatar": "https://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+                        "contrib": 1165,
+                        "langcode": "FR",
+                        "permissions": {
+                            "logged": true
+                        }
+                    },
+                    "like": {
+                        "nb": 1,
+                        "user_id": [
+                            1
+                        ],
+                        "by": "Shinzah"
+                    },
+                    "responses": [
+                        {
+                            "id": 1016,
+                            "parent_id": 1015,
+                            "summon_id": 493,
+                            "user_id": 644,
+                            "title": "Re: \"Spectra like\"",
+                            "comment": "Je pensais remplacer Spectra mais pas au TOA 100, que je suis très loin d'atteindre, je pensais juste utiliser Amduat comme slow et réduction d'ATB, mais je n'avais effectivement pas pensé au skill 2 de Spectra, merci de ton point de vue",
+                            "langcode": "FR",
+                            "last_update": "2016-04-08 12:59:02",
+                            "last_update_ts": "1460113142000",
+                            "author": {
+                                "id": 644,
+                                "name": "Sobeck1",
+                                "title": null,
+                                "know_more": null,
+                                "avatar": "https://cdn.sw-db.com/sw/upload/user/644/14625269_325081297855699_1079877387_n.jpg",
+                                "contrib": 145,
+                                "langcode": "FR",
+                                "permissions": {
+                                    "logged": true
+                                }
+                            },
+                            "like": {
+                                "nb": 0,
+                                "user_id": [],
+                                "by": ""
+                            },
+                            "responses": [
+                                {
+                                    "id": 1017,
+                                    "parent_id": 1016,
+                                    "summon_id": 493,
+                                    "user_id": 2068,
+                                    "title": "Re: \"Spectra like\"",
+                                    "comment": "Mais c'est un plaisir !<br>",
+                                    "langcode": "FR",
+                                    "last_update": "2016-04-08 13:25:53",
+                                    "last_update_ts": "1460114753000",
+                                    "author": {
+                                        "id": 2068,
+                                        "name": "Jagox7",
+                                        "title": null,
+                                        "know_more": null,
+                                        "avatar": "https://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+                                        "contrib": 1165,
+                                        "langcode": "FR",
+                                        "permissions": {
+                                            "logged": true
+                                        }
+                                    },
+                                    "like": {
+                                        "nb": 0,
+                                        "user_id": [],
+                                        "by": ""
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 544,
+            "parent_id": null,
+            "summon_id": 493,
+            "user_id": 1087,
+            "title": "eveil",
+            "comment": "il y a une erreur sur les essences nécéssaire a l'eveil, il faut 12 essences superieur de ténebre et 6 superieur de magie<div>sinon tres bon monstre violent/focus vit/pv%/pv%</div>",
+            "langcode": "FR",
+            "last_update": "2015-11-28 10:07:03",
+            "last_update_ts": "1448701623000",
+            "author": {
+                "id": 1087,
+                "name": "epsom2",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 17,
+                "langcode": "EN",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "like": {
+                "nb": 0,
+                "user_id": [],
+                "by": ""
+            },
+            "responses": [
+                {
+                    "id": 549,
+                    "parent_id": 544,
+                    "summon_id": 493,
+                    "user_id": 1,
+                    "title": "Corrige",
+                    "comment": "Les essences sont corrigées. Merci",
+                    "langcode": "FR",
+                    "last_update": "2015-11-30 12:01:53",
+                    "last_update_ts": "1448881313000",
+                    "author": {
+                        "id": 1,
+                        "name": "Shinzah",
+                        "title": "Créateur de SW-DB",
+                        "know_more": "<p>Créateur, développeur de SW-DB et joueur casual de Summoners War</p>",
+                        "avatar": "https://cdn.shinsoft.fr/sw/upload/user/1/AK_Cine_Classe.png",
+                        "contrib": 1749,
+                        "langcode": "FR",
+                        "permissions": {
+                            "logged": true,
+                            "admin": true,
+                            "moderator": true,
+                            "donator": true,
+                            "translator": true,
+                            "beta": true
+                        },
+                        "groups": [
+                            {
+                                "id": 1,
+                                "name": "Administrator",
+                                "name_tid": "USER_ADMIN",
+                                "description": "SW-DB administrators",
+                                "label": {
+                                    "name": "Admin",
+                                    "color": "danger"
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "name": "Moderator",
+                                "name_tid": "USER_MODERATOR",
+                                "description": "SW-DB moderators"
+                            },
+                            {
+                                "id": 3,
+                                "name": "PRO",
+                                "name_tid": "USER_DONATOR",
+                                "description": "SW-DB Pro version"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Staff",
+                                "name_tid": "USER_STAFF",
+                                "description": "SW-DB Staff"
+                            },
+                            {
+                                "id": 6,
+                                "name": "Translator",
+                                "name_tid": "USER_TRANSLATOR",
+                                "description": "SW-DB Translators"
+                            },
+                            {
+                                "id": 7,
+                                "name": "Beta",
+                                "name_tid": "USER_BETA",
+                                "description": "SW-DB Beta testers"
+                            }
+                        ]
+                    },
+                    "like": {
+                        "nb": 0,
+                        "user_id": [],
+                        "by": ""
+                    }
+                }
+            ]
+        }
+    ],
+    "all_comments": [
+        {
+            "date": "1448701623000"
+        },
+        {
+            "date": "1448881313000"
+        },
+        {
+            "date": "1460051623000"
+        },
+        {
+            "date": "1460104731000"
+        },
+        {
+            "date": "1460113142000"
+        },
+        {
+            "date": "1460114753000"
+        },
+        {
+            "date": "1484687228000"
+        },
+        {
+            "date": "1473185769000"
+        },
+        {
+            "date": "1473229760000"
+        },
+        {
+            "date": "1473269510000"
+        },
+        {
+            "date": "1473270717000"
+        },
+        {
+            "date": "1473285771000"
+        },
+        {
+            "date": "1473336788000"
+        },
+        {
+            "date": "1473353982000"
+        },
+        {
+            "date": "1473402698000"
+        }
+    ],
+    "location": [
+        {
+            "summon_id": 493,
+            "location_id": 104,
+            "tid": "DARK_LIGHT_SCROLL"
+        },
+        {
+            "summon_id": 493,
+            "location_id": 111,
+            "tid": "TEMPLE_OF_WISHES"
+        }
+    ],
+    "radar": {
+        "summon": {
+            "atk": 0.96,
+            "hp": 1.05,
+            "def": 1.09,
+            "spd": 0.99,
+            "acc": 0,
+            "res": 0.88,
+            "crit_rate": 0.88,
+            "crit_dmg": 1,
+            "total": 4.09
+        },
+        "max": {
+            "atk": 1.62,
+            "hp": 1.55,
+            "def": 1.5,
+            "spd": 1.22,
+            "acc": 8.33,
+            "res": 2.35,
+            "crit_rate": 1.76,
+            "crit_dmg": 1
+        }
+    },
+    "rank_stats": {
+        "atk": "537",
+        "hp": "263",
+        "def": "231",
+        "spd": "2737",
+        "crit_rate": "1665",
+        "crit_dmg": "1323",
+        "res": "1583",
+        "acc": "1603"
+    },
+    "teams": [
+        {
+            "id": 4570,
+            "user_id": 1174,
+            "name": "Gestion des Bombes",
+            "comment": "Ordre de jeux à rechercher: Amduat pour retarder l'ennemi et Bernard pour accelerer (il faut que l'un d'eux joue en premier) puis Dover pose ses bombes et enfin Seara pose sa bombe et les fait toutes explosées ..... combat suivant.<br>",
+            "type": "ARENA",
+            "subtype": "OFFENSE",
+            "members": [
+                {
+                    "id": 263,
+                    "name": "Seara",
+                    "name_translation": {
+                        "EN": "Seara"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-seara.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-seara.png",
+                    "grade": 5,
+                    "last_update_ts": "1589758283",
+                    "type_id": 39,
+                    "type": {
+                        "tid": "ORACLE"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 6,
+                        "dragons": 2,
+                        "necropolis": 8,
+                        "toa": null,
+                        "toa_hm": 6,
+                        "arena_offense": 10,
+                        "arena_defense": 8,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 5,
+                            "toa": 6,
+                            "arena": 9,
+                            "gvg": 10,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_offense",
+                        "value": 10,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 7,
+                            "necropolis": 9,
+                            "toa": 7,
+                            "toa_hm": 7,
+                            "arena_offense": 10,
+                            "arena_defense": 9,
+                            "guildwar_offense": 10,
+                            "guildwar_defense": 9,
+                            "overall_rating": 10,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 8,
+                                "toa": 7,
+                                "arena": 10,
+                                "gvg": 10
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 352,
+                    "name": "Dover",
+                    "name_translation": {
+                        "EN": "Dover"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-dover.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-dover.png",
+                    "grade": 4,
+                    "last_update_ts": "1589497512",
+                    "type_id": 65,
+                    "type": {
+                        "tid": "KOBOLD_BOMBER"
+                    },
+                    "attribute_id": 4,
+                    "attribute": {
+                        "tid": "LIGHT"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 6,
+                        "arena_offense": 8,
+                        "arena_defense": 2,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 7,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 6,
+                            "arena": 5,
+                            "gvg": 5,
+                            "users": 7
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_offense",
+                        "value": 8,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 5,
+                            "dragons": 5,
+                            "necropolis": 5,
+                            "toa": 6,
+                            "toa_hm": 6,
+                            "arena_offense": 9,
+                            "arena_defense": 5,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 5,
+                            "overall_rating": 7,
+                            "raid": 6,
+                            "categories": {
+                                "dungeon": 5,
+                                "toa": 6,
+                                "arena": 7,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 493,
+                    "name": "Amduat",
+                    "name_translation": {
+                        "EN": "Amduat"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amduat.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amduat.png",
+                    "grade": 4,
+                    "last_update_ts": "1587632621",
+                    "type_id": 88,
+                    "type": {
+                        "tid": "HORUS"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 7,
+                            "necropolis": 1,
+                            "toa": 3,
+                            "toa_hm": 2,
+                            "arena_offense": 8,
+                            "arena_defense": 6,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 7,
+                            "overall_rating": 7,
+                            "raid": 2,
+                            "maze": 1,
+                            "categories": {
+                                "dungeon": 3,
+                                "toa": 3,
+                                "arena": 7,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 257,
+                    "name": "Bernard",
+                    "name_translation": {
+                        "EN": "Bernard"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-bernard.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-bernard.png",
+                    "grade": 3,
+                    "last_update_ts": "1592175910",
+                    "type_id": 17,
+                    "type": {
+                        "tid": "GRIFFON"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 8,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 10,
+                        "arena_offense": 10,
+                        "arena_defense": 10,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 8,
+                            "toa": 10,
+                            "arena": 10,
+                            "gvg": 7,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 7,
+                            "necropolis": 5,
+                            "toa": 9,
+                            "toa_hm": 8,
+                            "arena_offense": 9,
+                            "arena_defense": 8,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 8,
+                            "overall_rating": 9,
+                            "raid": 7,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 263,
+            "last_update": "2017-04-09 12:06:10",
+            "last_update_ts": "1491732370000",
+            "members_ids": "263,352,493,257",
+            "author": {
+                "id": 1174,
+                "name": "Amhéon",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 324,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 124,
+                "last_view": "2020-06-12 10:43:49",
+                "last_view_ts": "1591951429"
+            },
+            "likes": {
+                "count": 1,
+                "by_me": false,
+                "by": "Insadekz"
+            },
+            "nb_comments": 0
+        },
+        {
+            "id": 3396,
+            "user_id": 4698,
+            "name": "stall anti-speed",
+            "comment": "-camille hybride tank/dps en violent/shield<br>-chasun en violent/shield<br>-jultan en shield/will/revenge<br>amduat en despair/will +200 spd ( obligatoire)<br>team ne pouvant pas se faire battre pas une team aoe spd plutot efficace contre les attaques stall aussi 40% win rate en c2",
+            "type": "ARENA",
+            "subtype": null,
+            "members": [
+                {
+                    "id": 232,
+                    "name": "Camilla",
+                    "name_translation": {
+                        "EN": "Camilla"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-camilla.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-camilla.png",
+                    "grade": 5,
+                    "last_update_ts": "1590363085",
+                    "type_id": 54,
+                    "type": {
+                        "tid": "VALKYRJA"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 4,
+                        "dragons": 6,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 6,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 4,
+                            "toa": 2,
+                            "arena": 8,
+                            "gvg": 10,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_defense",
+                        "value": 10,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 8,
+                            "dragons": 8,
+                            "necropolis": 5,
+                            "toa": 7,
+                            "toa_hm": 6,
+                            "arena_offense": 9,
+                            "arena_defense": 10,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 10,
+                            "overall_rating": 9,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 10,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 386,
+                    "name": "Chasun",
+                    "name_translation": {
+                        "EN": "Chasun"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-chasun.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-chasun.png",
+                    "grade": 4,
+                    "last_update_ts": "1591311913",
+                    "type_id": 68,
+                    "type": {
+                        "tid": "SKY_DANCER"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 6,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 10,
+                        "arena_offense": 8,
+                        "arena_defense": 10,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 7,
+                            "toa": 10,
+                            "arena": 9,
+                            "gvg": 10,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 8,
+                            "necropolis": 7,
+                            "toa": 9,
+                            "toa_hm": 8,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 9,
+                            "overall_rating": 10,
+                            "raid": 9,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 169,
+                    "name": "Jultan",
+                    "name_translation": {
+                        "EN": "Jultan"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-jultan.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-jultan.png",
+                    "grade": 3,
+                    "last_update_ts": "1589758270",
+                    "type_id": 58,
+                    "type": {
+                        "tid": "WEREWOLF"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 2,
+                        "arena_defense": 4,
+                        "guildwar_offense": 6,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 2,
+                            "arena": 3,
+                            "gvg": 6,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "guildwar_offense",
+                        "value": 6,
+                        "cat": "gvg"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 6,
+                            "necropolis": 6,
+                            "toa": 7,
+                            "toa_hm": 6,
+                            "arena_offense": 8,
+                            "arena_defense": 8,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 9,
+                            "overall_rating": 8,
+                            "raid": 7,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 7,
+                                "arena": 8,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 493,
+                    "name": "Amduat",
+                    "name_translation": {
+                        "EN": "Amduat"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amduat.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amduat.png",
+                    "grade": 4,
+                    "last_update_ts": "1587632621",
+                    "type_id": 88,
+                    "type": {
+                        "tid": "HORUS"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 7,
+                            "necropolis": 1,
+                            "toa": 3,
+                            "toa_hm": 2,
+                            "arena_offense": 8,
+                            "arena_defense": 6,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 7,
+                            "overall_rating": 7,
+                            "raid": 2,
+                            "maze": 1,
+                            "categories": {
+                                "dungeon": 3,
+                                "toa": 3,
+                                "arena": 7,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 232,
+            "last_update": "2016-11-28 11:46:53",
+            "last_update_ts": "1480330013000",
+            "members_ids": "232,386,169,493",
+            "author": {
+                "id": 4698,
+                "name": "Leviahtemps",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 135,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 99,
+                "last_view": "2020-05-20 12:19:10",
+                "last_view_ts": "1589969950"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        },
+        {
+            "id": 5157,
+            "user_id": 6467,
+            "name": "Ad besoin de vos avis ?",
+            "comment": "Besoin de vos avis sur cette compo et sur le runage ? Hell :)",
+            "type": "ARENA",
+            "subtype": "DEFENSE",
+            "members": [
+                {
+                    "id": 123,
+                    "name": "Xing Zhe",
+                    "name_translation": {
+                        "EN": "Xing Zhe"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-xing_zhe.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-xing_zhe.png",
+                    "grade": 5,
+                    "last_update_ts": "1592177418",
+                    "type_id": 34,
+                    "type": {
+                        "tid": "MONKEY_KING"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 6,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 6,
+                        "arena_defense": 8,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 3,
+                            "toa": 2,
+                            "arena": 7,
+                            "gvg": 10,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "guildwar_offense",
+                        "value": 10,
+                        "cat": "gvg"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 7,
+                            "dragons": 5,
+                            "necropolis": 4,
+                            "toa": 7,
+                            "toa_hm": 6,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 10,
+                            "guildwar_defense": 9,
+                            "overall_rating": 10,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 10
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 189,
+                    "name": "Kumar",
+                    "name_translation": {
+                        "EN": "Kumar"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-kumar.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-kumar.png",
+                    "grade": 5,
+                    "last_update_ts": "1587631947",
+                    "type_id": 5,
+                    "type": {
+                        "tid": "BEAST_MONK"
+                    },
+                    "attribute_id": 2,
+                    "attribute": {
+                        "tid": "FIRE"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 4,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 4,
+                        "arena_offense": 8,
+                        "arena_defense": 8,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 3,
+                            "toa": 4,
+                            "arena": 8,
+                            "gvg": 10,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "guildwar_offense",
+                        "value": 10,
+                        "cat": "gvg"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 5,
+                            "dragons": 5,
+                            "necropolis": 4,
+                            "toa": 7,
+                            "toa_hm": 5,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 9,
+                            "overall_rating": 9,
+                            "raid": 7,
+                            "maze": 4,
+                            "categories": {
+                                "dungeon": 5,
+                                "toa": 6,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 493,
+                    "name": "Amduat",
+                    "name_translation": {
+                        "EN": "Amduat"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amduat.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amduat.png",
+                    "grade": 4,
+                    "last_update_ts": "1587632621",
+                    "type_id": 88,
+                    "type": {
+                        "tid": "HORUS"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 7,
+                            "necropolis": 1,
+                            "toa": 3,
+                            "toa_hm": 2,
+                            "arena_offense": 8,
+                            "arena_defense": 6,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 7,
+                            "overall_rating": 7,
+                            "raid": 2,
+                            "maze": 1,
+                            "categories": {
+                                "dungeon": 3,
+                                "toa": 3,
+                                "arena": 7,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 448,
+                    "name": "Betta",
+                    "name_translation": {
+                        "EN": "Betta"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-betta.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-betta.png",
+                    "grade": 4,
+                    "last_update_ts": "1587632512",
+                    "type_id": 79,
+                    "type": {
+                        "tid": "MERMAID"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 6,
+                        "dragons": 6,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 6,
+                        "arena_offense": 2,
+                        "arena_defense": 6,
+                        "guildwar_offense": 6,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 5,
+                            "toa": 6,
+                            "arena": 4,
+                            "gvg": 8,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "guildwar_defense",
+                        "value": 10,
+                        "cat": "gvg"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 9,
+                            "necropolis": 3,
+                            "toa": 6,
+                            "toa_hm": 5,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 10,
+                            "overall_rating": 9,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 6,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 123,
+            "last_update": "2017-06-10 22:31:38",
+            "last_update_ts": "1497126698000",
+            "members_ids": "123,189,493,448",
+            "author": {
+                "id": 6467,
+                "name": "Nalo",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 828,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true,
+                    "donator": true
+                },
+                "groups": [
+                    {
+                        "id": 3,
+                        "name": "PRO",
+                        "name_tid": "USER_DONATOR",
+                        "description": "SW-DB Pro version",
+                        "label": {
+                            "name": "PRO",
+                            "color": "royal"
+                        }
+                    }
+                ]
+            },
+            "views": {
+                "count": 63,
+                "last_view": "2020-06-03 11:14:21",
+                "last_view_ts": "1591175661"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 1
+        },
+        {
+            "id": 5328,
+            "user_id": 6467,
+            "name": "Tanky/ctrl",
+            "comment": "Xing zhe = Dps + stun + reduce dgt -25% + lead 33%hp<br>Amduat = cut les atb + stun + malus spd<br>Kumar = tank + heal + counterheal",
+            "type": "GUILDWAR",
+            "subtype": "DEFENSE",
+            "members": [
+                {
+                    "id": 123,
+                    "name": "Xing Zhe",
+                    "name_translation": {
+                        "EN": "Xing Zhe"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-xing_zhe.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-xing_zhe.png",
+                    "grade": 5,
+                    "last_update_ts": "1592177418",
+                    "type_id": 34,
+                    "type": {
+                        "tid": "MONKEY_KING"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 6,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 6,
+                        "arena_defense": 8,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 10,
+                        "overall": {
+                            "dungeon": 3,
+                            "toa": 2,
+                            "arena": 7,
+                            "gvg": 10,
+                            "users": 10
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "guildwar_offense",
+                        "value": 10,
+                        "cat": "gvg"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 7,
+                            "dragons": 5,
+                            "necropolis": 4,
+                            "toa": 7,
+                            "toa_hm": 6,
+                            "arena_offense": 9,
+                            "arena_defense": 9,
+                            "guildwar_offense": 10,
+                            "guildwar_defense": 9,
+                            "overall_rating": 10,
+                            "raid": 8,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 7,
+                                "arena": 9,
+                                "gvg": 10
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 493,
+                    "name": "Amduat",
+                    "name_translation": {
+                        "EN": "Amduat"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amduat.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amduat.png",
+                    "grade": 4,
+                    "last_update_ts": "1587632621",
+                    "type_id": 88,
+                    "type": {
+                        "tid": "HORUS"
+                    },
+                    "attribute_id": 5,
+                    "attribute": {
+                        "tid": "DARK"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "users": 7,
+                        "overall": null
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 6,
+                            "dragons": 7,
+                            "necropolis": 1,
+                            "toa": 3,
+                            "toa_hm": 2,
+                            "arena_offense": 8,
+                            "arena_defense": 6,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 7,
+                            "overall_rating": 7,
+                            "raid": 2,
+                            "maze": 1,
+                            "categories": {
+                                "dungeon": 3,
+                                "toa": 3,
+                                "arena": 7,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 189,
+                    "name": "Kumar",
+                    "name_translation": {
+                        "EN": "Kumar"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-kumar.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-kumar.png",
+                    "grade": 5,
+                    "last_update_ts": "1587631947",
+                    "type_id": 5,
+                    "type": {
+                        "tid": "BEAST_MONK"
+                    },
+                    "attribute_id": 2,
+                    "attribute": {
+                        "tid": "FIRE"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 4,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 4,
+                        "arena_offense": 8,
+                        "arena_defense": 8,
+                        "guildwar_offense": 10,
+                        "guildwar_defense": 10,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 3,
+                            "toa": 4,
+                            "arena": 8,
+                            "gvg": 10,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "guildwar_offense",
+                        "value": 10,
+                        "cat": "gvg"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 5,
+                            "dragons": 5,
+                            "necropolis": 4,
+                            "toa": 7,
+                            "toa_hm": 5,
+                            "arena_offense": 8,
+                            "arena_defense": 9,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 9,
+                            "overall_rating": 9,
+                            "raid": 7,
+                            "maze": 4,
+                            "categories": {
+                                "dungeon": 5,
+                                "toa": 6,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 123,
+            "last_update": "2017-07-01 12:41:17",
+            "last_update_ts": "1498905677000",
+            "members_ids": "123,493,189",
+            "author": {
+                "id": 6467,
+                "name": "Nalo",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 828,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true,
+                    "donator": true
+                },
+                "groups": [
+                    {
+                        "id": 3,
+                        "name": "PRO",
+                        "name_tid": "USER_DONATOR",
+                        "description": "SW-DB Pro version",
+                        "label": {
+                            "name": "PRO",
+                            "color": "royal"
+                        }
+                    }
+                ]
+            },
+            "views": {
+                "count": 80,
+                "last_view": "2020-05-09 15:30:27",
+                "last_view_ts": "1589031027"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        }
+    ],
+    "views": {
+        "count": 7553,
+        "last_view": "2020-06-18 01:06:35",
+        "last_view_ts": "1592435195"
+    },
+    "key": "SWDB-FullInfo-493-EN-r0,f0,a0,a0,s0,l0,s0,f0,r0,f0,c0,l0,r0,t0,v0,r0,f1,m0,n0-Protocol(HTTPS)-@@SUMMON@@",
+    "favorite": false
+}

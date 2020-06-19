@@ -1,0 +1,3557 @@
+{
+    "id": 74,
+    "type_id": 53,
+    "attribute_id": 3,
+    "name": "Allen",
+    "class_id": 4,
+    "grade": 2,
+    "devilmon_req": 13,
+    "advanced": 0,
+    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-allen.png",
+    "screenshot_path": null,
+    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-allen.png",
+    "screenshot_path_awakened": "http://cdn.shinsoft.fr/sw/summon/screenshot/awaken/icon-rounded-allen.jpg",
+    "last_update": "2020-06-15 01:31:00",
+    "last_updater": 1,
+    "last_update_ts": "1592177460",
+    "count": {
+        "reviews": 0,
+        "favorites": 156,
+        "awakenings": 4,
+        "abilities": 2,
+        "skills": 3,
+        "stats": 20,
+        "same_as": 4,
+        "fusion": 0,
+        "material_fusion": 0,
+        "language_comments": {
+            "FR": 0,
+            "EN": 0,
+            "OTHER": 0
+        },
+        "comments": 0,
+        "location": 4,
+        "teams": 2
+    },
+    "attribute": {
+        "id": 3,
+        "tid": "WATER"
+    },
+    "type": {
+        "id": 53,
+        "tid": "VAGABOND"
+    },
+    "class": {
+        "id": 4,
+        "tid": "HP"
+    },
+    "name_translation": {
+        "EN": "Allen"
+    },
+    "reviews_summary": null,
+    "medias": [
+        {
+            "type": "YOUTUBE",
+            "url": "https://www.youtube.com/embed/HNz2ZuNLFIM?feature=oembed"
+        }
+    ],
+    "rating": {
+        "giants": 2,
+        "dragons": 2,
+        "necropolis": 2,
+        "toa": null,
+        "toa_hm": 2,
+        "arena_offense": 2,
+        "arena_defense": 2,
+        "guildwar_offense": 2,
+        "guildwar_defense": 2,
+        "raid": null,
+        "maze": null,
+        "users": 5,
+        "overall": {
+            "dungeon": 2,
+            "toa": 2,
+            "arena": 2,
+            "gvg": 2,
+            "users": 5
+        }
+    },
+    "higher_rating": {
+        "key": "giants",
+        "value": 2,
+        "cat": "dungeon"
+    },
+    "users_rating": {
+        "list": [
+            {
+                "user_id": "147",
+                "summon_id": "74",
+                "overall_rating": "7",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": null,
+                "maze": null,
+                "user_name": "Kywi",
+                "name": "Kywi",
+                "avatar": "",
+                "contrib": "155"
+            },
+            {
+                "user_id": "212",
+                "summon_id": "74",
+                "overall_rating": "5",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": null,
+                "maze": null,
+                "user_name": "SEB",
+                "name": "SEB",
+                "avatar": "",
+                "contrib": "207"
+            },
+            {
+                "user_id": "689",
+                "summon_id": "74",
+                "overall_rating": "7",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": null,
+                "maze": null,
+                "user_name": "Thomas Germain",
+                "name": "Thomas Germain",
+                "avatar": "https://cdn.shinsoft.fr/sw/upload/user/689/icon-akia.png",
+                "contrib": "287"
+            },
+            {
+                "user_id": "615",
+                "summon_id": "74",
+                "overall_rating": "6",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": null,
+                "maze": null,
+                "user_name": "DrZep",
+                "name": "DrZep",
+                "avatar": "https://cdn.shinsoft.fr/sw/upload/user/615/23_15A.jpg",
+                "contrib": "200"
+            },
+            {
+                "user_id": "994",
+                "summon_id": "74",
+                "overall_rating": "5",
+                "giants": null,
+                "dragons": null,
+                "necropolis": null,
+                "toa": null,
+                "toa_hm": null,
+                "arena_offense": null,
+                "arena_defense": null,
+                "guildwar_offense": null,
+                "guildwar_defense": null,
+                "raid": null,
+                "maze": null,
+                "user_name": "FATiG",
+                "name": "FATiG",
+                "avatar": "https://cdn.shinsoft.fr/sw/upload/user/994/logo perso retouché.jpg",
+                "contrib": "1560"
+            },
+            {
+                "user_id": "1922",
+                "summon_id": "74",
+                "overall_rating": "4",
+                "giants": "4",
+                "dragons": "4",
+                "necropolis": "4",
+                "toa": "2",
+                "toa_hm": "2",
+                "arena_offense": "3",
+                "arena_defense": "3",
+                "guildwar_offense": "2",
+                "guildwar_defense": "2",
+                "raid": "4",
+                "maze": null,
+                "user_name": "Cyril Jolbert (CornixX)",
+                "name": "Cyril Jolbert (CornixX)",
+                "avatar": "",
+                "contrib": "5"
+            },
+            {
+                "user_id": "2068",
+                "summon_id": "74",
+                "overall_rating": "5",
+                "giants": "3",
+                "dragons": "3",
+                "necropolis": "3",
+                "toa": "7",
+                "toa_hm": "3",
+                "arena_offense": "7",
+                "arena_defense": "5",
+                "guildwar_offense": "5",
+                "guildwar_defense": "5",
+                "raid": "5",
+                "maze": null,
+                "user_name": "Jagox7",
+                "name": "Jagox7",
+                "avatar": "https://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+                "contrib": "1165"
+            },
+            {
+                "user_id": "15042",
+                "summon_id": "74",
+                "overall_rating": "2",
+                "giants": "1",
+                "dragons": "1",
+                "necropolis": "1",
+                "toa": "1",
+                "toa_hm": "1",
+                "arena_offense": "1",
+                "arena_defense": "1",
+                "guildwar_offense": "1",
+                "guildwar_defense": "1",
+                "raid": "1",
+                "maze": null,
+                "user_name": "Mkiller77",
+                "name": "Mkiller77",
+                "avatar": "",
+                "contrib": "20"
+            }
+        ],
+        "overall": {
+            "giants": 3,
+            "dragons": 3,
+            "necropolis": 3,
+            "toa": 3,
+            "toa_hm": 2,
+            "arena_offense": 4,
+            "arena_defense": 3,
+            "guildwar_offense": 3,
+            "guildwar_defense": 3,
+            "overall_rating": 5,
+            "raid": 3,
+            "categories": {
+                "dungeon": 3,
+                "toa": 3,
+                "arena": 4,
+                "gvg": 3
+            }
+        }
+    },
+    "users_favorite": [
+        {
+            "user_id": "20",
+            "user_name": "cordier kevin",
+            "avatar": null,
+            "contrib": "97"
+        },
+        {
+            "user_id": "147",
+            "user_name": "Kywi",
+            "avatar": null,
+            "contrib": "155"
+        },
+        {
+            "user_id": "689",
+            "user_name": "Thomas Germain",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/689/icon-akia.png",
+            "contrib": "287"
+        },
+        {
+            "user_id": "202",
+            "user_name": "Lucide DievalOupa",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/202/10010407_10204700040159867_4213309486721880527_o.jpg",
+            "contrib": "194"
+        },
+        {
+            "user_id": "551",
+            "user_name": "Ashra44",
+            "avatar": null,
+            "contrib": "31"
+        },
+        {
+            "user_id": "3109",
+            "user_name": "romain",
+            "avatar": null,
+            "contrib": "116"
+        },
+        {
+            "user_id": "667",
+            "user_name": "Aniatue",
+            "avatar": null,
+            "contrib": "1255"
+        },
+        {
+            "user_id": "82",
+            "user_name": "Fresh Thoma",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/82/calme.jpg",
+            "contrib": "257"
+        },
+        {
+            "user_id": "1198",
+            "user_name": "Bubbledine",
+            "avatar": null,
+            "contrib": "368"
+        },
+        {
+            "user_id": "2068",
+            "user_name": "Jagox7",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/2068/Emblème.png",
+            "contrib": "1165"
+        },
+        {
+            "user_id": "1647",
+            "user_name": "GregLeVieuxRat",
+            "avatar": "http://cdn.shinsoft.fr/sw/upload/user/1647/ffbbc5a7ce802d9f9c51c8dd31b10974.jpg",
+            "contrib": "68"
+        },
+        {
+            "user_id": "2234",
+            "user_name": "Pascal Piedfort",
+            "avatar": null,
+            "contrib": "541"
+        },
+        {
+            "user_id": "1704",
+            "user_name": "Patrick L. (Unpocible)",
+            "avatar": null,
+            "contrib": "164"
+        },
+        {
+            "user_id": "3662",
+            "user_name": "Maxime Daniels",
+            "avatar": null,
+            "contrib": "134"
+        },
+        {
+            "user_id": "2894",
+            "user_name": "the_kyom",
+            "avatar": null,
+            "contrib": "106"
+        },
+        {
+            "user_id": "3156",
+            "user_name": "Haroun Cheref",
+            "avatar": null,
+            "contrib": "1135"
+        },
+        {
+            "user_id": "2869",
+            "user_name": "Charon",
+            "avatar": null,
+            "contrib": "152"
+        },
+        {
+            "user_id": "3277",
+            "user_name": "QuenotTodd",
+            "avatar": null,
+            "contrib": "316"
+        },
+        {
+            "user_id": "3537",
+            "user_name": "Hatsuyuume",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/3537/CPF5MyJUsAA4sZb.png",
+            "contrib": "135"
+        },
+        {
+            "user_id": "3420",
+            "user_name": "zoulou63",
+            "avatar": null,
+            "contrib": "98"
+        },
+        {
+            "user_id": "3641",
+            "user_name": "Kévin Tatard",
+            "avatar": null,
+            "contrib": "128"
+        },
+        {
+            "user_id": "3819",
+            "user_name": "Heddoun",
+            "avatar": null,
+            "contrib": "150"
+        },
+        {
+            "user_id": "2397",
+            "user_name": "Yoan Sandoz",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/2397/Modern_Miyamoto_by_chichapie.jpg",
+            "contrib": "163"
+        },
+        {
+            "user_id": "3891",
+            "user_name": "greg0969",
+            "avatar": null,
+            "contrib": "130"
+        },
+        {
+            "user_id": "4002",
+            "user_name": "arth74",
+            "avatar": null,
+            "contrib": "198"
+        },
+        {
+            "user_id": "3717",
+            "user_name": "Nipica “Nipica64” R",
+            "avatar": null,
+            "contrib": "297"
+        },
+        {
+            "user_id": "4226",
+            "user_name": "Arkanael",
+            "avatar": null,
+            "contrib": "160"
+        },
+        {
+            "user_id": "4136",
+            "user_name": "bef forg",
+            "avatar": null,
+            "contrib": "64"
+        },
+        {
+            "user_id": "4363",
+            "user_name": "Dermanubis",
+            "avatar": null,
+            "contrib": "195"
+        },
+        {
+            "user_id": "4398",
+            "user_name": "melange",
+            "avatar": null,
+            "contrib": "62"
+        },
+        {
+            "user_id": "4369",
+            "user_name": "Sandra",
+            "avatar": null,
+            "contrib": "22"
+        },
+        {
+            "user_id": "4511",
+            "user_name": "TaekothGlobal",
+            "avatar": null,
+            "contrib": "32"
+        },
+        {
+            "user_id": "4517",
+            "user_name": "Vordigan",
+            "avatar": null,
+            "contrib": "110"
+        },
+        {
+            "user_id": "4569",
+            "user_name": "Loustik",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/4569/Chimera_Water_Icon.png",
+            "contrib": "52"
+        },
+        {
+            "user_id": "4607",
+            "user_name": "Johan",
+            "avatar": null,
+            "contrib": "152"
+        },
+        {
+            "user_id": "4648",
+            "user_name": "Mauhulakh",
+            "avatar": null,
+            "contrib": "170"
+        },
+        {
+            "user_id": "4698",
+            "user_name": "Leviahtemps",
+            "avatar": null,
+            "contrib": "135"
+        },
+        {
+            "user_id": "4805",
+            "user_name": "jeremy",
+            "avatar": null,
+            "contrib": "250"
+        },
+        {
+            "user_id": "5503",
+            "user_name": "ripper54",
+            "avatar": null,
+            "contrib": "136"
+        },
+        {
+            "user_id": "3307",
+            "user_name": "Tetsoo",
+            "avatar": null,
+            "contrib": "158"
+        },
+        {
+            "user_id": "5606",
+            "user_name": "Remilio48",
+            "avatar": null,
+            "contrib": "92"
+        },
+        {
+            "user_id": "5634",
+            "user_name": "Jay",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/5634/204736.jpg",
+            "contrib": "772"
+        },
+        {
+            "user_id": "5848",
+            "user_name": "PoppyFr",
+            "avatar": null,
+            "contrib": "258"
+        },
+        {
+            "user_id": "5968",
+            "user_name": "DUBUS",
+            "avatar": null,
+            "contrib": "196"
+        },
+        {
+            "user_id": "3296",
+            "user_name": "Rasmus BITW",
+            "avatar": null,
+            "contrib": "251"
+        },
+        {
+            "user_id": "6433",
+            "user_name": "lionnel",
+            "avatar": null,
+            "contrib": "96"
+        },
+        {
+            "user_id": "6248",
+            "user_name": "Marie Novakovic",
+            "avatar": null,
+            "contrib": "226"
+        },
+        {
+            "user_id": "6687",
+            "user_name": "Arktophoris",
+            "avatar": null,
+            "contrib": "158"
+        },
+        {
+            "user_id": "412",
+            "user_name": "TIQUET Valentin",
+            "avatar": null,
+            "contrib": "163"
+        },
+        {
+            "user_id": "6910",
+            "user_name": "Shabi SH",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/6910/10999902_758306534296529_1960990847922766064_n.jpg",
+            "contrib": "170"
+        },
+        {
+            "user_id": "13667",
+            "user_name": "Romain R",
+            "avatar": null,
+            "contrib": "690"
+        },
+        {
+            "user_id": "10538",
+            "user_name": "Eric",
+            "avatar": null,
+            "contrib": "40"
+        },
+        {
+            "user_id": "991",
+            "user_name": "Dark MyLaw",
+            "avatar": null,
+            "contrib": "474"
+        },
+        {
+            "user_id": "13344",
+            "user_name": "Romain Douillard",
+            "avatar": null,
+            "contrib": "48"
+        },
+        {
+            "user_id": "7301",
+            "user_name": "Chmomol",
+            "avatar": null,
+            "contrib": "172"
+        },
+        {
+            "user_id": "7079",
+            "user_name": "JFouLBoxon",
+            "avatar": null,
+            "contrib": "148"
+        },
+        {
+            "user_id": "7264",
+            "user_name": "BlackkOut",
+            "avatar": null,
+            "contrib": "106"
+        },
+        {
+            "user_id": "7384",
+            "user_name": "Oshiioo",
+            "avatar": null,
+            "contrib": "120"
+        },
+        {
+            "user_id": "6776",
+            "user_name": "bertrand alexandre",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/6776/Dark-Money-King-Son-Zhang-Lao.png",
+            "contrib": "204"
+        },
+        {
+            "user_id": "7922",
+            "user_name": "Bouhyaa",
+            "avatar": null,
+            "contrib": "82"
+        },
+        {
+            "user_id": "8067",
+            "user_name": "Seb L",
+            "avatar": null,
+            "contrib": "85"
+        },
+        {
+            "user_id": "10121",
+            "user_name": "JaKreX",
+            "avatar": null,
+            "contrib": "65"
+        },
+        {
+            "user_id": "7675",
+            "user_name": "migestic gaming",
+            "avatar": null,
+            "contrib": "68"
+        },
+        {
+            "user_id": "8238",
+            "user_name": "Kazkrut",
+            "avatar": null,
+            "contrib": "132"
+        },
+        {
+            "user_id": "8260",
+            "user_name": "Neveah",
+            "avatar": null,
+            "contrib": "80"
+        },
+        {
+            "user_id": "8272",
+            "user_name": "Dohming",
+            "avatar": null,
+            "contrib": "122"
+        },
+        {
+            "user_id": "6088",
+            "user_name": "Jean-Raphaël Biehler",
+            "avatar": null,
+            "contrib": "478"
+        },
+        {
+            "user_id": "7617",
+            "user_name": "Jean-Pierre Bernard",
+            "avatar": null,
+            "contrib": "115"
+        },
+        {
+            "user_id": "7864",
+            "user_name": "QUINITO67",
+            "avatar": null,
+            "contrib": "94"
+        },
+        {
+            "user_id": "8410",
+            "user_name": "na",
+            "avatar": null,
+            "contrib": "118"
+        },
+        {
+            "user_id": "8412",
+            "user_name": "Kévin Hodonou",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/8412/with_each_other_by_christinamandy-d9dwm57.jpg",
+            "contrib": "214"
+        },
+        {
+            "user_id": "8810",
+            "user_name": "Clément Dano",
+            "avatar": null,
+            "contrib": "160"
+        },
+        {
+            "user_id": "8885",
+            "user_name": "Mayzer",
+            "avatar": null,
+            "contrib": "122"
+        },
+        {
+            "user_id": "9004",
+            "user_name": "TheZokio",
+            "avatar": null,
+            "contrib": "182"
+        },
+        {
+            "user_id": "9085",
+            "user_name": "skoupayou",
+            "avatar": null,
+            "contrib": "82"
+        },
+        {
+            "user_id": "9099",
+            "user_name": "Thibault d'Artigues",
+            "avatar": null,
+            "contrib": "148"
+        },
+        {
+            "user_id": "12975",
+            "user_name": "Myndel",
+            "avatar": null,
+            "contrib": "156"
+        },
+        {
+            "user_id": "9348",
+            "user_name": "StevenLight",
+            "avatar": null,
+            "contrib": "74"
+        },
+        {
+            "user_id": "9423",
+            "user_name": "darkvyder",
+            "avatar": null,
+            "contrib": "222"
+        },
+        {
+            "user_id": "7971",
+            "user_name": "RaphyStoll",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/7971/raphystoll-profile_image-f00a97b6f723f3f0-300x300.png",
+            "contrib": "330"
+        },
+        {
+            "user_id": "8164",
+            "user_name": "Darkneova",
+            "avatar": null,
+            "contrib": "70"
+        },
+        {
+            "user_id": "1199",
+            "user_name": "basubi",
+            "avatar": null,
+            "contrib": "180"
+        },
+        {
+            "user_id": "7791",
+            "user_name": "akhilam",
+            "avatar": null,
+            "contrib": "160"
+        },
+        {
+            "user_id": "9915",
+            "user_name": "hastien",
+            "avatar": null,
+            "contrib": "90"
+        },
+        {
+            "user_id": "9980",
+            "user_name": "AAAAA",
+            "avatar": null,
+            "contrib": "28"
+        },
+        {
+            "user_id": "5632",
+            "user_name": "adel aribi",
+            "avatar": null,
+            "contrib": "156"
+        },
+        {
+            "user_id": "10257",
+            "user_name": "Salenders",
+            "avatar": null,
+            "contrib": "100"
+        },
+        {
+            "user_id": "9722",
+            "user_name": "Yohann Tourdes",
+            "avatar": null,
+            "contrib": "76"
+        },
+        {
+            "user_id": "10192",
+            "user_name": "OcterA",
+            "avatar": null,
+            "contrib": "124"
+        },
+        {
+            "user_id": "10336",
+            "user_name": "Riyad C",
+            "avatar": null,
+            "contrib": "146"
+        },
+        {
+            "user_id": "10352",
+            "user_name": "Mathieu",
+            "avatar": null,
+            "contrib": "122"
+        },
+        {
+            "user_id": "10504",
+            "user_name": "Helli",
+            "avatar": null,
+            "contrib": "534"
+        },
+        {
+            "user_id": "10537",
+            "user_name": "Marimout",
+            "avatar": null,
+            "contrib": "209"
+        },
+        {
+            "user_id": "5870",
+            "user_name": "Emile Dupuis",
+            "avatar": null,
+            "contrib": "161"
+        },
+        {
+            "user_id": "10245",
+            "user_name": "AllCowLick",
+            "avatar": null,
+            "contrib": "88"
+        },
+        {
+            "user_id": "10656",
+            "user_name": "Charly Bachelin",
+            "avatar": null,
+            "contrib": "122"
+        },
+        {
+            "user_id": "10658",
+            "user_name": "Baldr Game",
+            "avatar": null,
+            "contrib": "416"
+        },
+        {
+            "user_id": "9555",
+            "user_name": "Deshayes Laura",
+            "avatar": null,
+            "contrib": "152"
+        },
+        {
+            "user_id": "11028",
+            "user_name": "viirus",
+            "avatar": null,
+            "contrib": "176"
+        },
+        {
+            "user_id": "8901",
+            "user_name": "Htabmas Ni",
+            "avatar": null,
+            "contrib": "146"
+        },
+        {
+            "user_id": "14999",
+            "user_name": "TheCrow59",
+            "avatar": null,
+            "contrib": "484"
+        },
+        {
+            "user_id": "11245",
+            "user_name": "MrTheKoko",
+            "avatar": null,
+            "contrib": "24"
+        },
+        {
+            "user_id": "10350",
+            "user_name": "Neciloth",
+            "avatar": null,
+            "contrib": "620"
+        },
+        {
+            "user_id": "11415",
+            "user_name": "ink",
+            "avatar": null,
+            "contrib": "88"
+        },
+        {
+            "user_id": "11549",
+            "user_name": "MarKamui",
+            "avatar": null,
+            "contrib": "714"
+        },
+        {
+            "user_id": "11707",
+            "user_name": "nicodu03100",
+            "avatar": null,
+            "contrib": "128"
+        },
+        {
+            "user_id": "11738",
+            "user_name": "Jey",
+            "avatar": null,
+            "contrib": "134"
+        },
+        {
+            "user_id": "11910",
+            "user_name": "Gentoku Kan-San",
+            "avatar": null,
+            "contrib": "98"
+        },
+        {
+            "user_id": "7756",
+            "user_name": "Vampire142",
+            "avatar": null,
+            "contrib": "352"
+        },
+        {
+            "user_id": "12364",
+            "user_name": "Vincent Yami",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/12364/Saitama.jpg",
+            "contrib": "249"
+        },
+        {
+            "user_id": "10067",
+            "user_name": "maxime massaer",
+            "avatar": null,
+            "contrib": "172"
+        },
+        {
+            "user_id": "12579",
+            "user_name": "Manon Astaud",
+            "avatar": null,
+            "contrib": "192"
+        },
+        {
+            "user_id": "12611",
+            "user_name": "Elfico",
+            "avatar": null,
+            "contrib": "154"
+        },
+        {
+            "user_id": "12689",
+            "user_name": "pietrement",
+            "avatar": null,
+            "contrib": "182"
+        },
+        {
+            "user_id": "12549",
+            "user_name": "Grégory Eicher",
+            "avatar": null,
+            "contrib": "632"
+        },
+        {
+            "user_id": "18753",
+            "user_name": "fredomega",
+            "avatar": null,
+            "contrib": "188"
+        },
+        {
+            "user_id": "13176",
+            "user_name": "Gael Aline",
+            "avatar": null,
+            "contrib": "10"
+        },
+        {
+            "user_id": "4852",
+            "user_name": "Maxime",
+            "avatar": null,
+            "contrib": "276"
+        },
+        {
+            "user_id": "13426",
+            "user_name": "mica",
+            "avatar": null,
+            "contrib": "140"
+        },
+        {
+            "user_id": "13301",
+            "user_name": "Thierry",
+            "avatar": null,
+            "contrib": "136"
+        },
+        {
+            "user_id": "13879",
+            "user_name": "Chninkel",
+            "avatar": null,
+            "contrib": "190"
+        },
+        {
+            "user_id": "13748",
+            "user_name": "Marc Soune-Seyne",
+            "avatar": null,
+            "contrib": "262"
+        },
+        {
+            "user_id": "12642",
+            "user_name": "Yann Sliwinski-Giles",
+            "avatar": null,
+            "contrib": "670"
+        },
+        {
+            "user_id": "14135",
+            "user_name": "Skyrowl",
+            "avatar": null,
+            "contrib": "315"
+        },
+        {
+            "user_id": "19351",
+            "user_name": "Ivan Pedro Periolo Jr.",
+            "avatar": null,
+            "contrib": "30"
+        },
+        {
+            "user_id": "14196",
+            "user_name": "RaitenTaisou",
+            "avatar": null,
+            "contrib": "88"
+        },
+        {
+            "user_id": "8050",
+            "user_name": "Célian Picot",
+            "avatar": null,
+            "contrib": "705"
+        },
+        {
+            "user_id": "14166",
+            "user_name": "Romain Masson",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/14166/1525_milwaukee_brewers-cap-2016.png",
+            "contrib": "544"
+        },
+        {
+            "user_id": "14439",
+            "user_name": "Aurez",
+            "avatar": null,
+            "contrib": "156"
+        },
+        {
+            "user_id": "14535",
+            "user_name": "Alexandre Mahé",
+            "avatar": null,
+            "contrib": "204"
+        },
+        {
+            "user_id": "11616",
+            "user_name": "Axel Lanta",
+            "avatar": null,
+            "contrib": "265"
+        },
+        {
+            "user_id": "14508",
+            "user_name": "Swyft Sora",
+            "avatar": null,
+            "contrib": "64"
+        },
+        {
+            "user_id": "13363",
+            "user_name": "TheR7angelo",
+            "avatar": null,
+            "contrib": "206"
+        },
+        {
+            "user_id": "3398",
+            "user_name": "Amber Lion",
+            "avatar": null,
+            "contrib": "284"
+        },
+        {
+            "user_id": "15690",
+            "user_name": "zelgnar",
+            "avatar": null,
+            "contrib": "82"
+        },
+        {
+            "user_id": "15849",
+            "user_name": "Eric Gajardo",
+            "avatar": null,
+            "contrib": "504"
+        },
+        {
+            "user_id": "16908",
+            "user_name": "Hugo Stenger",
+            "avatar": null,
+            "contrib": "390"
+        },
+        {
+            "user_id": "17107",
+            "user_name": "philippe Arnaud-Goddet",
+            "avatar": null,
+            "contrib": "388"
+        },
+        {
+            "user_id": "11569",
+            "user_name": "Loïc Domin",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/11569/aLMMpgg_460s.jpg",
+            "contrib": "535"
+        },
+        {
+            "user_id": "17609",
+            "user_name": "Uno",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/17609/summoners.png",
+            "contrib": "628"
+        },
+        {
+            "user_id": "15601",
+            "user_name": "Clément Radepont",
+            "avatar": null,
+            "contrib": "990"
+        },
+        {
+            "user_id": "18090",
+            "user_name": "Mathieu Rogy",
+            "avatar": null,
+            "contrib": "728"
+        },
+        {
+            "user_id": "18006",
+            "user_name": "Sigorn",
+            "avatar": null,
+            "contrib": "64"
+        },
+        {
+            "user_id": "15214",
+            "user_name": "Musashi Myamoto (Corbeau22)",
+            "avatar": null,
+            "contrib": "65"
+        },
+        {
+            "user_id": "19924",
+            "user_name": "vengeur62",
+            "avatar": null,
+            "contrib": "99"
+        },
+        {
+            "user_id": "20948",
+            "user_name": "Oscar Larquey",
+            "avatar": null,
+            "contrib": "155"
+        },
+        {
+            "user_id": "20932",
+            "user_name": "Vetenzo",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/20932/064B3E44-BAB0-47DE-B8E5-AC7A4DA177C1.JPG",
+            "contrib": "442"
+        },
+        {
+            "user_id": "22314",
+            "user_name": "Julien Legrand",
+            "avatar": null,
+            "contrib": "689"
+        },
+        {
+            "user_id": "22449",
+            "user_name": "Frousstiz Gaming",
+            "avatar": null,
+            "contrib": "387"
+        },
+        {
+            "user_id": "24088",
+            "user_name": "Hervé DUPE",
+            "avatar": null,
+            "contrib": "274"
+        },
+        {
+            "user_id": "24605",
+            "user_name": "hung nguyengia",
+            "avatar": "http://cdn.sw-db.com/sw/upload/user/24605/Zombie 3.png",
+            "contrib": "537"
+        },
+        {
+            "user_id": "24699",
+            "user_name": "Seebirt",
+            "avatar": null,
+            "contrib": "598"
+        },
+        {
+            "user_id": "22488",
+            "user_name": "Michael Cohen",
+            "avatar": null,
+            "contrib": "2"
+        },
+        {
+            "user_id": "25228",
+            "user_name": "Yvan",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "25820",
+            "user_name": "Séverine Delorme-Rosier",
+            "avatar": null,
+            "contrib": "0"
+        },
+        {
+            "user_id": "25605",
+            "user_name": "ucemaras",
+            "avatar": null,
+            "contrib": "0"
+        }
+    ],
+    "awakenings": [
+        {
+            "summon_id": 74,
+            "attribute_id": 6,
+            "size": "LOW",
+            "quantity": 15,
+            "attribute": {
+                "id": 6,
+                "tid": "MAGIC"
+            }
+        },
+        {
+            "summon_id": 74,
+            "attribute_id": 6,
+            "size": "MID",
+            "quantity": 10,
+            "attribute": {
+                "id": 6,
+                "tid": "MAGIC"
+            }
+        },
+        {
+            "summon_id": 74,
+            "attribute_id": 3,
+            "size": "LOW",
+            "quantity": 10,
+            "attribute": {
+                "id": 3,
+                "tid": "WATER"
+            }
+        },
+        {
+            "summon_id": 74,
+            "attribute_id": 3,
+            "size": "MID",
+            "quantity": 5,
+            "attribute": {
+                "id": 3,
+                "tid": "WATER"
+            }
+        }
+    ],
+    "awakening_bonus": {
+        "summon_id": 74,
+        "stat": "SKILL",
+        "value": 25850,
+        "skill": {
+            "id": null,
+            "summon_id": null,
+            "translate_id": null,
+            "type": null,
+            "icon_path": null,
+            "modifier": null,
+            "req_awaken": null,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null
+        }
+    },
+    "abilities": [
+        {
+            "id": 18,
+            "tid": "DEBUFF.DEF"
+        },
+        {
+            "id": 21,
+            "tid": "DEBUFF.PROVOKE"
+        }
+    ],
+    "skills": [
+        {
+            "id": 25849,
+            "translate_id": "ALLEN.TAUNTING_STRIKE",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-allen.taunting_strike.jpg",
+            "modifier": "190%+26%",
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "ALLEN.TAUNTING_STRIKE",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Taunting Strike"
+                }
+            ],
+            "name": "Taunting Strike",
+            "desc_translates": [
+                {
+                    "id": "ALLEN.TAUNTING_STRIKE",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Attacks an enemy with a humiliating strike, provoking the target with an 80% chance. This attack will deal more damage according to your MAX HP. (Reusable in 3 turns)"
+                }
+            ],
+            "desc": "Attacks an enemy with a humiliating strike, provoking the target with an 80% chance. This attack will deal more damage according to your MAX HP. (Reusable in 3 turns)",
+            "evolve_translates": [
+                {
+                    "id": "ALLEN.TAUNTING_STRIKE",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Harmful Effect Rate +10%<br />\r\nLv.3 Damage +10%<br />\r\nLv.4 Harmful Effect Rate +10%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Cooltime Turn -1"
+                }
+            ],
+            "evolve": "Lv.2 Harmful Effect Rate +10%<br />\r\nLv.3 Damage +10%<br />\r\nLv.4 Harmful Effect Rate +10%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Cooltime Turn -1"
+        },
+        {
+            "id": 25848,
+            "translate_id": "ALLEN.SLASH_ROCKS",
+            "type": "ACTIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-allen.slash_rocks.jpg",
+            "modifier": "100%+18%",
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "ALLEN.SLASH_ROCKS",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Slash Rocks"
+                }
+            ],
+            "name": "Slash Rocks",
+            "desc_translates": [
+                {
+                    "id": "ALLEN.SLASH_ROCKS",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "Swings a giant sword to deal damage and decrease the target's Defense for 2 turns with a 40% chance. This attack will deal more damage according to your MAX HP."
+                }
+            ],
+            "desc": "Swings a giant sword to deal damage and decrease the target's Defense for 2 turns with a 40% chance. This attack will deal more damage according to your MAX HP.",
+            "evolve_translates": [
+                {
+                    "id": "ALLEN.SLASH_ROCKS",
+                    "type": "SKILL_EVOLVE",
+                    "langcode": "EN",
+                    "translation": "Lv.2 Damage +10%<br />\r\nLv.3 Harmful Effect Rate +10%<br />\r\nLv.4 Harmful Effect Rate +10%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Harmful Effect Rate +10%<br />\r\nLv.7 Harmful Effect Rate +10%<br />\r\nLv.8 Damage +10%<br />\r\nLv.9 Harmful Effect Rate +20%"
+                }
+            ],
+            "evolve": "Lv.2 Damage +10%<br />\r\nLv.3 Harmful Effect Rate +10%<br />\r\nLv.4 Harmful Effect Rate +10%<br />\r\nLv.5 Damage +10%<br />\r\nLv.6 Harmful Effect Rate +10%<br />\r\nLv.7 Harmful Effect Rate +10%<br />\r\nLv.8 Damage +10%<br />\r\nLv.9 Harmful Effect Rate +20%"
+        },
+        {
+            "id": 27166,
+            "translate_id": "ALLEN.STRONG_WILL_(PASSIVE)",
+            "type": "PASSIVE",
+            "icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-allen.strong_will_(passive).jpg",
+            "modifier": null,
+            "req_awaken": 0,
+            "stage": null,
+            "stage_parent_id": null,
+            "parent_id": null,
+            "name_translates": [
+                {
+                    "id": "ALLEN.STRONG_WILL_(PASSIVE)",
+                    "type": "SKILL_NAME",
+                    "langcode": "EN",
+                    "translation": "Strong Will"
+                }
+            ],
+            "name": "Strong Will",
+            "desc_translates": [
+                {
+                    "id": "ALLEN.STRONG_WILL_(PASSIVE)",
+                    "type": "SKILL_DESC",
+                    "langcode": "EN",
+                    "translation": "When your HP is lower than 30%, the damage you receive is reduced by 50%. [Automatic Effect]"
+                }
+            ],
+            "desc": "When your HP is lower than 30%, the damage you receive is reduced by 50%. [Automatic Effect]"
+        }
+    ],
+    "stats": [
+        {
+            "summon_id": 74,
+            "grade": 2,
+            "level": 1,
+            "awakened": 0,
+            "atk": 64,
+            "hp": 1200,
+            "def": 72,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 2,
+            "level": 1,
+            "awakened": 1,
+            "atk": 67,
+            "hp": 1455,
+            "def": 75,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 2,
+            "level": 20,
+            "awakened": 0,
+            "atk": 121,
+            "hp": 2280,
+            "def": 136,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 2,
+            "level": 20,
+            "awakened": 1,
+            "atk": 127,
+            "hp": 2775,
+            "def": 142,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 3,
+            "level": 1,
+            "awakened": 0,
+            "atk": 97,
+            "hp": 1815,
+            "def": 109,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 3,
+            "level": 1,
+            "awakened": 1,
+            "atk": 102,
+            "hp": 2220,
+            "def": 114,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 3,
+            "level": 25,
+            "awakened": 0,
+            "atk": 175,
+            "hp": 3270,
+            "def": 196,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 3,
+            "level": 25,
+            "awakened": 1,
+            "atk": 183,
+            "hp": 3990,
+            "def": 205,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 4,
+            "level": 1,
+            "awakened": 0,
+            "atk": 140,
+            "hp": 2625,
+            "def": 157,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 4,
+            "level": 1,
+            "awakened": 1,
+            "atk": 147,
+            "hp": 3195,
+            "def": 164,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 4,
+            "level": 30,
+            "awakened": 0,
+            "atk": 238,
+            "hp": 4455,
+            "def": 267,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 4,
+            "level": 30,
+            "awakened": 1,
+            "atk": 250,
+            "hp": 5430,
+            "def": 279,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 5,
+            "level": 1,
+            "awakened": 0,
+            "atk": 190,
+            "hp": 3570,
+            "def": 214,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 5,
+            "level": 1,
+            "awakened": 1,
+            "atk": 200,
+            "hp": 4350,
+            "def": 223,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 5,
+            "level": 35,
+            "awakened": 0,
+            "atk": 323,
+            "hp": 6060,
+            "def": 363,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 5,
+            "level": 35,
+            "awakened": 1,
+            "atk": 339,
+            "hp": 7380,
+            "def": 379,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 6,
+            "level": 1,
+            "awakened": 0,
+            "atk": 258,
+            "hp": 4845,
+            "def": 291,
+            "spd": 97,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 6,
+            "level": 1,
+            "awakened": 1,
+            "atk": 271,
+            "hp": 5910,
+            "def": 304,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 6,
+            "level": 40,
+            "awakened": 0,
+            "atk": 439,
+            "hp": 8235,
+            "def": 494,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        },
+        {
+            "summon_id": 74,
+            "grade": 6,
+            "level": 40,
+            "awakened": 1,
+            "atk": 461,
+            "hp": 10050,
+            "def": 516,
+            "spd": 98,
+            "crit_rate": 15,
+            "crit_dmg": 50,
+            "res": 15,
+            "acc": 0
+        }
+    ],
+    "statsfix": {
+        "0": {
+            "spd": "97",
+            "crit_rate": "15",
+            "crit_dmg": "50",
+            "res": "15",
+            "acc": "0"
+        },
+        "1": {
+            "spd": "98",
+            "crit_rate": "15",
+            "crit_dmg": "50",
+            "res": "15",
+            "acc": "0"
+        }
+    },
+    "same_as": [
+        {
+            "id": 103,
+            "name": "Roid",
+            "name_translation": {
+                "EN": "Roid"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-roid.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-roid.png",
+            "grade": 2,
+            "last_update_ts": "1592177452",
+            "type_id": 53,
+            "type": {
+                "tid": "VAGABOND"
+            },
+            "attribute_id": 1,
+            "attribute": {
+                "tid": "WIND"
+            },
+            "class_id": 4,
+            "class": {
+                "tid": "HP"
+            },
+            "reviews_summary": {
+                "food": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "keep": {
+                    "count": 1,
+                    "percent": 100
+                },
+                "five_stars": {
+                    "count": 1,
+                    "percent": 100
+                },
+                "six_stars": {
+                    "count": 0,
+                    "percent": 0
+                }
+            }
+        },
+        {
+            "id": 142,
+            "name": "Darion",
+            "name_translation": {
+                "EN": "Darion"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-darion.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-darion.png",
+            "grade": 3,
+            "last_update_ts": "1592177481",
+            "type_id": 53,
+            "type": {
+                "tid": "VAGABOND"
+            },
+            "attribute_id": 4,
+            "attribute": {
+                "tid": "LIGHT"
+            },
+            "class_id": 3,
+            "class": {
+                "tid": "DEFENSE"
+            },
+            "reviews_summary": {
+                "food": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "keep": {
+                    "count": 1,
+                    "percent": 100
+                },
+                "five_stars": {
+                    "count": 1,
+                    "percent": 100
+                },
+                "six_stars": {
+                    "count": 1,
+                    "percent": 100
+                }
+            }
+        },
+        {
+            "id": 168,
+            "name": "Jubelle",
+            "name_translation": {
+                "EN": "Jubelle"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-jubelle.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-jubelle.png",
+            "grade": 3,
+            "last_update_ts": "1589758266",
+            "type_id": 53,
+            "type": {
+                "tid": "VAGABOND"
+            },
+            "attribute_id": 5,
+            "attribute": {
+                "tid": "DARK"
+            },
+            "class_id": 3,
+            "class": {
+                "tid": "DEFENSE"
+            },
+            "reviews_summary": null
+        },
+        {
+            "id": 207,
+            "name": "Kai'en",
+            "name_translation": {
+                "EN": "Kai'en"
+            },
+            "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-kai'en.png",
+            "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-kai'en.png",
+            "grade": 3,
+            "last_update_ts": "1590363049",
+            "type_id": 53,
+            "type": {
+                "tid": "VAGABOND"
+            },
+            "attribute_id": 2,
+            "attribute": {
+                "tid": "FIRE"
+            },
+            "class_id": 3,
+            "class": {
+                "tid": "DEFENSE"
+            },
+            "reviews_summary": null
+        }
+    ],
+    "runes": [
+        {
+            "build": {
+                "id": 1,
+                "name": "Basic",
+                "comment": null,
+                "usages": 1,
+                "user_id": null,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2015-09-28 11:38:53",
+                "create_date_ts": 1443433133,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 1,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 2,
+                    "stat": "HP_PERCENT",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 4,
+                    "stat": "HP_PERCENT",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": [
+                    "ENERGY"
+                ],
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "ENERGY"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 2,
+                "name": "Late Game",
+                "comment": null,
+                "usages": 0,
+                "user_id": null,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2015-09-28 11:38:53",
+                "create_date_ts": 1443433133,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 2,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 2,
+                    "stat": "HP_PERCENT",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 4,
+                    "stat": "CRIT_DMG",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 3,
+                    "set": {
+                        "id": 3,
+                        "tid": "BLADE",
+                        "nb_req": 2,
+                        "location_id": 3,
+                        "location": {
+                            "id": 3,
+                            "tid": "KABIR_RUINS"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 3,
+                    "set": {
+                        "id": 3,
+                        "tid": "BLADE",
+                        "nb_req": 2,
+                        "location_id": 3,
+                        "location": {
+                            "id": 3,
+                            "tid": "KABIR_RUINS"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "RAGE",
+                    "4": "BLADE"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "CRIT_DMG",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "BLADE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "BLADE"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 6,
+                "name": "Speed/tank",
+                "comment": "Because he is the fastest men alive",
+                "usages": 0,
+                "user_id": 744,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2016-06-06 21:45:28",
+                "create_date_ts": 1465242328,
+                "author": {
+                    "id": 744,
+                    "name": "Arkan Crow",
+                    "title": null,
+                    "know_more": null,
+                    "avatar": "",
+                    "contrib": 27,
+                    "langcode": "FR",
+                    "permissions": {
+                        "logged": true
+                    }
+                },
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 6,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "idx": 2,
+                    "stat": "SPD",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "idx": 4,
+                    "stat": "HP_PERCENT",
+                    "set_id": 5,
+                    "set": {
+                        "id": 5,
+                        "tid": "SWIFT",
+                        "nb_req": 4,
+                        "location_id": 4,
+                        "location": {
+                            "id": 4,
+                            "tid": "MT_WHITE_RAGON"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 2,
+                    "set": {
+                        "id": 2,
+                        "tid": "ENERGY",
+                        "nb_req": 2,
+                        "location_id": 1,
+                        "location": {
+                            "id": 1,
+                            "tid": "GAREN_FOREST"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "SWIFT",
+                    "4": "ENERGY"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "SPD",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "SWIFT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "ENERGY"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "ENERGY"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 5,
+                "name": "Late Game alternatif",
+                "comment": null,
+                "usages": 0,
+                "user_id": null,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2015-09-28 11:38:53",
+                "create_date_ts": 1443433133,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 5,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "idx": 2,
+                    "stat": "HP_PERCENT",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "idx": 4,
+                    "stat": "CRIT_DMG",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": [
+                    "REVENGE"
+                ],
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "CRIT_DMG",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "REVENGE"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 3,
+                "name": "Late Game alternatif",
+                "comment": null,
+                "usages": 0,
+                "user_id": null,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2015-09-28 11:38:53",
+                "create_date_ts": 1443433133,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 3,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 2,
+                    "stat": "HP_PERCENT",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 4,
+                    "stat": "CRIT_DMG",
+                    "set_id": 9,
+                    "set": {
+                        "id": 9,
+                        "tid": "VIOLENT",
+                        "nb_req": 4,
+                        "location_id": 52,
+                        "location": {
+                            "id": 52,
+                            "tid": "DRAGONS_LAIR"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "VIOLENT",
+                    "4": "REVENGE"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "CRIT_DMG",
+                        "set_tid": "VIOLENT"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "REVENGE"
+                    }
+                ]
+            }
+        },
+        {
+            "build": {
+                "id": 4,
+                "name": "Late Game",
+                "comment": null,
+                "usages": 0,
+                "user_id": null,
+                "validated": 1,
+                "like": 0,
+                "like_by": null,
+                "dislike": 0,
+                "dislike_by": null,
+                "create_date": "2015-09-28 11:38:53",
+                "create_date_ts": 1443433133,
+                "recommanded": false
+            },
+            "runes": [
+                {
+                    "id": 4,
+                    "idx": 1,
+                    "stat": "ATK",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 2,
+                    "stat": "HP_PERCENT",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 3,
+                    "stat": "DEF",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 4,
+                    "stat": "CRIT_DMG",
+                    "set_id": 4,
+                    "set": {
+                        "id": 4,
+                        "tid": "RAGE",
+                        "nb_req": 4,
+                        "location_id": 65,
+                        "location": {
+                            "id": 65,
+                            "tid": "NECROPOLIS"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 5,
+                    "stat": "HP",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "idx": 6,
+                    "stat": "HP_PERCENT",
+                    "set_id": 15,
+                    "set": {
+                        "id": 15,
+                        "tid": "REVENGE",
+                        "nb_req": 2,
+                        "location_id": 9,
+                        "location": {
+                            "id": 9,
+                            "tid": "FAIMON_VOLCANO"
+                        }
+                    }
+                }
+            ],
+            "recap": {
+                "sets": {
+                    "0": "RAGE",
+                    "4": "REVENGE"
+                },
+                "slots": [
+                    {
+                        "stat": "ATK",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "DEF",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "CRIT_DMG",
+                        "set_tid": "RAGE"
+                    },
+                    {
+                        "stat": "HP",
+                        "set_tid": "REVENGE"
+                    },
+                    {
+                        "stat": "HP_PERCENT",
+                        "set_tid": "REVENGE"
+                    }
+                ]
+            }
+        }
+    ],
+    "substats": [
+        "HP_PERCENT",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "ACC_PERCENT",
+        "DEF_PERCENT"
+    ],
+    "all_comments": [],
+    "location": [
+        {
+            "summon_id": 74,
+            "location_id": 53,
+            "tid": "SECRET_DUNGEON"
+        },
+        {
+            "summon_id": 74,
+            "location_id": 101,
+            "tid": "UNKNOWN_SCROLL"
+        },
+        {
+            "summon_id": 74,
+            "location_id": 109,
+            "tid": "SOCIAL_POINT"
+        },
+        {
+            "summon_id": 74,
+            "location_id": 110,
+            "tid": "MAGIC_SHOP"
+        }
+    ],
+    "radar": {
+        "summon": {
+            "atk": 0.68,
+            "hp": 1.01,
+            "def": 0.88,
+            "spd": 0.95,
+            "acc": 0,
+            "res": 0.88,
+            "crit_rate": 0.88,
+            "crit_dmg": 1,
+            "total": 3.52
+        },
+        "max": {
+            "atk": 1.62,
+            "hp": 1.55,
+            "def": 1.5,
+            "spd": 1.22,
+            "acc": 8.33,
+            "res": 2.35,
+            "crit_rate": 1.76,
+            "crit_dmg": 1
+        }
+    },
+    "rank_stats": {
+        "atk": "1718",
+        "hp": "351",
+        "def": "846",
+        "spd": "5180",
+        "crit_rate": "1537",
+        "crit_dmg": "1188",
+        "res": "1456",
+        "acc": "1476"
+    },
+    "teams": [
+        {
+            "id": 97,
+            "user_id": 340,
+            "name": "Donjon secret",
+            "comment": "Voila, j'aime bien cette équipe lors des donjon secret, mais je pense qu'allen fait un peu tâche, le problème c'est que je ne sait pas par qui le remplacer, auriez vous un conseil ?",
+            "type": "DUNGEON",
+            "subtype": null,
+            "members": [
+                {
+                    "id": 209,
+                    "name": "Sath",
+                    "name_translation": {
+                        "EN": "Sath"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-sath.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-sath.png",
+                    "grade": 3,
+                    "last_update_ts": "1590363056",
+                    "type_id": 18,
+                    "type": {
+                        "tid": "GRIM_REAPER"
+                    },
+                    "attribute_id": 2,
+                    "attribute": {
+                        "tid": "FIRE"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 4,
+                        "arena_defense": 2,
+                        "guildwar_offense": 4,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 7,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 2,
+                            "arena": 3,
+                            "gvg": 3,
+                            "users": 7
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_offense",
+                        "value": 4,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 2,
+                            "dragons": 2,
+                            "necropolis": 2,
+                            "toa": 3,
+                            "toa_hm": 2,
+                            "arena_offense": 4,
+                            "arena_defense": 2,
+                            "guildwar_offense": 4,
+                            "guildwar_defense": 2,
+                            "overall_rating": 7,
+                            "categories": {
+                                "dungeon": 2,
+                                "toa": 3,
+                                "arena": 3,
+                                "gvg": 4
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 58,
+                    "name": "Raoq",
+                    "name_translation": {
+                        "EN": "Raoq"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-raoq.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-raoq.png",
+                    "grade": 3,
+                    "last_update_ts": "1592177408",
+                    "type_id": 26,
+                    "type": {
+                        "tid": "INUGAMI"
+                    },
+                    "attribute_id": 2,
+                    "attribute": {
+                        "tid": "FIRE"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 8,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 6,
+                        "arena_defense": 4,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 4,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 4,
+                            "toa": 2,
+                            "arena": 5,
+                            "gvg": 6,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "necropolis",
+                        "value": 8,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 7,
+                            "dragons": 6,
+                            "necropolis": 7,
+                            "toa": 6,
+                            "toa_hm": 5,
+                            "arena_offense": 8,
+                            "arena_defense": 5,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 6,
+                            "overall_rating": 8,
+                            "raid": 6,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 6,
+                                "arena": 7,
+                                "gvg": 8
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 349,
+                    "name": "Taurus",
+                    "name_translation": {
+                        "EN": "Taurus"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-taurus.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-taurus.png",
+                    "grade": 4,
+                    "last_update_ts": "1587632334",
+                    "type_id": 65,
+                    "type": {
+                        "tid": "KOBOLD_BOMBER"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 6,
+                        "dragons": 2,
+                        "necropolis": 4,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 8,
+                        "arena_defense": 2,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 4,
+                            "toa": 2,
+                            "arena": 5,
+                            "gvg": 5,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "arena_offense",
+                        "value": 8,
+                        "cat": "arena"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 8,
+                            "dragons": 7,
+                            "necropolis": 8,
+                            "toa": 6,
+                            "toa_hm": 5,
+                            "arena_offense": 9,
+                            "arena_defense": 4,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 4,
+                            "overall_rating": 8,
+                            "raid": 5,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 6,
+                                "arena": 7,
+                                "gvg": 9
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 257,
+                    "name": "Bernard",
+                    "name_translation": {
+                        "EN": "Bernard"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-bernard.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-bernard.png",
+                    "grade": 3,
+                    "last_update_ts": "1592175910",
+                    "type_id": 17,
+                    "type": {
+                        "tid": "GRIFFON"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 8,
+                        "necropolis": 6,
+                        "toa": null,
+                        "toa_hm": 10,
+                        "arena_offense": 10,
+                        "arena_defense": 10,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 6,
+                        "raid": null,
+                        "maze": null,
+                        "users": 9,
+                        "overall": {
+                            "dungeon": 8,
+                            "toa": 10,
+                            "arena": 10,
+                            "gvg": 7,
+                            "users": 9
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 10,
+                            "dragons": 7,
+                            "necropolis": 5,
+                            "toa": 9,
+                            "toa_hm": 8,
+                            "arena_offense": 9,
+                            "arena_defense": 8,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 8,
+                            "overall_rating": 9,
+                            "raid": 7,
+                            "maze": 0,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 9,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 74,
+                    "name": "Allen",
+                    "name_translation": {
+                        "EN": "Allen"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-allen.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-allen.png",
+                    "grade": 2,
+                    "last_update_ts": "1592177460",
+                    "type_id": 53,
+                    "type": {
+                        "tid": "VAGABOND"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 2,
+                        "arena_defense": 2,
+                        "guildwar_offense": 2,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 5,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 2,
+                            "arena": 2,
+                            "gvg": 2,
+                            "users": 5
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 2,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 3,
+                            "dragons": 3,
+                            "necropolis": 3,
+                            "toa": 3,
+                            "toa_hm": 2,
+                            "arena_offense": 4,
+                            "arena_defense": 3,
+                            "guildwar_offense": 3,
+                            "guildwar_defense": 3,
+                            "overall_rating": 5,
+                            "raid": 3,
+                            "categories": {
+                                "dungeon": 3,
+                                "toa": 3,
+                                "arena": 4,
+                                "gvg": 3
+                            }
+                        }
+                    }
+                }
+            ],
+            "leader_id": null,
+            "last_update": "2015-07-30 12:13:23",
+            "last_update_ts": "1438251203000",
+            "members_ids": "209,58,349,257,74",
+            "author": {
+                "id": 340,
+                "name": "Antoine Marcos",
+                "title": null,
+                "know_more": null,
+                "avatar": "https://cdn.shinsoft.fr/sw/upload/user/340/gamer-2.jpg",
+                "contrib": 88,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 271,
+                "last_view": "2020-05-02 20:14:07",
+                "last_view_ts": "1588443247"
+            },
+            "likes": {
+                "count": 1,
+                "by_me": false,
+                "by": "Pierre Duchesne"
+            },
+            "nb_comments": 0
+        },
+        {
+            "id": 2557,
+            "user_id": 6642,
+            "name": "test",
+            "comment": "je cherche à amélioré mon équipe, je ne sais pas trop comment m’orienter pour enfin clean le géant 7 <br>",
+            "type": "DUNGEON",
+            "subtype": "GIANT",
+            "members": [
+                {
+                    "id": 268,
+                    "name": "Delphoi",
+                    "name_translation": {
+                        "EN": "Delphoi"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-delphoi.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-delphoi.png",
+                    "grade": 4,
+                    "last_update_ts": "1590363061",
+                    "type_id": 52,
+                    "type": {
+                        "tid": "UNDINE"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 8,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 4,
+                        "arena_offense": 6,
+                        "arena_defense": 6,
+                        "guildwar_offense": 8,
+                        "guildwar_defense": 4,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 4,
+                            "toa": 4,
+                            "arena": 6,
+                            "gvg": 6,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 8,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 6,
+                            "necropolis": 4,
+                            "toa": 6,
+                            "toa_hm": 6,
+                            "arena_offense": 7,
+                            "arena_defense": 8,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 8,
+                            "overall_rating": 8,
+                            "raid": 8,
+                            "maze": 8,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 6,
+                                "arena": 8,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": true
+                },
+                {
+                    "id": 101,
+                    "name": "Shannon",
+                    "name_translation": {
+                        "EN": "Shannon"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-shannon.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-shannon.png",
+                    "grade": 2,
+                    "last_update_ts": "1592177444",
+                    "type_id": 43,
+                    "type": {
+                        "tid": "PIXIE"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 10,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 2,
+                        "arena_defense": 2,
+                        "guildwar_offense": 2,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 5,
+                            "toa": 2,
+                            "arena": 2,
+                            "gvg": 2,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 10,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 5,
+                            "necropolis": 4,
+                            "toa": 6,
+                            "toa_hm": 5,
+                            "arena_offense": 5,
+                            "arena_defense": 4,
+                            "guildwar_offense": 5,
+                            "guildwar_defense": 4,
+                            "overall_rating": 8,
+                            "raid": 5,
+                            "categories": {
+                                "dungeon": 6,
+                                "toa": 6,
+                                "arena": 5,
+                                "gvg": 5
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 74,
+                    "name": "Allen",
+                    "name_translation": {
+                        "EN": "Allen"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-allen.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-allen.png",
+                    "grade": 2,
+                    "last_update_ts": "1592177460",
+                    "type_id": 53,
+                    "type": {
+                        "tid": "VAGABOND"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 4,
+                    "class": {
+                        "tid": "HP"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 2,
+                        "arena_defense": 2,
+                        "guildwar_offense": 2,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 5,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 2,
+                            "arena": 2,
+                            "gvg": 2,
+                            "users": 5
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 2,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 3,
+                            "dragons": 3,
+                            "necropolis": 3,
+                            "toa": 3,
+                            "toa_hm": 2,
+                            "arena_offense": 4,
+                            "arena_defense": 3,
+                            "guildwar_offense": 3,
+                            "guildwar_defense": 3,
+                            "overall_rating": 5,
+                            "raid": 3,
+                            "categories": {
+                                "dungeon": 3,
+                                "toa": 3,
+                                "arena": 4,
+                                "gvg": 3
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 466,
+                    "name": "Logan",
+                    "name_translation": {
+                        "EN": "Logan"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-logan.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-logan.png",
+                    "grade": 4,
+                    "last_update_ts": "1587632555",
+                    "type_id": 82,
+                    "type": {
+                        "tid": "NEOSTONE_FIGHTER"
+                    },
+                    "attribute_id": 1,
+                    "attribute": {
+                        "tid": "WIND"
+                    },
+                    "class_id": 1,
+                    "class": {
+                        "tid": "ATTACK"
+                    },
+                    "rating": {
+                        "giants": 6,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 2,
+                        "arena_offense": 2,
+                        "arena_defense": 2,
+                        "guildwar_offense": 6,
+                        "guildwar_defense": 2,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 3,
+                            "toa": 2,
+                            "arena": 2,
+                            "gvg": 4,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "giants",
+                        "value": 6,
+                        "cat": "dungeon"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 9,
+                            "dragons": 8,
+                            "necropolis": 7,
+                            "toa": 8,
+                            "toa_hm": 7,
+                            "arena_offense": 9,
+                            "arena_defense": 8,
+                            "guildwar_offense": 9,
+                            "guildwar_defense": 8,
+                            "overall_rating": 8,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 8,
+                                "toa": 8,
+                                "arena": 9,
+                                "gvg": 9
+                            }
+                        }
+                    },
+                    "is_leader": false
+                },
+                {
+                    "id": 384,
+                    "name": "Mihyang",
+                    "name_translation": {
+                        "EN": "Mihyang"
+                    },
+                    "icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-mihyang.png",
+                    "icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-mihyang.png",
+                    "grade": 4,
+                    "last_update_ts": "1588547115",
+                    "type_id": 68,
+                    "type": {
+                        "tid": "SKY_DANCER"
+                    },
+                    "attribute_id": 3,
+                    "attribute": {
+                        "tid": "WATER"
+                    },
+                    "class_id": 2,
+                    "class": {
+                        "tid": "SUPPORT"
+                    },
+                    "rating": {
+                        "giants": 2,
+                        "dragons": 2,
+                        "necropolis": 2,
+                        "toa": null,
+                        "toa_hm": 6,
+                        "arena_offense": 2,
+                        "arena_defense": 4,
+                        "guildwar_offense": 4,
+                        "guildwar_defense": 4,
+                        "raid": null,
+                        "maze": null,
+                        "users": 8,
+                        "overall": {
+                            "dungeon": 2,
+                            "toa": 6,
+                            "arena": 3,
+                            "gvg": 4,
+                            "users": 8
+                        }
+                    },
+                    "higher_rating": {
+                        "key": "toa_hm",
+                        "value": 6,
+                        "cat": "toa"
+                    },
+                    "users_rating": {
+                        "overall": {
+                            "giants": 7,
+                            "dragons": 8,
+                            "necropolis": 4,
+                            "toa": 8,
+                            "toa_hm": 6,
+                            "arena_offense": 8,
+                            "arena_defense": 8,
+                            "guildwar_offense": 8,
+                            "guildwar_defense": 8,
+                            "overall_rating": 8,
+                            "raid": 9,
+                            "categories": {
+                                "dungeon": 7,
+                                "toa": 7,
+                                "arena": 8,
+                                "gvg": 8
+                            }
+                        }
+                    },
+                    "is_leader": false
+                }
+            ],
+            "leader_id": 268,
+            "last_update": "2016-08-31 18:45:57",
+            "last_update_ts": "1472661957000",
+            "members_ids": "268,101,74,466,384",
+            "author": {
+                "id": 6642,
+                "name": "Martial Loth",
+                "title": null,
+                "know_more": null,
+                "avatar": "",
+                "contrib": 5,
+                "langcode": "FR",
+                "permissions": {
+                    "logged": true
+                }
+            },
+            "views": {
+                "count": 37,
+                "last_view": "2019-05-26 18:23:47",
+                "last_view_ts": "1558887827"
+            },
+            "likes": {
+                "count": 0,
+                "by_me": false
+            },
+            "nb_comments": 0
+        }
+    ],
+    "views": {
+        "count": 9275,
+        "last_view": "2020-06-15 23:33:11",
+        "last_view_ts": "1592256791"
+    },
+    "key": "SWDB-FullInfo-74-EN-r0,f0,a0,a0,s0,l0,s0,f0,r0,f0,c0,l0,r0,t0,v0,r0,f1,m0,n0-Protocol(HTTPS)-@@SUMMON@@",
+    "favorite": false
+}

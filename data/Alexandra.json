@@ -1,0 +1,1043 @@
+{
+	"id": 541,
+	"type_id": 98,
+	"attribute_id": 5,
+	"name": "Alexandra",
+	"class_id": 4,
+	"grade": 5,
+	"devilmon_req": 22,
+	"advanced": 0,
+	"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-alexandra.png",
+	"screenshot_path": null,
+	"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-alexandra.png",
+	"screenshot_path_awakened": null,
+	"last_update": "2020-04-23 11:05:18",
+	"last_updater": 1,
+	"last_update_ts": "1587632718",
+	"count": {
+		"reviews": 2,
+		"favorites": 7,
+		"awakenings": 4,
+		"abilities": 0,
+		"skills": 8,
+		"stats": 8,
+		"same_as": 4,
+		"fusion": 0,
+		"material_fusion": 0,
+		"language_comments": {
+			"FR": 0,
+			"EN": 1,
+			"OTHER": 0
+		},
+		"comments": 1,
+		"location": 5,
+		"teams": 0
+	},
+	"attribute": {
+		"id": 5,
+		"tid": "DARK"
+	},
+	"type": {
+		"id": 98,
+		"tid": "UNICORN"
+	},
+	"class": {
+		"id": 4,
+		"tid": "HP"
+	},
+	"name_translation": {
+		"EN": "Alexandra"
+	},
+	"reviews_summary": {
+		"food": {
+			"count": 1,
+			"percent": 50
+		},
+		"keep": {
+			"count": 1,
+			"percent": 50
+		},
+		"five_stars": {
+			"count": 0,
+			"percent": 0
+		},
+		"six_stars": {
+			"count": 1,
+			"percent": 50
+		}
+	},
+	"medias": [
+		{
+			"type": "YOUTUBE",
+			"url": "https://www.youtube.com/embed/BnpkVwy55o0?feature=oembed"
+		}
+	],
+	"rating": {
+		"users": 7,
+		"overall": null
+	},
+	"higher_rating": {
+		"key": "users",
+		"value": 7,
+		"cat": "users"
+	},
+	"users_rating": {
+		"list": [
+			{
+				"user_id": "8610",
+				"summon_id": "541",
+				"overall_rating": "9",
+				"giants": "7",
+				"dragons": "7",
+				"necropolis": "8",
+				"toa": "7",
+				"toa_hm": "7",
+				"arena_offense": "9",
+				"arena_defense": "9",
+				"guildwar_offense": "8",
+				"guildwar_defense": "9",
+				"raid": "9",
+				"maze": null,
+				"user_name": ">IMax<",
+				"name": ">IMax<",
+				"avatar": "",
+				"contrib": "135"
+			},
+			{
+				"user_id": "14480",
+				"summon_id": "541",
+				"overall_rating": "3",
+				"giants": "3",
+				"dragons": "1",
+				"necropolis": "1",
+				"toa": "5",
+				"toa_hm": "5",
+				"arena_offense": "5",
+				"arena_defense": "4",
+				"guildwar_offense": "5",
+				"guildwar_defense": "4",
+				"raid": "3",
+				"maze": null,
+				"user_name": "Karim",
+				"name": "Karim",
+				"avatar": "",
+				"contrib": "7"
+			},
+			{
+				"user_id": "14836",
+				"summon_id": "541",
+				"overall_rating": "10",
+				"giants": "10",
+				"dragons": "10",
+				"necropolis": "10",
+				"toa": "10",
+				"toa_hm": "10",
+				"arena_offense": "10",
+				"arena_defense": "10",
+				"guildwar_offense": "10",
+				"guildwar_defense": "10",
+				"raid": "10",
+				"maze": null,
+				"user_name": "Walyax 1O1",
+				"name": "Walyax 1O1",
+				"avatar": "",
+				"contrib": "5"
+			}
+		],
+		"overall": {
+			"giants": 7,
+			"dragons": 6,
+			"necropolis": 6,
+			"toa": 7,
+			"toa_hm": 7,
+			"arena_offense": 8,
+			"arena_defense": 8,
+			"guildwar_offense": 8,
+			"guildwar_defense": 8,
+			"overall_rating": 7,
+			"raid": 7,
+			"categories": {
+				"dungeon": 7,
+				"toa": 7,
+				"arena": 8,
+				"gvg": 8
+			}
+		}
+	},
+	"users_favorite": [
+		{
+			"user_id": "13374",
+			"user_name": "Gnouffff",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/13374/Okami-Fanart-okami-amaterasu-9925649-900-600.jpg",
+			"contrib": "493"
+		},
+		{
+			"user_id": "13389",
+			"user_name": "Linsey Courteille",
+			"avatar": "http://cdn.sw-db.com/sw/upload/user/13389/index.jpg",
+			"contrib": "46"
+		},
+		{
+			"user_id": "14480",
+			"user_name": "Karim",
+			"avatar": null,
+			"contrib": "7"
+		},
+		{
+			"user_id": "10159",
+			"user_name": "Ityou",
+			"avatar": null,
+			"contrib": "447"
+		},
+		{
+			"user_id": "7779",
+			"user_name": "*diXit*",
+			"avatar": null,
+			"contrib": "913"
+		},
+		{
+			"user_id": "22490",
+			"user_name": "Clément GIBOULOT",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/22490//avatar.jpg",
+			"contrib": "0"
+		},
+		{
+			"user_id": "23125",
+			"user_name": "flavio malacrino",
+			"avatar": "https://cdn.sw-db.com/sw/upload/user/23125//avatar.jpg",
+			"contrib": "0"
+		}
+	],
+	"awakenings": [
+		{
+			"summon_id": 541,
+			"attribute_id": 5,
+			"size": "HIGH",
+			"quantity": 20,
+			"attribute": {
+				"id": 5,
+				"tid": "DARK"
+			}
+		},
+		{
+			"summon_id": 541,
+			"attribute_id": 5,
+			"size": "MID",
+			"quantity": 10,
+			"attribute": {
+				"id": 5,
+				"tid": "DARK"
+			}
+		},
+		{
+			"summon_id": 541,
+			"attribute_id": 6,
+			"size": "HIGH",
+			"quantity": 15,
+			"attribute": {
+				"id": 6,
+				"tid": "MAGIC"
+			}
+		},
+		{
+			"summon_id": 541,
+			"attribute_id": 6,
+			"size": "MID",
+			"quantity": 5,
+			"attribute": {
+				"id": 6,
+				"tid": "MAGIC"
+			}
+		}
+	],
+	"skills": [
+		{
+			"id": 27616,
+			"translate_id": "ALEXANDRA.DARK_HORN_(HUMAN_FORM)",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.dark_horn_(human_form).jpg",
+			"modifier": "400%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.DARK_HORN_(HUMAN_FORM)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Dark Horn (Human Form)"
+				}
+			],
+			"name": "Dark Horn (Human Form)",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.DARK_HORN_(HUMAN_FORM)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks and Stuns the enemy for 1 turn with a 25% chance."
+				}
+			],
+			"desc": "Attacks and Stuns the enemy for 1 turn with a 25% chance.",
+			"evolve_translates": [
+				{
+					"id": "ALEXANDRA.DARK_HORN_(HUMAN_FORM)",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+				}
+			],
+			"evolve": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+		},
+		{
+			"id": 27617,
+			"translate_id": "ALEXANDRA.MOONLIGHT_FLASH",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.moonlight_flash.jpg",
+			"modifier": "420%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.MOONLIGHT_FLASH",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Moonlight Flash"
+				}
+			],
+			"name": "Moonlight Flash",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.MOONLIGHT_FLASH",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks all enemies to increase the target's chances of landing a Glancing Hit and decreases the Attack Power for 2 turns. (Reusable in 5 turns)"
+				}
+			],
+			"desc": "Attacks all enemies to increase the target's chances of landing a Glancing Hit and decreases the Attack Power for 2 turns. (Reusable in 5 turns)",
+			"evolve_translates": [
+				{
+					"id": "ALEXANDRA.MOONLIGHT_FLASH",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Shield +5%<br/>Lv.3 Shield +5%<br/>Lv.4 Shield +10%<br/>Lv.5 Cooltime Turn -1<br/>Lv.6 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Shield +5%<br/>Lv.3 Shield +5%<br/>Lv.4 Shield +10%<br/>Lv.5 Cooltime Turn -1<br/>Lv.6 Cooltime Turn -1"
+		},
+		{
+			"id": 27619,
+			"translate_id": "ALEXANDRA.TRANSFORMATION_MYSTICAL_CREATURE",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.transformation_mystical_creature.jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.TRANSFORMATION_MYSTICAL_CREATURE",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Transformation: Mystical Creature"
+				}
+			],
+			"name": "Transformation: Mystical Creature",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.TRANSFORMATION_MYSTICAL_CREATURE",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Turns back into the Mystical Creature. Instantly gains another turn, afterwards. (Reusable in 2 turns)"
+				}
+			],
+			"desc": "Turns back into the Mystical Creature. Instantly gains another turn, afterwards. (Reusable in 2 turns)"
+		},
+		{
+			"id": 27615,
+			"translate_id": "ALEXANDRA.TRANSFORMATION_HUMAN_FORM",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.transformation_human_form.jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.TRANSFORMATION_HUMAN_FORM",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Transformation: Human Form"
+				}
+			],
+			"name": "Transformation: Human Form",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.TRANSFORMATION_HUMAN_FORM",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Transforms into a Human Form and you'll be able to use a new skill. The Attack Power will be increased proportionate to your MAX HP in Human Form, but your MAX HP will be decreased by 50%. Instantly gains another turn after the transformation. (Reusable in 2 turns)"
+				}
+			],
+			"desc": "Transforms into a Human Form and you'll be able to use a new skill. The Attack Power will be increased proportionate to your MAX HP in Human Form, but your MAX HP will be decreased by 50%. Instantly gains another turn after the transformation. (Reusable in 2 turns)"
+		},
+		{
+			"id": 27613,
+			"translate_id": "ALEXANDRA.NATURE'S_PROTECTION",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.nature's_protection.jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.NATURE'S_PROTECTION",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Nature's Protection"
+				}
+			],
+			"name": "Nature's Protection",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.NATURE'S_PROTECTION",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Creates a shield that's 30% of your MAX HP for 3 turns and creates a shield that's 20% of your MAX HP on all other allies for 2 turns. (Reusable in 5 turns)"
+				}
+			],
+			"desc": "Creates a shield that's 30% of your MAX HP for 3 turns and creates a shield that's 20% of your MAX HP on all other allies for 2 turns. (Reusable in 5 turns)",
+			"evolve_translates": [
+				{
+					"id": "ALEXANDRA.NATURE'S_PROTECTION",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Shield +5%<br/>Lv.3 Shield +5%<br/>Lv.4 Shield +10%<br/>Lv.5 Cooltime Turn -1<br/>Lv.6 Cooltime Turn -1"
+				}
+			],
+			"evolve": "Lv.2 Shield +5%<br/>Lv.3 Shield +5%<br/>Lv.4 Shield +10%<br/>Lv.5 Cooltime Turn -1<br/>Lv.6 Cooltime Turn -1"
+		},
+		{
+			"id": 27612,
+			"translate_id": "ALEXANDRA.DARK_HORN",
+			"type": "ACTIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.dark_horn.jpg",
+			"modifier": "180%+12%",
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.DARK_HORN",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Dark Horn"
+				}
+			],
+			"name": "Dark Horn",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.DARK_HORN",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Attacks and Stuns the enemy for 1 turn with a 25% chance. The damage increases accordingly to your MAX HP."
+				}
+			],
+			"desc": "Attacks and Stuns the enemy for 1 turn with a 25% chance. The damage increases accordingly to your MAX HP.",
+			"evolve_translates": [
+				{
+					"id": "ALEXANDRA.DARK_HORN",
+					"type": "SKILL_EVOLVE",
+					"langcode": "EN",
+					"translation": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+				}
+			],
+			"evolve": "Lv.2 Damage +5%<br/>Lv.3 Harmful Effect Rate +5%<br/>Lv.4 Damage +10%<br/>Lv.5 Harmful Effect Rate +10%<br/>Lv.6 Damage +10%<br/>Lv.7 Harmful Effect Rate +10%"
+		},
+		{
+			"id": 27614,
+			"translate_id": "ALEXANDRA.OTHER_SIDE_OF_THE_MOON_(PASSIVE)",
+			"type": "PASSIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.other_side_of_the_moon_(passive).jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.OTHER_SIDE_OF_THE_MOON_(PASSIVE)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Other Side of the Moon (Passive)"
+				}
+			],
+			"name": "Other Side of the Moon (Passive)",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.OTHER_SIDE_OF_THE_MOON_(PASSIVE)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Reflects 30% of the received damage back to the enemy. [Automatic Effect]"
+				}
+			],
+			"desc": "Reflects 30% of the received damage back to the enemy. [Automatic Effect]"
+		},
+		{
+			"id": 27618,
+			"translate_id": "ALEXANDRA.SOARING_WINGS_(PASSIVE)",
+			"type": "PASSIVE",
+			"icon_path": "https://cdn.shinsoft.fr/sw/skill/icon/skill-alexandra.soaring_wings_(passive).jpg",
+			"modifier": null,
+			"req_awaken": 0,
+			"stage": null,
+			"stage_parent_id": null,
+			"parent_id": null,
+			"name_translates": [
+				{
+					"id": "ALEXANDRA.SOARING_WINGS_(PASSIVE)",
+					"type": "SKILL_NAME",
+					"langcode": "EN",
+					"translation": "Soaring Wings (Passive)"
+				}
+			],
+			"name": "Soaring Wings (Passive)",
+			"desc_translates": [
+				{
+					"id": "ALEXANDRA.SOARING_WINGS_(PASSIVE)",
+					"type": "SKILL_DESC",
+					"langcode": "EN",
+					"translation": "Increases your Attack Bar by 25% with each attack if you land a Critical Hit. [Automatic Effect]"
+				}
+			],
+			"desc": "Increases your Attack Bar by 25% with each attack if you land a Critical Hit. [Automatic Effect]"
+		}
+	],
+	"stats": [
+		{
+			"summon_id": 541,
+			"grade": 5,
+			"level": 1,
+			"awakened": 0,
+			"atk": 280,
+			"hp": 4920,
+			"def": 247,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 541,
+			"grade": 5,
+			"level": 1,
+			"awakened": 1,
+			"atk": 304,
+			"hp": 5415,
+			"def": 261,
+			"spd": 100,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 541,
+			"grade": 5,
+			"level": 35,
+			"awakened": 0,
+			"atk": 476,
+			"hp": 8355,
+			"def": 420,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 541,
+			"grade": 5,
+			"level": 35,
+			"awakened": 1,
+			"atk": 517,
+			"hp": 9195,
+			"def": 444,
+			"spd": 100,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 541,
+			"grade": 6,
+			"level": 1,
+			"awakened": 0,
+			"atk": 381,
+			"hp": 6690,
+			"def": 336,
+			"spd": 99,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 541,
+			"grade": 6,
+			"level": 1,
+			"awakened": 1,
+			"atk": 413,
+			"hp": 7365,
+			"def": 355,
+			"spd": 100,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 541,
+			"grade": 6,
+			"level": 40,
+			"awakened": 0,
+			"atk": 648,
+			"hp": 11370,
+			"def": 571,
+			"spd": 100,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		},
+		{
+			"summon_id": 541,
+			"grade": 6,
+			"level": 40,
+			"awakened": 1,
+			"atk": 703,
+			"hp": 12510,
+			"def": 604,
+			"spd": 100,
+			"crit_rate": 15,
+			"crit_dmg": 50,
+			"res": 15,
+			"acc": 0
+		}
+	],
+	"statsfix": {
+		"0": {
+			"spd": "99",
+			"crit_rate": "15",
+			"crit_dmg": "50",
+			"res": "15",
+			"acc": "0"
+		},
+		"1": {
+			"spd": "100",
+			"crit_rate": "15",
+			"crit_dmg": "50",
+			"res": "15",
+			"acc": "0"
+		}
+	},
+	"same_as": [
+		{
+			"id": 540,
+			"name": "Eleanor",
+			"name_translation": {
+				"EN": "Eleanor"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-eleanor.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-eleanor.png",
+			"grade": 5,
+			"last_update_ts": "1587632720",
+			"type_id": 98,
+			"type": {
+				"tid": "UNICORN"
+			},
+			"attribute_id": 4,
+			"attribute": {
+				"tid": "LIGHT"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 538,
+			"name": "Amelia",
+			"name_translation": {
+				"EN": "Amelia"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-amelia.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-amelia.png",
+			"grade": 5,
+			"last_update_ts": "1587632722",
+			"type_id": 98,
+			"type": {
+				"tid": "UNICORN"
+			},
+			"attribute_id": 3,
+			"attribute": {
+				"tid": "WATER"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 539,
+			"name": "Diana",
+			"name_translation": {
+				"EN": "Diana"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-diana.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-diana.png",
+			"grade": 5,
+			"last_update_ts": "1587632724",
+			"type_id": 98,
+			"type": {
+				"tid": "UNICORN"
+			},
+			"attribute_id": 1,
+			"attribute": {
+				"tid": "WIND"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"reviews_summary": null
+		},
+		{
+			"id": 537,
+			"name": "Helena",
+			"name_translation": {
+				"EN": "Helena"
+			},
+			"icon_path": "https://cdn.shinsoft.fr/sw/summon/icon/std/icon-helena.png",
+			"icon_path_awakened": "https://cdn.shinsoft.fr/sw/summon/icon/awaken/icon-helena.png",
+			"grade": 5,
+			"last_update_ts": "1587632726",
+			"type_id": 98,
+			"type": {
+				"tid": "UNICORN"
+			},
+			"attribute_id": 2,
+			"attribute": {
+				"tid": "FIRE"
+			},
+			"class_id": 4,
+			"class": {
+				"tid": "HP"
+			},
+			"reviews_summary": null
+		}
+	],
+	"runes": [
+		{
+			"build": {
+				"id": 1,
+				"name": "Early/Mid Game",
+				"comment": "<p>Build assez facile a mettre en place mais qui ne montre pas le plein potentiel de la licorne.</p><p><br></p>",
+				"usages": 0,
+				"user_id": 11525,
+				"validated": 1,
+				"like": 0,
+				"like_by": null,
+				"dislike": 0,
+				"dislike_by": null,
+				"create_date": "2017-08-14 17:22:11",
+				"create_date_ts": 1502724131,
+				"author": {
+					"id": 11525,
+					"name": "vincent sufo",
+					"title": null,
+					"know_more": null,
+					"avatar": "",
+					"contrib": 5,
+					"langcode": "FR",
+					"permissions": {
+						"logged": true
+					}
+				},
+				"recommanded": false
+			},
+			"runes": [
+				{
+					"id": 1,
+					"idx": 1,
+					"stat": "ATK",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 2,
+					"stat": "SPD",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 3,
+					"stat": "DEF",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 4,
+					"stat": "HP_PERCENT",
+					"set_id": 2,
+					"set": {
+						"id": 2,
+						"tid": "ENERGY",
+						"nb_req": 2,
+						"location_id": 1,
+						"location": {
+							"id": 1,
+							"tid": "GAREN_FOREST"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 5,
+					"stat": "HP",
+					"set_id": 3,
+					"set": {
+						"id": 3,
+						"tid": "BLADE",
+						"nb_req": 2,
+						"location_id": 3,
+						"location": {
+							"id": 3,
+							"tid": "KABIR_RUINS"
+						}
+					}
+				},
+				{
+					"id": 1,
+					"idx": 6,
+					"stat": "HP_PERCENT",
+					"set_id": 3,
+					"set": {
+						"id": 3,
+						"tid": "BLADE",
+						"nb_req": 2,
+						"location_id": 3,
+						"location": {
+							"id": 3,
+							"tid": "KABIR_RUINS"
+						}
+					}
+				}
+			],
+			"recap": {
+				"sets": {
+					"0": "ENERGY",
+					"4": "BLADE"
+				},
+				"slots": [
+					{
+						"stat": "ATK",
+						"set_tid": "ENERGY"
+					},
+					{
+						"stat": "SPD",
+						"set_tid": "ENERGY"
+					},
+					{
+						"stat": "DEF",
+						"set_tid": "ENERGY"
+					},
+					{
+						"stat": "HP_PERCENT",
+						"set_tid": "ENERGY"
+					},
+					{
+						"stat": "HP",
+						"set_tid": "BLADE"
+					},
+					{
+						"stat": "HP_PERCENT",
+						"set_tid": "BLADE"
+					}
+				]
+			}
+		}
+	],
+	"comments": [
+		{
+			"id": 3244,
+			"parent_id": null,
+			"summon_id": 541,
+			"user_id": 7779,
+			"title": "Mauvaise notation !",
+			"comment": "<p>Je n'ai pas la chance d'avoir cette petite licorne dark mais je pense que la personne l'ayant classée en \"food\" n'a pas dû bien lire ses skills.</p><p>Un passif en forme licorne qui renvoie 30% des dégâts infligés à l'ennemi c'est juste énorme ! Rien que ça pour un monstre PV c'est vraiment excellent ! Et encore je ne m'attarde pas sur ses stuns, son bouclier etc etc... Ca doit être une sacré plaie en défense arène.</p><p>De mémoire il n'y a que quelques monstres qui utilisent le \"reflect\" :  Serpent feu, Yeti eau, élémentaire dark, et la momie feu mais pour elle ce n'est pas un skill, c'est un passif !</p><p><br></p><p>A ne surtout pas fooder, et à runer en sac à PV !</p>",
+			"langcode": "EN",
+			"last_update": "2017-09-26 22:26:50",
+			"last_update_ts": "1506457610000",
+			"author": {
+				"id": 7779,
+				"name": "*diXit*",
+				"title": null,
+				"know_more": "<p>Salut à tous, juste un petit mot pour me présenter : Je joue à SW depuis un petit moment déjà et comme beaucoup d'entre vous, je suis addict :) j'ai épluché énormément de guides, vidéos, streaming afin de pouvoir maintenant partager mes petites connaissances avec vous. Alors si vous avez des questions n'hésitez pas, je n'ai pas forcément réponse à tout mais je ferais de mon mieux :)</p><p><br></p><p>Amicalement.</p><p><br></p><p><strong><em>*diXit*</em></strong></p>",
+				"avatar": "",
+				"contrib": 913,
+				"langcode": "FR",
+				"permissions": {
+					"logged": true,
+					"moderator": true,
+					"donator": true,
+					"translator": true
+				},
+				"groups": [
+					{
+						"id": 2,
+						"name": "Moderator",
+						"name_tid": "USER_MODERATOR",
+						"description": "SW-DB moderators",
+						"label": {
+							"name": "Mod",
+							"color": "warn"
+						}
+					},
+					{
+						"id": 3,
+						"name": "PRO",
+						"name_tid": "USER_DONATOR",
+						"description": "SW-DB Pro version"
+					},
+					{
+						"id": 6,
+						"name": "Translator",
+						"name_tid": "USER_TRANSLATOR",
+						"description": "SW-DB Translators"
+					}
+				]
+			},
+			"like": {
+				"nb": 1,
+				"user_id": [
+					13826
+				],
+				"by": "gwcerbere"
+			}
+		}
+	],
+	"all_comments": [
+		{
+			"date": "1506457610000"
+		}
+	],
+	"location": [
+		{
+			"summon_id": 541,
+			"location_id": 100,
+			"tid": "MYSTIC_SCROLL"
+		},
+		{
+			"summon_id": 541,
+			"location_id": 104,
+			"tid": "DARK_LIGHT_SCROLL"
+		},
+		{
+			"summon_id": 541,
+			"location_id": 106,
+			"tid": "WATER_SCROLL"
+		},
+		{
+			"summon_id": 541,
+			"location_id": 108,
+			"tid": "LEGENDARY_SCROLL"
+		},
+		{
+			"summon_id": 541,
+			"location_id": 111,
+			"tid": "TEMPLE_OF_WISHES"
+		}
+	],
+	"radar": {
+		"summon": {
+			"atk": 1.04,
+			"hp": 1.26,
+			"def": 1.03,
+			"spd": 0.97,
+			"acc": 0,
+			"res": 0.88,
+			"crit_rate": 0.88,
+			"crit_dmg": 1,
+			"total": 4.3
+		},
+		"max": {
+			"atk": 1.62,
+			"hp": 1.55,
+			"def": 1.5,
+			"spd": 1.22,
+			"acc": 8.33,
+			"res": 2.35,
+			"crit_rate": 1.76,
+			"crit_dmg": 1
+		}
+	},
+	"rank_stats": {
+		"atk": "332",
+		"hp": "23",
+		"def": "374",
+		"spd": "4194",
+		"crit_rate": "1557",
+		"crit_dmg": "1209",
+		"res": "1476",
+		"acc": "1496"
+	},
+	"views": {
+		"count": 5197,
+		"last_view": "2020-06-18 15:57:32",
+		"last_view_ts": "1592488652"
+	},
+	"key": "SWDB-FullInfo-541-EN-r0,f0,a0,a0,s0,l0,s0,f0,r0,f0,c0,l0,r0,t0,v0,r0,f1,m0,n0-Protocol(HTTPS)-@@SUMMON@@",
+	"favorite": false
+}
